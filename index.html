@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conference Deadline Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎓 Conference Manager</h1>
+        
+        <div class="controls">
+            <div class="control-group">
+                <h3>📚 Research Areas</h3>
+                <div class="filter-buttons" id="areaFilters">
+                    <!-- Area filters will be populated dynamically -->
+                </div>
+            </div>
+            
+            <div class="control-group">
+                <h3>🏆 CCF Rankings</h3>
+                <div class="filter-buttons" id="ccfFilters">
+                    <!-- CCF filters will be populated dynamically -->
+                </div>
+            </div>
+
+            <div class="control-group">
+                <h3>📅 Conference Status</h3>
+                <div class="filter-buttons">
+                    <button class="filter-btn status-btn active" id="upcomingBtn" onclick="toggleStatusFilter('upcoming')">
+                        Upcoming Conferences
+                    </button>
+                    <button class="filter-btn status-btn" id="passedBtn" onclick="toggleStatusFilter('passed')">
+                        Passed Conferences
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="action-buttons">
+            <button class="action-btn select-all-btn" onclick="toggleSelectAll()">Select All Visible</button>
+            <button class="action-btn export-btn" onclick="exportToICS()" id="exportBtn" disabled>
+                Export Selected to Calendar (.ics)
+            </button>
+            <button class="action-btn clear-btn" onclick="clearSelections()">Clear Selections</button>
+        </div>
+
+        <div class="table-container">
+            <div class="stats" id="statsBar">
+                <span>Loading conferences...</span>
+            </div>
+            <div class="loading" id="loadingDiv">Loading conference data...</div>
+            <table id="conferenceTable" style="display: none;">
+                <thead>
+                    <tr>
+                        <th class="checkbox-cell">
+                            <input type="checkbox" id="selectAllCheckbox" onchange="toggleSelectAll()">
+                        </th>
+                        <th class="sortable" onclick="sortTable('deadline')">Deadline</th>
+                        <th class="sortable" onclick="sortTable('full')">Conference</th>
+                        <th class="sortable" onclick="sortTable('year')">Year</th>
+                        <th class="sortable" onclick="sortTable('ccf_type')">CCF</th>
+                        <th class="sortable" onclick="sortTable('area')">Area</th>
+                    </tr>
+                </thead>
+                <tbody id="conferenceTableBody">
+                    <!-- Conference data will be populated here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

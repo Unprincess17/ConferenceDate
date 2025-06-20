@@ -1,0 +1,395 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+    font-weight: 600;
+}
+
+.controls {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    border: 1px solid #e1e8ed;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.control-group {
+    margin-bottom: 20px;
+}
+
+.control-group:last-child {
+    margin-bottom: 0;
+}
+
+.controls .control-group:first-child {
+    width: 100%;
+}
+
+/* Make CCF Rankings and Conference Status inline */
+.controls .control-group:nth-child(2),
+.controls .control-group:nth-child(3) {
+    flex: 1;
+    width: 48%;
+    box-sizing: border-box;
+}
+
+.controls .control-group:nth-child(2) {
+    margin-right: 4%;
+}
+
+.control-group h3 {
+    margin-bottom: 12px;
+    color: #34495e;
+    font-size: 1.1em;
+}
+
+.filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.filter-btn {
+    padding: 8px 16px;
+    border: 2px solid #3498db;
+    background: white;
+    color: #3498db;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.filter-btn:hover {
+    background: #ecf0f1;
+    transform: translateY(-1px);
+}
+
+.filter-btn.active {
+    background: #3498db;
+    color: white;
+    box-shadow: 0 2px 4px rgba(52, 152, 219, 0.3);
+}
+
+.filter-btn.ccf-a {
+    border-color: #e74c3c;
+    color: #e74c3c;
+}
+
+.filter-btn.ccf-a.active {
+    background: #e74c3c;
+    color: white;
+}
+
+.filter-btn.ccf-b {
+    border-color: #f39c12;
+    color: #f39c12;
+}
+
+.filter-btn.ccf-b.active {
+    background: #f39c12;
+    color: white;
+}
+
+.filter-btn.ccf-c {
+    border-color: #27ae60;
+    color: #27ae60;
+}
+
+.filter-btn.ccf-c.active {
+    background: #27ae60;
+    color: white;
+}
+
+.status-btn {
+    border-color: #9b59b6;
+    color: #9b59b6;
+}
+
+.status-btn.active {
+    background: #9b59b6;
+    color: white;
+}
+
+.action-buttons {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.action-btn {
+    padding: 10px 20px;
+    margin: 0 8px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.95em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.export-btn {
+    background: #27ae60;
+    color: white;
+}
+
+.export-btn:hover {
+    background: #229954;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(39, 174, 96, 0.3);
+}
+
+.export-btn:disabled {
+    background: #bdc3c7;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+.select-all-btn {
+    background: #3498db;
+    color: white;
+}
+
+.select-all-btn:hover {
+    background: #2980b9;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+}
+
+.clear-btn {
+    background: #e74c3c;
+    color: white;
+}
+
+.clear-btn:hover {
+    background: #c0392b;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(231, 76, 60, 0.3);
+}
+
+.table-container {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border: 1px solid #e1e8ed;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #e1e8ed;
+}
+
+th {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+th:hover {
+    background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+}
+
+th.sortable::after {
+    content: ' ↕';
+    opacity: 0.5;
+}
+
+th.sort-asc::after {
+    content: ' ↑';
+    opacity: 1;
+}
+
+th.sort-desc::after {
+    content: ' ↓';
+    opacity: 1;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+tr:hover {
+    background-color: #e3f2fd;
+    transition: background-color 0.2s ease;
+}
+
+.ccf-badge {
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    min-width: 20px;
+    text-align: center;
+}
+
+.ccf-a { background: #e74c3c; }
+.ccf-b { background: #f39c12; }
+.ccf-c { background: #27ae60; }
+.ccf-other { background: #95a5a6; }
+
+.area-badge {
+    padding: 3px 8px;
+    border-radius: 8px;
+    font-size: 0.75em;
+    background: #ecf0f1;
+    color: #2c3e50;
+    display: inline-block;
+}
+
+.deadline-cell {
+    font-weight: 600;
+}
+
+.deadline-urgent {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.deadline-soon {
+    color: #f39c12;
+    font-weight: bold;
+}
+
+.deadline-normal {
+    color: #27ae60;
+}
+
+.conference-name {
+    font-weight: 500;
+    max-width: 300px;
+}
+
+.conference-full {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-top: 2px;
+}
+
+.checkbox-cell {
+    text-align: center;
+    width: 50px;
+}
+
+.checkbox-cell input[type="checkbox"] {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.loading {
+    text-align: center;
+    padding: 50px;
+    font-size: 1.2em;
+    color: #7f8c8d;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background: #f8f9fa;
+    border-bottom: 1px solid #e1e8ed;
+    font-weight: 500;
+    color: #495057;
+    font-size: 0.9em;
+}
+
+.passed-row {
+    opacity: 0.7;
+    background-color: #f8f9fa !important;
+}
+
+.passed-row:hover {
+    background-color: #e9ecef !important;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+
+    .controls {
+        padding: 15px;
+    }
+
+    .filter-buttons {
+        justify-content: center;
+    }
+
+    .action-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .action-btn {
+        margin: 5px 0;
+        width: 200px;
+    }
+
+    table {
+        font-size: 0.9em;
+    }
+
+    th, td {
+        padding: 8px 10px;
+    }
+
+    .conference-name {
+        max-width: 200px;
+    }
+
+    .stats {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+    }
+
+    /* Stack control groups vertically on mobile */
+    .controls .control-group:nth-child(2),
+    .controls .control-group:nth-child(3) {
+        display: block;
+        width: 100%;
+        margin-right: 0;
+    }
+} 
