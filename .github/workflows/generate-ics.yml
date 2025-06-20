@@ -1,0 +1,41 @@
+name: Generate Conference ICS Files
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths: 
+      - 'generate-ics.js'
+      - '.github/workflows/generate-ics.yml'
+
+jobs:
+  generate-ics:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+      
+    - name: Generate ICS files
+      run: node generate-ics.js
+      
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add ics/
+        git add source/
+        if ! git diff --staged --quiet; then
+          git commit -m "🗓️ Auto-update conference ICS files - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git push
+        else
+          echo "No changes to commit"
+        fi 
