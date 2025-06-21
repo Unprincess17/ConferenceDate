@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadline Manager//Database-Mining Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Database-Mining Conference Deadlines
+X-WR-CALDESC:Conference deadlines for Database / Data Mining / Information Retrieval
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
