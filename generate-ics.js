@@ -303,11 +303,16 @@ async function main() {
 }
 
 function generateReadme() {
-    const repoUrl = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/ics';
+    // GitHub Pages URL format: https://USERNAME.github.io/REPO_NAME/ics/
+    const repoUrl = 'https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/ics';
     
     let content = `# Conference Calendar Subscriptions
 
 These ICS files are automatically updated daily and can be subscribed to in your calendar application.
+
+**📍 Note**: Update the URLs below by replacing \`YOUR_USERNAME\` and \`YOUR_REPO_NAME\` with your actual GitHub username and repository name.
+
+**🏠 Main Website**: [https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
 
 ## 📅 Individual Research Areas
 

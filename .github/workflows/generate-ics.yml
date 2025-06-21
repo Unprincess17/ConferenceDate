@@ -5,15 +5,15 @@ on:
     # Run daily at 6:00 AM UTC (adjust timezone as needed)
     - cron: '0 6 * * *'
   workflow_dispatch: # Allow manual triggering
-  push:
-    branches: [ main ]
-    paths: 
-      - 'generate-ics.js'
-      - '.github/workflows/generate-ics.yml'
 
 jobs:
   generate-ics:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     
     steps:
     - name: Checkout repository
@@ -23,9 +23,38 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-      
+        
     - name: Generate ICS files
       run: node generate-ics.js
+      
+    - name: Prepare GitHub Pages content
+      run: |
+        # Create a temporary directory for GitHub Pages deployment
+        mkdir -p ./_site
+        
+        # Copy main website files to the root
+        cp index.html ./_site/
+        cp styles.css ./_site/
+        cp script.js ./_site/
+        cp -r source ./_site/
+        
+        # Copy ICS files to ics subdirectory
+        cp -r ics ./_site/
+        
+        # Optional: Copy other files you want to serve
+        # [ -f README.md ] && cp README.md ./_site/
+      
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './_site'
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
       
     - name: Commit and push if changes
       run: |
