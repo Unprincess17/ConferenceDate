@@ -59,7 +59,7 @@ async function loadConferenceData() {
     const fileNames = Object.keys(areaNames);
     const promises = fileNames.map(async fileName => {
         try {
-            const data = await (await fetch(`/source/${fileName}.json`)).json();
+            const data = await (await fetch(`./source/${fileName}.json`)).json();
             return data.data.map(conf => ({
                 ...conf,
                 area: areaNames[fileName],
