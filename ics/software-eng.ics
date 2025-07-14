@@ -11,7 +11,7 @@ UID:9311-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250725
 SUMMARY:ASE (A) - Deadline
-DESCRIPTION:Conference: ASE : International Conference on Automated Software Engineering\\nAbbreviation: ASE\\nYear: 2025\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Jul 25\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: ASE : International Conference on Automated Software Engineering\\nAbbreviation: ASE\\nYear: 2025\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Jul 25\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-A
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ UID:9304-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250815
 SUMMARY:SCAM (C) - Deadline
-DESCRIPTION:Conference: SCAM : International Working Conference on Source Code Analysis and Manipulation\\nAbbreviation: SCAM\\nYear: 2025\\nCCF Type: C\\nArea: Software Engineering\\nDeadline: Aug 15\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: SCAM : International Working Conference on Source Code Analysis and Manipulation\\nAbbreviation: SCAM\\nYear: 2025\\nCCF Type: C\\nArea: Software Engineering\\nDeadline: Aug 15\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-C
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -53,7 +53,7 @@ UID:9391-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250830
 SUMMARY:ISSTA (A) - Deadline
-DESCRIPTION:Conference: ISSTA : The International Symposium on Software Testing and Analysis\\nAbbreviation: ISSTA\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Aug 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: ISSTA : The International Symposium on Software Testing and Analysis\\nAbbreviation: ISSTA\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Aug 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-A
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -74,7 +74,7 @@ UID:9392-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250830
 DTEND;VALUE=DATE:20250830
 SUMMARY:OOPSLA (A) - Deadline
-DESCRIPTION:Conference: OOPSLA : Conference on Object-Oriented Programming Systems\, Languages\, and Applications\\nAbbreviation: OOPSLA\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Aug 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: OOPSLA : Conference on Object-Oriented Programming Systems\, Languages\, and Applications\\nAbbreviation: OOPSLA\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Aug 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-A
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -95,7 +95,7 @@ UID:9389-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250911
 SUMMARY:ESEC/FSE (A) - Deadline
-DESCRIPTION:Conference: ESEC/FSE : ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering\\nAbbreviation: ESEC/FSE\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Sep 11\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: ESEC/FSE : ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering\\nAbbreviation: ESEC/FSE\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Sep 11\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-A
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -116,7 +116,7 @@ UID:9390-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250925
 SUMMARY:ICSE (A) - Deadline
-DESCRIPTION:Conference: ICSE : International Conference on Software Engineering\\nAbbreviation: ICSE\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Sep 25\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: ICSE : International Conference on Software Engineering\\nAbbreviation: ICSE\\nYear: 2026\\nCCF Type: A\\nArea: Software Engineering\\nDeadline: Sep 25\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-A
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -137,7 +137,7 @@ UID:9395-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251016
 SUMMARY:SANER (B) - Deadline
-DESCRIPTION:Conference: SANER : IEEE International Conference on Software Analysis\, Evolution and Reengineering\\nAbbreviation: SANER\\nYear: 2026\\nCCF Type: B\\nArea: Software Engineering\\nDeadline: Oct 16\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: SANER : IEEE International Conference on Software Analysis\, Evolution and Reengineering\\nAbbreviation: SANER\\nYear: 2026\\nCCF Type: B\\nArea: Software Engineering\\nDeadline: Oct 16\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-B
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -158,7 +158,7 @@ UID:9307-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251020
 SUMMARY:APSEC (C) - Deadline
-DESCRIPTION:Conference: APSEC : Asia-Pacific Software Engineering Conference\\nAbbreviation: APSEC\\nYear: 2025\\nCCF Type: C\\nArea: Software Engineering\\nDeadline: Oct 20\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: APSEC : Asia-Pacific Software Engineering Conference\\nAbbreviation: APSEC\\nYear: 2025\\nCCF Type: C\\nArea: Software Engineering\\nDeadline: Oct 20\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-C
 LOCATION:Software Engineering
 STATUS:CONFIRMED
@@ -179,7 +179,7 @@ UID:9394-080104@conference-deadline-manager
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251030
 SUMMARY:ETAPS (B) - Deadline
-DESCRIPTION:Conference: ETAPS : European Joint Conferences on Theory and Practice of Software\\nAbbreviation: ETAPS\\nYear: 2026\\nCCF Type: B\\nArea: Software Engineering\\nDeadline: Oct 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-13
+DESCRIPTION:Conference: ETAPS : European Joint Conferences on Theory and Practice of Software\\nAbbreviation: ETAPS\\nYear: 2026\\nCCF Type: B\\nArea: Software Engineering\\nDeadline: Oct 30\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-07-14
 CATEGORIES:Software Engineering,CCF-B
 LOCATION:Software Engineering
 STATUS:CONFIRMED
