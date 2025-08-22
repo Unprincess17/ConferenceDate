@@ -6,25 +6,4 @@ METHOD:PUBLISH
 X-WR-CALNAME:Graphics-Media Conference Deadlines
 X-WR-CALDESC:Conference deadlines for Computer Graphics & Multimedia
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-UID:9352-080107@conference-deadline-manager
-DTSTART;VALUE=DATE:20250822
-DTEND;VALUE=DATE:20250822
-SUMMARY:ICVRV (C) - Deadline
-DESCRIPTION:Conference: ICVRV : International Conference on Virtual Reality and Visualization\\nAbbreviation: ICVRV\\nYear: 2025\\nCCF Type: C\\nArea: Computer Graphics\\nDeadline: Aug 22\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-08-21
-CATEGORIES:Computer Graphics,CCF-C
-LOCATION:Computer Graphics
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ICVRV deadline in 7 days
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Final reminder: ICVRV deadline tomorrow!
-END:VALARM
-END:VEVENT
 END:VCALENDAR
