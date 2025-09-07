@@ -11,7 +11,7 @@ UID:9379-080101@conference-deadline-manager
 DTSTART;VALUE=DATE:20250911
 DTEND;VALUE=DATE:20250911
 SUMMARY:CGO (B) - Deadline
-DESCRIPTION:Conference: CGO : Code Generation and Optimization\\nAbbreviation: CGO\\nYear: 2026\\nCCF Type: B\\nArea: Computer Architecture\\nDeadline: Sep 11\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-06
+DESCRIPTION:Conference: CGO : Code Generation and Optimization\\nAbbreviation: CGO\\nYear: 2026\\nCCF Type: B\\nArea: Computer Architecture\\nDeadline: Sep 11\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-07
 CATEGORIES:Computer Architecture,CCF-B
 LOCATION:Computer Architecture
 STATUS:CONFIRMED
@@ -32,7 +32,7 @@ UID:9380-080101@conference-deadline-manager
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250915
 SUMMARY:DATE (B) - Deadline
-DESCRIPTION:Conference: DATE : Design\, Automation & Test in Europe Conference\\nAbbreviation: DATE\\nYear: 2026\\nCCF Type: B\\nArea: Computer Architecture\\nDeadline: Sep 15\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-06
+DESCRIPTION:Conference: DATE : Design\, Automation & Test in Europe Conference\\nAbbreviation: DATE\\nYear: 2026\\nCCF Type: B\\nArea: Computer Architecture\\nDeadline: Sep 15\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-07
 CATEGORIES:Computer Architecture,CCF-B
 LOCATION:Computer Architecture
 STATUS:CONFIRMED
@@ -53,7 +53,7 @@ UID:9377-080101@conference-deadline-manager
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250916
 SUMMARY:FAST (A) - Deadline
-DESCRIPTION:Conference: FAST : Conference on File and Storage Technologies\\nAbbreviation: FAST\\nYear: 2026\\nCCF Type: A\\nArea: Computer Architecture\\nDeadline: Sep 16\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-06
+DESCRIPTION:Conference: FAST : Conference on File and Storage Technologies\\nAbbreviation: FAST\\nYear: 2026\\nCCF Type: A\\nArea: Computer Architecture\\nDeadline: Sep 16\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-07
 CATEGORIES:Computer Architecture,CCF-A
 LOCATION:Computer Architecture
 STATUS:CONFIRMED
@@ -74,7 +74,7 @@ UID:9384-080101@conference-deadline-manager
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251201
 SUMMARY:ETS (C) - Deadline
-DESCRIPTION:Conference: ETS : IEEE European Test Symposium\\nAbbreviation: ETS\\nYear: 2026\\nCCF Type: C\\nArea: Computer Architecture\\nDeadline: Dec 1\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-06
+DESCRIPTION:Conference: ETS : IEEE European Test Symposium\\nAbbreviation: ETS\\nYear: 2026\\nCCF Type: C\\nArea: Computer Architecture\\nDeadline: Dec 1\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-07
 CATEGORIES:Computer Architecture,CCF-C
 LOCATION:Computer Architecture
 STATUS:CONFIRMED
