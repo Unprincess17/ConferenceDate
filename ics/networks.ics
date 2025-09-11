@@ -7,32 +7,11 @@ X-WR-CALNAME:Networks Conference Deadlines
 X-WR-CALDESC:Conference deadlines for Computer Networks
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:9385-080102@conference-deadline-manager
-DTSTART;VALUE=DATE:20250911
-DTEND;VALUE=DATE:20250911
-SUMMARY:NSDI (A) - Deadline
-DESCRIPTION:Conference: NSDI : Symposium on Networked Systems Design and Implementation\\nAbbreviation: NSDI\\nYear: 2026\\nCCF Type: A\\nArea: Computer Networks\\nDeadline: Sep 11\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-10
-CATEGORIES:Computer Networks,CCF-A
-LOCATION:Computer Networks
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NSDI deadline in 7 days
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Final reminder: NSDI deadline tomorrow!
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:9386-080102@conference-deadline-manager
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250929
 SUMMARY:ICC (C) - Deadline
-DESCRIPTION:Conference: ICC : IEEE International Conference on Communications\\nAbbreviation: ICC\\nYear: 2026\\nCCF Type: C\\nArea: Computer Networks\\nDeadline: Sep 29\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-10
+DESCRIPTION:Conference: ICC : IEEE International Conference on Communications\\nAbbreviation: ICC\\nYear: 2026\\nCCF Type: C\\nArea: Computer Networks\\nDeadline: Sep 29\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-11
 CATEGORIES:Computer Networks,CCF-C
 LOCATION:Computer Networks
 STATUS:CONFIRMED
