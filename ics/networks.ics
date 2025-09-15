@@ -11,7 +11,7 @@ UID:9386-080102@conference-deadline-manager
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250929
 SUMMARY:ICC (C) - Deadline
-DESCRIPTION:Conference: ICC : IEEE International Conference on Communications\\nAbbreviation: ICC\\nYear: 2026\\nCCF Type: C\\nArea: Computer Networks\\nDeadline: Sep 29\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-14
+DESCRIPTION:Conference: ICC : IEEE International Conference on Communications\\nAbbreviation: ICC\\nYear: 2026\\nCCF Type: C\\nArea: Computer Networks\\nDeadline: Sep 29\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-09-15
 CATEGORIES:Computer Networks,CCF-C
 LOCATION:Computer Networks
 STATUS:CONFIRMED
