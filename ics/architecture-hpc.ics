@@ -11,7 +11,7 @@ UID:9384-080101@conference-deadline-manager
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251201
 SUMMARY:ETS (C) - Deadline
-DESCRIPTION:Conference: ETS : IEEE European Test Symposium\\nAbbreviation: ETS\\nYear: 2026\\nCCF Type: C\\nArea: Computer Architecture\\nDeadline: Dec 1\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-11-27
+DESCRIPTION:Conference: ETS : IEEE European Test Symposium\\nAbbreviation: ETS\\nYear: 2026\\nCCF Type: C\\nArea: Computer Architecture\\nDeadline: Dec 1\, 2025\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2025-11-28
 CATEGORIES:Computer Architecture,CCF-C
 LOCATION:Computer Architecture
 STATUS:CONFIRMED
