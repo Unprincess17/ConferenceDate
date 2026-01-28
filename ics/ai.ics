@@ -11,7 +11,7 @@ UID:9355-080108@conference-deadline-manager
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260306
 SUMMARY:ECCV (B) - Deadline
-DESCRIPTION:Conference: ECCV : European Conference on Computer Vision\\nAbbreviation: ECCV\\nYear: 2026\\nCCF Type: B\\nArea: Machine Learning\\nDeadline: Mar 6\, 2026\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2026-01-27
+DESCRIPTION:Conference: ECCV : European Conference on Computer Vision\\nAbbreviation: ECCV\\nYear: 2026\\nCCF Type: B\\nArea: Machine Learning\\nDeadline: Mar 6\, 2026\\n\\nAuto-generated from Conference Deadline Manager\\nLast updated: 2026-01-28
 CATEGORIES:Machine Learning,CCF-B
 LOCATION:Machine Learning
 STATUS:CONFIRMED
