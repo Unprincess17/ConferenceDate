@@ -64,5 +64,5 @@ These calendars are automatically updated daily at 6:00 AM UTC with the latest c
 
 ---
 
-*Last updated: 2026-02-04*  
+*Last updated: 2026-02-05*  
 *Generated automatically by [Conference Deadline Manager](../README.md)*
