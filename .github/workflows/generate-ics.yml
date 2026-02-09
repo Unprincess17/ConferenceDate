@@ -23,16 +23,7 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        # 如果你有 package-lock.json，这里会自动处理缓存
-        cache: 'npm' 
         
-    - name: Install dependencies
-      # 爬虫脚本通常需要第三方库 (如 axios, cheerio 等)，必须先安装
-      run: |
-        if [ -f package.json ]; then
-          npm ci
-        fi
-
     - name: Fetch Conference Data (Weekly)
       # 逻辑：如果是手动触发 OR 今天是周一 (date +%u = 1)，则执行爬虫
       run: |
