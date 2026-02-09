@@ -2,12 +2,12 @@ name: Generate Conference ICS Files
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC (adjust timezone as needed)
+    # 每天 UTC 时间 06:00 运行 (北京时间 14:00)
     - cron: '0 6 * * *'
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  generate-ics:
+  update-and-generate:
     runs-on: ubuntu-latest
     
     permissions:
@@ -23,26 +23,41 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
+        # 如果你有 package-lock.json，这里会自动处理缓存
+        cache: 'npm' 
         
+    - name: Install dependencies
+      # 爬虫脚本通常需要第三方库 (如 axios, cheerio 等)，必须先安装
+      run: |
+        if [ -f package.json ]; then
+          npm ci
+        fi
+
+    - name: Fetch Conference Data (Weekly)
+      # 逻辑：如果是手动触发 OR 今天是周一 (date +%u = 1)，则执行爬虫
+      run: |
+        # 获取当前是周几 (1=周一, 7=周日)
+        DOW=$(date +%u)
+        
+        if [ "$DOW" -eq 1 ] || [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          echo "🚀 It is Monday (or manual trigger). Running fetch script..."
+          node fetch_conference_data.js
+        else
+          echo "💤 Not Monday. Skipping fetch script."
+        fi
+
     - name: Generate ICS files
+      # 始终运行，基于 source/ 下的数据（可能是刚爬下来的，也可能是旧的）生成最新的 ICS
       run: node generate-ics.js
       
     - name: Prepare GitHub Pages content
       run: |
-        # Create a temporary directory for GitHub Pages deployment
         mkdir -p ./_site
-        
-        # Copy main website files to the root
         cp index.html ./_site/
         cp styles.css ./_site/
         cp script.js ./_site/
         cp -r source ./_site/
-        
-        # Copy ICS files to ics subdirectory
         cp -r ics ./_site/
-        
-        # Optional: Copy other files you want to serve
-        # [ -f README.md ] && cp README.md ./_site/
       
     - name: Setup Pages
       uses: actions/configure-pages@v4
@@ -60,11 +75,21 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        # 你的爬虫脚本修改了 source，生成脚本修改了 ics，这里一起提交
         git add ics/
-        git add source/
+        git add source/ 
+        
+        # 检查是否有变动
         if ! git diff --staged --quiet; then
-          git commit -m "🗓️ Auto-update conference ICS files - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          # 动态生成 Commit 信息，区分是全量更新还是仅日历更新
+          if [ "$(date +%u)" -eq 1 ]; then
+             MSG="🚀 Weekly Update: Fetched new data & generated ICS"
+          else
+             MSG="🗓️ Daily Update: Regenerated ICS files"
+          fi
+          
+          git commit -m "$MSG - $(date -u +'%Y-%m-%d')"
           git push
         else
           echo "No changes to commit"
-        fi 
+        fi
