@@ -1,123 +1,192 @@
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
+const fetch = require('node-fetch');
+const { load } = require('js-yaml');
+const { parse_conference_data } = require('./parse_conference_data.js');
 
-// Define the tags and their corresponding names
-const suffix = {
-    "/ccf/ccf-1.html": "080101",
-    "/ccf/ccf-2.html": "080102",
-    "/ccf/ccf-3.html": "080103",
-    "/ccf/ccf-4.html": "080104",
-    "/ccf/ccf-5.html": "080105",
-    "/ccf/ccf-6.html": "080106",
-    "/ccf/ccf-7.html": "080107",
-    "/ccf/ccf-8.html": "080108",
-    "/ccf/ccf-9.html": "080109",
-    "/ccf/ccf-10.html": "080110"
+
+// Mapping from API category names to our area codes
+const CATEGORY_MAPPING = {
+    'AI': 'AI',    // 人工智能
+    'CG': 'CG',    // 计算机图形学
+    'CT': 'CT',    // 计算机科学理论
+    'DB': 'DB',    // 数据库/数据挖掘/内容检索
+    'DS': 'DS',    // 计算机体系结构/并行与分布计算
+    'HI': 'HI',    // 人机交互/普适计算
+    'MX': 'MX',    // 交叉/综合/新兴
+    'NW': 'NW',    // 计算机网络
+    'SC': 'SC',    // 网络与信息安全
+    'SE': 'SE',    // 软件工程/系统软件/程序设计语言
 };
 
-const name_convention = {
-    "080101": "计算机体系结构/高性能计算/存储系统",
-    "080102": "计算机网络",
-    "080103": "网络信息与安全",
-    "080104": "软件工程/系统软件/程序设计语言",
-    "080105": "数据库/数据挖掘/内容检索",
-    "080106": "计算机科学理论",
-    "080107": "计算机图形学与多媒体",
-    "080108": "人工智能",
-    "080109": "人机交互与普适计算",
-    "080110": "交叉/新兴／综合"
-};
+// Base URL for the CCF deadlines API
+const BASE_API_URL = 'https://api.github.com/repos/ccfddl/ccf-deadlines/contents/conference';
 
-// Function to fetch data for a specific tag
-async function fetchTagData(tag) {
-    const url = `https://www.call4papers.cn/dev-api/c4p/homepage/confCcf?field=${tag}`;
-    
+/**
+ * Fetch the list of conference categories from the API
+ */
+async function fetchCategoryList() {
     try {
-        console.log(`Fetching data for tag ${tag} (${name_convention[tag]})...`);
-        
-        const response = await fetch(url, {
-            "headers": {
-                "accept": "application/json, text/plain, */*",
-                "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5",
-                "sec-ch-ua": "\"Chromium\";v=\"136\", \"Microsoft Edge\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
-                "sec-ch-ua-mobile": "?0",
-                "sec-ch-ua-platform": "\"macOS\"",
-                "sec-fetch-dest": "empty",
-                "sec-fetch-mode": "cors",
-                "sec-fetch-site": "same-origin",
-                "Referer": "https://www.call4papers.cn/ccf/ccf-1.html",
-                "Referrer-Policy": "strict-origin-when-cross-origin"
-            },
-            "body": null,
-            "method": "GET"
-        });
-
+        const response = await fetch(`${BASE_API_URL}?ref=main`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-
         const data = await response.json();
         
-        // Save data to JSON file
-        const filePath = path.join('source', `${tag}.json`);
-        fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+        // Filter out the types.yml file and return only directories
+        const categories = data
+            .filter(item => item.type === 'dir')
+            .map(item => item.name);
         
-        console.log(`✓ Successfully saved data for tag ${tag} to ${filePath}`);
-        return data;
+        console.log('Found categories:', categories);
+        return categories;
+    } catch (error) {
+        console.error('Error fetching category list:', error);
+        throw error;
+    }
+}
+
+/**
+ * Fetch conference data for a specific category
+ */
+async function fetchCategoryData(category) {
+    try {
+        const response = await fetch(`${BASE_API_URL}/${category}?ref=main`);
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        const files = await response.json();
+        
+        const ymlFiles = files.filter(file => 
+            file.name.endsWith('.yml') && file.type === 'file'
+        );
+        
+        // Create a map with the current category as key
+        const conferences = Array();
+        
+        for (const file of ymlFiles) {
+            const fileResponse = await fetch(file.download_url);
+            if (!fileResponse.ok) {
+                console.warn(`Skipped ${file.name}: ${fileResponse.status}`);
+                continue;
+            }
+            
+            const yamlContent = await fileResponse.text();
+            const conference = parse_conference_data(yamlContent);
+            
+            
+            conferences.push(conference);
+           
+        }
+        
+        return conferences;
+    } catch (error) {
+        console.error(`Error in ${category}:`, error);
+        return { [category]: [] };  // Return empty map entry on error
+    }
+}
+
+/**
+ * Parse YAML content for CCF deadlines format
+ * The format: ./conference-yaml-schema.yml, but only remember the last year's conference and other information
+ */
+function parseYamlContent(yamlContent, category) {
+    const conferences = [];
+    
+    try {
+        let data = yaml.load(yamlContent);
         
     } catch (error) {
-        console.error(`✗ Error fetching data for tag ${tag}:`, error.message);
-        return null;
+        console.error(`Error parsing YAML for category ${category}:`, error);
     }
+    
+    return conferences;
 }
 
-// Function to fetch all tags
-async function fetchAllTags() {
-    console.log('Starting to fetch conference data for all tags...\n');
+/**
+ * Save conference data to JSON file
+ */
+async function saveConferenceData(areaCode, conferences) {
+    const sourceDir = 'source';
     
     // Ensure source directory exists
-    if (!fs.existsSync('source')) {
-        fs.mkdirSync('source');
-        console.log('Created source directory');
+    try {
+        await fs.access(sourceDir);
+    } catch {
+        await fs.mkdir(sourceDir, { recursive: true });
     }
     
-    const tags = Object.values(suffix);
-    const results = [];
+    const filePath = path.join(sourceDir, `${areaCode}.json`);
+    await fs.writeFile(filePath, JSON.stringify(conferences, null, 2), 'utf8');
     
-    // Fetch data for each tag with a small delay to avoid overwhelming the server
-    for (const tag of tags) {
-        const data = await fetchTagData(tag);
-        results.push({ tag, data, success: data !== null });
+    console.log(`Saved ${conferences.length} conferences to ${filePath}`);
+}
+
+/**
+ * Main function to fetch all conference data
+ */
+async function fetchAllConferenceData() {
+    try {
+        console.log('Starting to fetch conference data from CCF deadlines API...');
         
-        // Add a small delay between requests to be respectful to the server
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        // Get list of categories
+        const categories = await fetchCategoryList();
+        
+        // Process each category
+        for (const category of categories) {
+            if (!CATEGORY_MAPPING[category]) {
+                console.log(`Skipping unmapped category: ${category}`);
+                continue;
+            }
+            
+            console.log(`Processing category: ${category} -> ${CATEGORY_MAPPING[category]}`);
+            
+            // Fetch data for this category
+            const conferences = await fetchCategoryData(category);
+            
+            if (conferences.length > 0) {
+                // Save to corresponding area code file
+                await saveConferenceData(CATEGORY_MAPPING[category], conferences);
+            } else {
+                console.warn(`No conferences found for category: ${category}`);
+            }
+            
+            // Add a small delay to be respectful to the API
+            await new Promise(resolve => setTimeout(resolve, 1000));
+        }
+        
+        console.log('Conference data fetch completed successfully!');
+        
+    } catch (error) {
+        console.error('Error in fetchAllConferenceData:', error);
+        throw error;
     }
-    
-    // Summary
-    console.log('\n=== Summary ===');
-    const successful = results.filter(r => r.success).length;
-    const failed = results.filter(r => !r.success).length;
-    
-    console.log(`Total tags: ${tags.length}`);
-    console.log(`Successful: ${successful}`);
-    console.log(`Failed: ${failed}`);
-    
-    if (failed > 0) {
-        console.log('\nFailed tags:');
-        results.filter(r => !r.success).forEach(r => {
-            console.log(`- ${r.tag} (${name_convention[r.tag]})`);
-        });
-    }
-    
-    console.log('\nDone!');
 }
 
-// Check if fetch is available (Node.js 18+)
-if (typeof fetch === 'undefined') {
-    console.error('This script requires Node.js 18+ or you need to install node-fetch package.');
-    console.log('Run: npm install node-fetch');
-    process.exit(1);
+/**
+ * Fetch data for a specific category only
+ */
+async function fetchSpecificCategory(category) {
+    if (!CATEGORY_MAPPING[category]) {
+        throw new Error(`Unknown category: ${category}. Available: ${Object.keys(CATEGORY_MAPPING).join(', ')}`);
+    }
+    
+    console.log(`Fetching data for category: ${category}`);
+    const conferences = await fetchCategoryData(category);
+    
+    if (conferences.length > 0) {
+        await saveConferenceData(CATEGORY_MAPPING[category], conferences);
+        return conferences;
+    } else {
+        console.warn(`No conferences found for category: ${category}`);
+        return [];
+    }
 }
 
-// Run the script
-fetchAllTags().catch(console.error); 
+
+module.exports = {
+    fetchAllConferenceData,
+    fetchSpecificCategory,
+    fetchCategoryList,
+    CATEGORY_MAPPING
+  };
+
+fetchAllConferenceData();
