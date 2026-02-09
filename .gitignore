@@ -1,1 +1,5 @@
 .specstory/.what-is-this.md
+node_modules/
+source/
+tmp/
+.vscode
