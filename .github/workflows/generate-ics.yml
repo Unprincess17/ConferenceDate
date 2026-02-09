@@ -23,6 +23,10 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci  # 使用 npm ci (Clean Install) 是在 CI 环境中的最佳实践
         
     - name: Fetch Conference Data (Weekly)
       # 逻辑：如果是手动触发 OR 今天是周一 (date +%u = 1)，则执行爬虫
