@@ -1,0 +1,424 @@
+[
+  {
+    "title": "ASSETS",
+    "description": "ACM SIGACCESS Conference on Computers and Accessibility",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "assets",
+    "confs": {
+      "year": 2025,
+      "id": "assets25",
+      "link": "https://assets25.sigaccess.org/",
+      "timeline": [
+        {
+          "deadline": "2025-04-16 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Oct 26 - 29, 2025",
+      "place": "Denver, Colorado"
+    }
+  },
+  {
+    "title": "CHI",
+    "description": "ACM Conference on Human Factors in Computing Systems",
+    "sub": "HI",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "chi",
+    "confs": {
+      "year": 2026,
+      "id": "chi26",
+      "link": "https://chi2026.acm.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-04 23:59:59",
+          "deadline": "2025-09-11 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 13 - 17, 2026",
+      "place": "Centre de Convencions Internacional de Barcelona, Barcelona, Spain"
+    }
+  },
+  {
+    "title": "CollaborateCom",
+    "description": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "colcom",
+    "confs": {
+      "year": 2026,
+      "id": "collaboratecom26",
+      "link": "https://collaboratecom.eai-conferences.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-05-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "November 14-15, 2026",
+      "place": "Hong Kong SAR, China"
+    }
+  },
+  {
+    "title": "CSCW",
+    "description": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+    "sub": "HI",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "cscw",
+    "confs": {
+      "year": 2026,
+      "id": "cscw26",
+      "link": "https://cscw.acm.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-05-13 23:59:59",
+          "comment": "MAY 2025 SUBMISSION CYCLE"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 10-14, 2026",
+      "place": "Salt Lake City, Utah, USA"
+    }
+  },
+  {
+    "title": "CSCWD",
+    "description": "International Conference on Computer Supported Cooperative Work in Design",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "cscwd",
+    "confs": {
+      "year": 2025,
+      "id": "cscwd25",
+      "link": "http://2025.cscwd.org",
+      "timeline": [
+        {
+          "deadline": "2024-11-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 5-7, 2025",
+      "place": "Compiègne, France"
+    }
+  },
+  {
+    "title": "DIS",
+    "description": "ACM Conference on Designing Interactive Systems",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "ACMdis",
+    "confs": {
+      "year": 2026,
+      "id": "dis26",
+      "link": "https://dis.acm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-09 23:59:59",
+          "deadline": "2026-01-19 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 13 - 17, 2026",
+      "place": "Singapore"
+    }
+  },
+  {
+    "title": "ECSCW",
+    "description": "European Conference on Computer Supported Cooperative Work",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "ecscw",
+    "confs": {
+      "year": 2026,
+      "id": "ecscw26",
+      "link": "https://ecscw.eusset.eu/2026",
+      "timeline": [
+        {
+          "deadline": "2026-03-06 23:59:59",
+          "comment": "Conference Papers"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "29 June - 3 July, 2026",
+      "place": "Munich, Germany"
+    }
+  },
+  {
+    "title": "GROUP",
+    "description": "ACM International Conference on Supporting Group Work",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "group",
+    "confs": {
+      "year": 2027,
+      "id": "group27",
+      "link": "https://group.acm.org/conferences/group27/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-07-08 23:59:59",
+          "deadline": "2025-07-15 23:59:59",
+          "comment": "Full Paper First Wave Submissions"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "TBD",
+      "place": "TBD"
+    }
+  },
+  {
+    "title": "ICMI",
+    "description": "ACM International Conference on Multimodal Interaction",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "icmi",
+    "confs": {
+      "year": 2026,
+      "id": "icmi26",
+      "link": "https://icmi.acm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-13 23:59:59",
+          "deadline": "2026-04-20 23:59:59"
+        }
+      ],
+      "timezone": "UTC+7",
+      "date": "Oct 5 - 9, 2026",
+      "place": "Napoli, Italy"
+    }
+  },
+  {
+    "title": "ICWSM",
+    "description": "The International AAAI Conference on Web and Social Media",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "icwsm",
+    "confs": {
+      "year": 2026,
+      "id": "icwsm2026",
+      "link": "https://www.icwsm.org/2026/index.html",
+      "timeline": [
+        {
+          "deadline": "2025-05-15 23:59:59",
+          "comment": "1st Full-paper Deadline"
+        },
+        {
+          "deadline": "2025-09-15 23:59:59",
+          "comment": "2nd Full-paper Deadline"
+        },
+        {
+          "deadline": "2026-01-15 23:59:59",
+          "comment": "3rd Full-paper Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 27-29, 2026",
+      "place": "Los Angeles, CA, USA"
+    }
+  },
+  {
+    "title": "ISS",
+    "description": "ACM International Conference on Interactive Surfaces and Spaces",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "tabletop",
+    "confs": {
+      "year": 2025,
+      "id": "iss25",
+      "link": "https://iss.acm.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-03-14 23:59:59",
+          "commet": "First round 2025 \t"
+        },
+        {
+          "deadline": "2025-07-25 23:59:59",
+          "commet": "Second round 2025"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "TBD",
+      "place": "TBD"
+    }
+  },
+  {
+    "title": "IUI",
+    "description": "ACM Conference on Intelligent User Interfaces",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "iui",
+    "confs": {
+      "year": 2026,
+      "id": "iui26",
+      "link": "https://iui.hosting.acm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-10-03 23:59:59",
+          "deadline": "2025-10-10 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 23 - 26, 2026",
+      "place": "Paphos, Cyprus"
+    }
+  },
+  {
+    "title": "PerCom",
+    "description": "IEEE International Conference on Pervasive Computing and Communications",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "B"
+    },
+    "dblp": "percom",
+    "confs": {
+      "year": 2026,
+      "id": "percom26",
+      "link": "https://percom.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-10-03 23:59:00",
+          "deadline": "2025-10-03 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 16 - 20, 2026",
+      "place": "Pisa, Italy"
+    }
+  },
+  {
+    "title": "UbiComp/ISWC",
+    "description": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+    "sub": "HI",
+    "rank": {
+      "ccf": "A",
+      "core": "N",
+      "thcpl": "A"
+    },
+    "dblp": "huc",
+    "confs": {
+      "year": 2026,
+      "id": "ubicomp26",
+      "link": "https://www.ubicomp.org/ubicomp-iswc-2026",
+      "timeline": [
+        {
+          "deadline": "2026-02-01 23:59:59",
+          "comment": "first round"
+        },
+        {
+          "deadline": "2026-05-01 23:59:59",
+          "comment": "second round"
+        },
+        {
+          "deadline": "2026-08-01 23:59:59",
+          "comment": "third round (only for resubmissions after major revisions)"
+        },
+        {
+          "deadline": "2026-11-01 23:59:59",
+          "comment": "fourth round"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 11-15, 2026",
+      "place": "Shanghai, China"
+    }
+  },
+  {
+    "title": "UIC",
+    "description": "IEEE International Conference on Ubiquitous Intelligence and Computing",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "uic",
+    "confs": {
+      "year": 2025,
+      "id": "uic25",
+      "link": "https://www.ieee-smart-world.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-01 23:59:59",
+          "comment": "Conference Papers"
+        }
+      ],
+      "timezone": "UTC-4",
+      "date": "Aug 18 - 22, 2025",
+      "place": "Calgary, Alberta, Canada"
+    }
+  },
+  {
+    "title": "UIST",
+    "description": "ACM Symposium on User Interface Software and Technology",
+    "sub": "HI",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "uist",
+    "confs": {
+      "year": 2026,
+      "id": "uist2026",
+      "link": "https://uist.acm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-24 17:00:00",
+          "deadline": "2026-03-31 17:00:00"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "November 2 - 5, 2026",
+      "place": "GM Renaissance Center, Detroit, MI, USA"
+    }
+  }
+]

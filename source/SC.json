@@ -1,0 +1,1247 @@
+[
+  {
+    "title": "ACISP",
+    "description": "Australasia Conference on Information Security and Privacy",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "acisp",
+    "confs": {
+      "year": 2026,
+      "id": "acisp26",
+      "link": "https://acisp-conference.github.io/acisp2026/index.html",
+      "timeline": [
+        {
+          "deadline": "2025-11-27 23:59:59",
+          "comment": "1st round Deadline"
+        },
+        {
+          "deadline": "2026-02-26 23:59:59",
+          "comment": "2nd round Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 6-9, 2026",
+      "place": "Perth, Australia"
+    }
+  },
+  {
+    "title": "ACNS",
+    "description": "Applied Cryptography and Network Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "acns",
+    "confs": {
+      "year": 2026,
+      "id": "acns26",
+      "link": "https://acns2026.github.io/index.html",
+      "timeline": [
+        {
+          "deadline": "2025-09-26 23:59:59",
+          "comment": "Cycle 1 Submission deadline"
+        },
+        {
+          "deadline": "2026-01-23 23:59:59",
+          "comment": "Cycle 2 Submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 22-25, 2026",
+      "place": "New York, United States"
+    }
+  },
+  {
+    "title": "ACSAC",
+    "description": "Annual Computer Security Applications Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "acsac",
+    "confs": {
+      "year": 2025,
+      "id": "acsac25",
+      "link": "https://www.acsac.org/",
+      "timeline": [
+        {
+          "deadline": "2025-05-30 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "December 8-12, 2025",
+      "place": "Honolulu, Hawaii, USA"
+    }
+  },
+  {
+    "title": "AsiaCCS",
+    "description": "Asia Conference on Computer and Communications Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "ccs",
+    "confs": {
+      "year": 2026,
+      "id": "asiaccs26",
+      "link": "https://asiaccs2026.cse.iitkgp.ac.in/",
+      "timeline": [
+        {
+          "deadline": "2025-08-25 23:59:59",
+          "comment": "1st round Deadline"
+        },
+        {
+          "deadline": "2025-12-12 23:59:59",
+          "comment": "2nd round Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 1-5, 2026",
+      "place": "Bangalore, India"
+    }
+  },
+  {
+    "title": "ASIACRYPT",
+    "description": "International Conference on the Theory and Application of Cryptology and Information Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "asiacrypt",
+    "confs": {
+      "year": 2025,
+      "id": "asiacrypt25",
+      "link": "https://asiacrypt.iacr.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-16 11:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "December 8-12, 2025",
+      "place": "Melbourne, Australia"
+    }
+  },
+  {
+    "title": "CCS",
+    "description": "ACM Conference on Computer and Communications Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "ccs",
+    "confs": {
+      "year": 2026,
+      "id": "ccs26",
+      "link": "https://www.sigsac.org/ccs/CCS2026/",
+      "timeline": [
+        {
+          "deadline": "2026-01-14 23:59:59",
+          "comment": "First Review Cycle"
+        },
+        {
+          "deadline": "2026-04-29 23:59:59",
+          "comment": "Second Review Cycle"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "November 15-19, 2026",
+      "place": "World Forum, Hague, Netherlands"
+    }
+  },
+  {
+    "title": "CHES",
+    "description": "International Conference on Cryptographic Hardware and Embedded Systems",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "ches",
+    "confs": {
+      "year": 2026,
+      "id": "ches26",
+      "link": "https://ches.iacr.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-07-15 23:59:59",
+          "comment": "Schedule for TCHES Volume 2026/1"
+        },
+        {
+          "deadline": "2025-10-15 23:59:59",
+          "comment": "Schedule for TCHES Volume 2026/2"
+        },
+        {
+          "deadline": "2026-01-15 23:59:59",
+          "comment": "Schedule for TCHES Volume 2026/3"
+        },
+        {
+          "deadline": "2026-04-15 23:59:59",
+          "comment": "Schedule for TCHES Volume 2026/4"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 11-15, 2026",
+      "place": "Türkiye"
+    }
+  },
+  {
+    "title": "CRYPTO",
+    "description": "International Cryptology Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "crypto",
+    "confs": {
+      "year": 2026,
+      "id": "crypto26",
+      "link": "https://crypto.iacr.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-02-12 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "August 17-20, 2026",
+      "place": "Santa Barbara, USA"
+    }
+  },
+  {
+    "title": "CSFW",
+    "description": "IEEE Computer Security Foundations Workshop",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "csfw",
+    "confs": {
+      "year": 2026,
+      "id": "csfw26",
+      "link": "https://csf2026.ieee-security.org/",
+      "timeline": [
+        {
+          "deadline": "2025-07-24 23:59:59",
+          "comment": "Summer"
+        },
+        {
+          "deadline": "2025-10-09 23:59:59",
+          "comment": "Fall"
+        },
+        {
+          "deadline": "2026-01-29 23:59:59",
+          "comment": "Winter"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "July 26-29, 2026",
+      "place": "Lisbon, Portugal"
+    }
+  },
+  {
+    "title": "CT-RSA",
+    "description": "Cryptographer's Track at RSA Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "ctrsa",
+    "confs": {
+      "year": 2026,
+      "id": "ct-rsa26",
+      "link": "https://conference.wsu.edu/ct-rsa-2026/",
+      "timeline": [
+        {
+          "deadline": "2025-10-24 23:59:59",
+          "comment": "Paper submission deadline"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "March 23-26, 2026",
+      "place": "San Francisco, California, USA"
+    }
+  },
+  {
+    "title": "DFRWS APAC",
+    "description": "Digital Forensic Research Workshop Asia Pacific",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "di",
+    "confs": {
+      "year": 2025,
+      "id": "dfrws-apac25",
+      "link": "https://dfrws.org/conferences/dfrws-apac-2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-23 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 10-12, 2025",
+      "place": "Seoul, South Korea"
+    }
+  },
+  {
+    "title": "DFRWS",
+    "description": "Digital Forensic Research Workshop",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "dfrws",
+    "confs": {
+      "year": 2026,
+      "id": "dfrws26",
+      "link": "https://dfrws.org/conferences/dfrws-eu-2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-19 23:59:59",
+          "deadline": "2025-09-26 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 24-27, 2026",
+      "place": "Linköping, Sweden"
+    }
+  },
+  {
+    "title": "DIMVA",
+    "description": "Detection of Intrusions and Malware & Vulnerability Assessment",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "B"
+    },
+    "dblp": "dimva",
+    "confs": {
+      "year": 2026,
+      "id": "dimva26",
+      "link": "https://www.dimva.org/dimva2026/",
+      "timeline": [
+        {
+          "deadline": "2025-12-03 23:59:59",
+          "comment": "Cycle 1 submission deadline"
+        },
+        {
+          "deadline": "2026-02-11 23:59:59",
+          "comment": "Cycle 2 submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 1-3, 2026",
+      "place": "Chania, Greece"
+    }
+  },
+  {
+    "title": "DSN",
+    "description": "International Conference on Dependable Systems and Networks",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "dsn",
+    "confs": {
+      "year": 2026,
+      "id": "dsn26",
+      "link": "https://dsn2026.github.io",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-27 23:59:59",
+          "deadline": "2025-12-04 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 22-25, 2026",
+      "place": "Charlotte, USA"
+    }
+  },
+  {
+    "title": "ESORICS",
+    "description": "European Symposium on Research in Computer Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "esorics",
+    "confs": {
+      "year": 2026,
+      "id": "esorics26",
+      "link": "https://sites.google.com/di.uniroma1.it/esorics2026/home",
+      "timeline": [
+        {
+          "deadline": "2026-01-09 23:59:59",
+          "comment": "First Submission deadline"
+        },
+        {
+          "deadline": "2026-04-21 23:59:59",
+          "comment": "Second Submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September, 2026",
+      "place": "Rome, Italy"
+    }
+  },
+  {
+    "title": "EUROCRYPT",
+    "description": "European Cryptology Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "eurocrypt",
+    "confs": {
+      "year": 2026,
+      "id": "eurocrypt26",
+      "link": "https://eurocrypt.iacr.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-10-02 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 10-14, 2026",
+      "place": "Rome, Italy"
+    }
+  },
+  {
+    "title": "EuroS&P",
+    "description": "IEEE European Symposium on Security and Privacy",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "eurosp",
+    "confs": {
+      "year": 2026,
+      "id": "eurosp26",
+      "link": "https://eurosp2026.ieee-security.org/",
+      "timeline": [
+        {
+          "deadline": "2025-11-20 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "July 6 - 10, 2026",
+      "place": "Lisbon, Portugal"
+    }
+  },
+  {
+    "title": "FC",
+    "description": "Financial Cryptography and Data Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "fc",
+    "confs": {
+      "year": 2026,
+      "id": "fc26",
+      "link": "https://fc26.ifca.ai/",
+      "timeline": [
+        {
+          "deadline": "2025-09-16 23:59:59",
+          "comment": "Submission deadline"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "March 2-6, 2026",
+      "place": "St. Kitts"
+    }
+  },
+  {
+    "title": "FSE",
+    "description": "Fast Software Encryption",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "fse",
+    "confs": {
+      "year": 2026,
+      "id": "fse26",
+      "link": "https://fse.iacr.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-03-01 23:59:59",
+          "comment": "ToSC, Volume 2025, Issue 2 Submission deadline"
+        },
+        {
+          "deadline": "2025-06-01 23:59:59",
+          "comment": "ToSC, Volume 2025, Issue 3 Submission deadline"
+        },
+        {
+          "deadline": "2025-09-01 23:59:59",
+          "comment": "ToSC, Volume 2025, Issue 4 Submission deadline"
+        },
+        {
+          "deadline": "2025-11-23 23:59:59",
+          "comment": "ToSC, Volume 2026, Issue 1 Submission deadline"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "March 23-27, 2026",
+      "place": "Singapore, Singapore"
+    }
+  },
+  {
+    "title": "HotSec",
+    "description": "USENIX Workshop on Hot Topics in Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "events",
+    "confs": {
+      "year": 2021,
+      "id": "hotsec21",
+      "link": "https://www.usenix.org/conferences/byname/158",
+      "timeline": [
+        {
+          "deadline": "2021-10-12 23:59:59",
+          "comment": "Extended"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Extended",
+      "place": "Vancouver, British Columbia, Canada"
+    }
+  },
+  {
+    "title": "ICDF2C",
+    "description": "International Conference on Digital Forensics & Cyber Crime",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "icdf2c",
+    "confs": {
+      "year": 2026,
+      "id": "icdf2c26",
+      "link": "https://icdf2c.eai-conferences.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-01-20 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "September 8-10, 2026",
+      "place": "Reykjavik, Iceland"
+    }
+  },
+  {
+    "title": "ICICS",
+    "description": "International Conference on Information and Communications Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "icics",
+    "confs": {
+      "year": 2026,
+      "id": "icics26",
+      "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html",
+      "timeline": [
+        {
+          "deadline": "2026-02-28 23:59:59",
+          "comment": "First round"
+        },
+        {
+          "deadline": "2026-05-23 23:59:59",
+          "comment": "Second round"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 27-30, 2026",
+      "place": "Fukui, Japan"
+    }
+  },
+  {
+    "title": "IFIP WG 11.9",
+    "description": "IFIP WG 11.9 International Conference on Digital Forensics",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "NO DBLP",
+    "confs": {
+      "year": 2026,
+      "id": "ifip119'26",
+      "link": "http://www.ifip119.org/Conferences/",
+      "timeline": [
+        {
+          "deadline": "2025-09-30 23:59:59",
+          "comment": "Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "January 5 - 6, 2026",
+      "place": "New Delhi, India"
+    }
+  },
+  {
+    "title": "IH&MMSec",
+    "description": "ACM Workshop on Information Hiding and Multimedia Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "B"
+    },
+    "dblp": "ih",
+    "confs": {
+      "year": 2026,
+      "id": "ih&mmsec26",
+      "link": "https://www.ihmmsec.org/cms/home/home2026.html",
+      "timeline": [
+        {
+          "deadline": "2026-02-16 23:59:59",
+          "comment": "Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 17-19, 2026",
+      "place": "Florence, Italy"
+    }
+  },
+  {
+    "title": "INDOCRYPT",
+    "description": "International Conference on Cryptology in India",
+    "sub": "SC",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "indocrypt",
+    "confs": {
+      "year": 2025,
+      "id": "indocrypt25",
+      "link": "https://www.indocrypt2025.in/",
+      "timeline": [
+        {
+          "deadline": "2025-09-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "December 14-17, 2025",
+      "place": "IIIT Bhubaneswar, Odisha, India"
+    }
+  },
+  {
+    "title": "INSCRYPT",
+    "description": "International Conference on Information Security and Cryptology",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cisc",
+    "confs": {
+      "year": 2025,
+      "id": "inscrypt25",
+      "link": "https://inscrypt2025.xidian.edu.cn/",
+      "timeline": [
+        {
+          "deadline": "2025-04-15 23:59:59",
+          "comment": "1st Round"
+        },
+        {
+          "deadline": "2025-06-30 23:59:59",
+          "comment": "2nd Round"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "October 19-21, 2025",
+      "place": "Xi'an, China"
+    }
+  },
+  {
+    "title": "ISC",
+    "description": "Information Security Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "isw",
+    "confs": {
+      "year": 2025,
+      "id": "isc25",
+      "link": "https://isc25.skku.edu/",
+      "timeline": [
+        {
+          "deadline": "2025-06-04 23:59:59",
+          "comment": "Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 20-22, 2025",
+      "place": "Seoul, South Korea"
+    }
+  },
+  {
+    "title": "NDSS",
+    "description": "Network and Distributed System Security (NDSS) Symposium",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "ndss",
+    "confs": {
+      "year": 2026,
+      "id": "ndss26",
+      "link": "https://www.ndss-symposium.org/ndss2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-04-16 23:59:59",
+          "deadline": "2025-04-23 23:59:59",
+          "comment": "Summer"
+        },
+        {
+          "abstract_deadline": "2025-07-30 23:59:59",
+          "deadline": "2025-08-06 23:59:59",
+          "comment": "Fall"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "February 23 - February 27, 2026",
+      "place": "San Diego, California"
+    }
+  },
+  {
+    "title": "NOMS",
+    "description": "IEEE/IFIP Network Operations and Management Symposium",
+    "sub": "SC",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "noms",
+    "confs": {
+      "year": 2026,
+      "id": "noms26",
+      "link": "https://noms2026.ieee-noms.org/",
+      "timeline": [
+        {
+          "deadline": "2025-10-13 19:59:59"
+        }
+      ],
+      "timezone": "UTC+10",
+      "date": "May 18-22, 2026",
+      "place": "Rome, Italy"
+    }
+  },
+  {
+    "title": "NSPW",
+    "description": "New Security Paradigms Workshop",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "nspw",
+    "confs": {
+      "year": 2025,
+      "id": "nspw25",
+      "link": "https://www.nspw.org/2025",
+      "timeline": [
+        {
+          "deadline": "2025-04-11 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 24-27, 2025",
+      "place": "Aerzen, Germany"
+    }
+  },
+  {
+    "title": "PAM",
+    "description": "Passive and Active Measurement Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "pam",
+    "confs": {
+      "year": 2026,
+      "id": "pam26",
+      "link": "https://pam2026.at/",
+      "timeline": [
+        {
+          "deadline": "2025-10-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 23-25, 2026",
+      "place": "Virtual"
+    }
+  },
+  {
+    "title": "PETS",
+    "description": "Privacy Enhancing Technologies Symposium",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "pet",
+    "confs": {
+      "year": 2026,
+      "id": "pets26",
+      "link": "https://petsymposium.org/cfp26.php",
+      "timeline": [
+        {
+          "deadline": "2025-05-31 23:59:59",
+          "comment": "Issue 1 Paper Submission Deadline"
+        },
+        {
+          "deadline": "2025-08-31 23:59:59",
+          "comment": "Issue 2 Paper Submission Deadline"
+        },
+        {
+          "deadline": "2025-11-30 23:59:59",
+          "comment": "Issue 3 Paper Submission Deadline"
+        },
+        {
+          "deadline": "2026-02-28 23:59:59",
+          "comment": "Issue 4 Paper Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 20-25, 2026",
+      "place": "Calgary, Canada"
+    }
+  },
+  {
+    "title": "PKC",
+    "description": "International Conference on Practice and Theory of Public-Key Cryptography",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "pkc",
+    "confs": {
+      "year": 2026,
+      "id": "pkc26",
+      "link": "https://pkc.iacr.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-10-24 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "May 25-28, 2026",
+      "place": "West Palm Beach, USA"
+    }
+  },
+  {
+    "title": "RAID",
+    "description": "International Symposium on Recent Advances in Intrusion Detection",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "raid",
+    "confs": {
+      "year": 2025,
+      "id": "raid25",
+      "link": "https://raid2025.github.io/",
+      "timeline": [
+        {
+          "deadline": "2025-04-24 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 19-22, 2025",
+      "place": "Gold Coast, Australia"
+    }
+  },
+  {
+    "title": "SAC",
+    "description": "Selected Areas in Cryptography",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "sacrypt",
+    "confs": {
+      "year": 2026,
+      "id": "sac26",
+      "link": "https://sacworkshop.org/SAC26/",
+      "timeline": [
+        {
+          "deadline": "2026-02-02 23:59:59",
+          "comment": "Paper submission deadline (cycle 1)"
+        },
+        {
+          "deadline": "2025-05-11 23:59:59",
+          "comment": "Paper submission deadline (cycle 2)"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 24-28, 2026",
+      "place": "Ottawa, Ontario, Canada"
+    }
+  },
+  {
+    "title": "SACMAT",
+    "description": "ACM Symposium on Access Control Models and Technologies",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "sacmat",
+    "confs": {
+      "year": 2026,
+      "id": "sacmat26",
+      "link": "https://www.sacmat.org/2026/index.php",
+      "timeline": [
+        {
+          "deadline": "2025-10-27 23:59:59",
+          "comment": "First Cycle"
+        },
+        {
+          "deadline": "2026-03-02 23:59:59",
+          "comment": "Second Cycle"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 8-10, 2026",
+      "place": "Waterloo, Canada"
+    }
+  },
+  {
+    "title": "SATML",
+    "description": "IEEE Conference on Secure and Trustworthy Machine Learning",
+    "sub": "SC",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "satml",
+    "confs": {
+      "year": 2026,
+      "id": "satml26",
+      "link": "https://www.satml.org",
+      "timeline": [
+        {
+          "deadline": "2025-09-24 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "March 23-25, 2026",
+      "place": "Munich, Germany"
+    }
+  },
+  {
+    "title": "SEC",
+    "description": "IFIP International Information Security Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "sec",
+    "confs": {
+      "year": 2026,
+      "id": "sec26",
+      "link": "https://ifipsec.org/index.html",
+      "timeline": [
+        {
+          "deadline": "2025-12-19 23:59:59",
+          "comment": "Submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 09 - 11, 2026",
+      "place": "Perth, Australia"
+    }
+  },
+  {
+    "title": "SecureComm",
+    "description": "International Conference on Security and Privacy in Communication Networks",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "securecomm",
+    "confs": {
+      "year": 2026,
+      "id": "securecomm26",
+      "link": "https://securecomm.eai-conferences.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-12-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 21-24, 2026",
+      "place": "Lancaster, UK and hybrid"
+    }
+  },
+  {
+    "title": "SOUPS",
+    "description": "Symposium On Usable Privacy and Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "soups",
+    "confs": {
+      "year": 2026,
+      "id": "soups26",
+      "link": "https://soups.page/",
+      "timeline": [
+        {
+          "deadline": "2026-02-12 23:59:59",
+          "comment": "Mandatory Paper Registration Deadline"
+        },
+        {
+          "deadline": "2026-02-19 23:59:59",
+          "comment": "Paper Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 23-26, 2026",
+      "place": "Hannover, Germany"
+    }
+  },
+  {
+    "title": "S&P",
+    "description": "IEEE Symposium on Security and Privacy",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "sp",
+    "confs": {
+      "year": 2026,
+      "id": "sp26",
+      "link": "https://www.ieee-security.org/TC/SP2026/",
+      "timeline": [
+        {
+          "deadline": "2025-06-05 23:59:59",
+          "comment": "First Paper submission deadline"
+        },
+        {
+          "deadline": "2025-11-13 23:59:59",
+          "comment": "Second Paper submission deadline"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "MAY 18-21, 2026",
+      "place": "SAN FRANCISCO, CA"
+    }
+  },
+  {
+    "title": "SRDS",
+    "description": "IEEE International Symposium on Reliable Distributed Systems",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "srds",
+    "confs": {
+      "year": 2025,
+      "id": "srds25",
+      "link": "https://srds-conference.org/",
+      "timeline": [
+        {
+          "deadline": "2025-04-25 23:59:59",
+          "comment": "Abstract Submission"
+        },
+        {
+          "deadline": "2025-05-02 23:59:59",
+          "comment": "Full Paper Submission"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 29-October 2, 2025",
+      "place": "Porto, Portugal"
+    }
+  },
+  {
+    "title": "TCC",
+    "description": "Theory of Cryptography Conference",
+    "sub": "SC",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "tcc",
+    "confs": {
+      "year": 2025,
+      "id": "tcc25",
+      "link": "https://tcc.iacr.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-27 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 1-5, 2025",
+      "place": "Aarhus, Denmark"
+    }
+  },
+  {
+    "title": "TrustCom",
+    "description": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "trustcom",
+    "confs": {
+      "year": 2026,
+      "id": "trustcom26",
+      "link": "https://collaboratecom.eai-conferences.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-05-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "November 14 - 15, 2026",
+      "place": "Hong Kong SAR, China"
+    }
+  },
+  {
+    "title": "USENIX Security",
+    "description": "USENIX Security Symposium",
+    "sub": "SC",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "uss",
+    "confs": {
+      "year": 2026,
+      "id": "uss26",
+      "link": "https://www.usenix.org/conference/usenixsecurity26",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-08-19 23:59:59",
+          "deadline": "2025-08-26 23:59:59",
+          "comment": "Cycle 1 Deadline"
+        },
+        {
+          "abstract_deadline": "2026-01-29 23:59:59",
+          "deadline": "2026-02-05 23:59:59",
+          "comment": "Cycle 2 Deadline"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "August 12-14, 2026",
+      "place": "Baltimore, MD, USA"
+    }
+  },
+  {
+    "title": "WiSec",
+    "description": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "wisec",
+    "confs": {
+      "year": 2026,
+      "id": "wisec26",
+      "link": "https://wisec26.events.cispa.de/",
+      "timeline": [
+        {
+          "deadline": "2025-11-18 23:59:59",
+          "comment": "First Cycle deadline"
+        },
+        {
+          "deadline": "2026-03-03 23:59:59",
+          "comment": "Second Cycle deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 30 - July 3, 2026",
+      "place": "Saarbrücken, Germany"
+    }
+  }
+]

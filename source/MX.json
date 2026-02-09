@@ -1,0 +1,415 @@
+[
+  {
+    "title": "APBC",
+    "description": "Asia Pacific Bioinformatics Conference",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "apbc",
+    "confs": {
+      "year": 2025,
+      "id": "apbc25",
+      "link": "https://bioinfo.nuaa.edu.cn/apbc2025/main.psp",
+      "timeline": [
+        {
+          "deadline": "2025-06-15 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "September 19-22, 2025",
+      "place": "Nanjing， China"
+    }
+  },
+  {
+    "title": "BIBM",
+    "description": "IEEE International Conference on Bioinformatics and Biomedicine",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "bibm",
+    "confs": {
+      "year": 2025,
+      "id": "bibm25",
+      "link": "https://ieeebibm.org/BIBM2025/",
+      "timeline": [
+        {
+          "deadline": "2025-08-03 17:00:00"
+        }
+      ],
+      "timezone": "UTC-5",
+      "date": "Dec 15-18, 2025",
+      "place": "Wuhan, China"
+    }
+  },
+  {
+    "title": "BigData",
+    "description": "IEEE International Conference on Big Data",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "bigdataconf",
+    "confs": {
+      "year": 2025,
+      "id": "bigdata25",
+      "link": "https://conferences.cis.um.edu.mo/ieeebigdata2025/",
+      "timeline": [
+        {
+          "deadline": "2025-08-29 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 8-11, 2025",
+      "place": "Macau SAR, China"
+    }
+  },
+  {
+    "title": "BIS",
+    "description": "International Conference on Business Information Systems",
+    "sub": "MX",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "bis",
+    "confs": {
+      "year": 2026,
+      "id": "bis2026",
+      "link": "https://bisconf.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-01-25 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 10-12, 2026",
+      "place": "Prague, Czech Republic"
+    }
+  },
+  {
+    "title": "Cloud",
+    "description": "IEEE International Conference on Cloud Computing",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "IEEEcloud",
+    "confs": {
+      "year": 2025,
+      "id": "cloud25",
+      "link": "https://services.conferences.computer.org/2025/cloud/",
+      "timeline": [
+        {
+          "deadline": "2025-03-10 23:00:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 7-12, 2025",
+      "place": "Helsinki, Finland"
+    }
+  },
+  {
+    "title": "CogSci",
+    "description": "Annual Meeting of the Cognitive Science Society",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "cogsci",
+    "confs": {
+      "year": 2026,
+      "id": "cogsci26",
+      "link": "https://cognitivesciencesociety.org/cogsci-2026/",
+      "timeline": [
+        {
+          "deadline": "2026-02-02 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 22-25, 2026",
+      "place": "Rio de Janeiro, Brazil"
+    }
+  },
+  {
+    "title": "EMSOFT",
+    "description": "International Conference on Embedded Software",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "emsoft",
+    "confs": {
+      "year": 2025,
+      "id": "emsoft25",
+      "link": "https://esweek.org/emsoft/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-03-23 23:59:59",
+          "deadline": "2025-03-30 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 28 - October 3, 2025",
+      "place": "TAIPEI, TAIWAN"
+    }
+  },
+  {
+    "title": "ICIC",
+    "description": "International Conference on Intelligent Computing",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "icic",
+    "confs": {
+      "year": 2026,
+      "id": "icic26",
+      "link": "http://www.ic-icc.cn/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-03-20 11:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "July 22-26, 2026",
+      "place": "Toronto, Canada"
+    }
+  },
+  {
+    "title": "ISBRA",
+    "description": "International Symposium on Bioinformatics Research and Applications",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "isbra",
+    "confs": {
+      "year": 2025,
+      "id": "isbra25",
+      "link": "https://www.helsinki.fi/en/conferences/isbra2025",
+      "timeline": [
+        {
+          "deadline": "2025-04-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 3-5, 2025",
+      "place": "Helsinki, Finland"
+    }
+  },
+  {
+    "title": "MICCAI",
+    "description": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "miccai",
+    "confs": {
+      "year": 2026,
+      "id": "miccai26",
+      "link": "https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-02-12 23:59:00",
+          "deadline": "2026-02-26 23:59:00"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "Oct 4-8, 2026",
+      "place": "ADNEC Centre, Abu Dhabi, U.A.E."
+    }
+  },
+  {
+    "title": "MLSys",
+    "description": "Conference on Machine Learning and Systems",
+    "sub": "MX",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "mlsys",
+    "confs": {
+      "year": 2026,
+      "id": "mlsys26",
+      "link": "https://mlsys.org/",
+      "timeline": [
+        {
+          "deadline": "2025-10-30 20:00:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 17-22, 2026",
+      "place": "Bellevue, Washington, USA"
+    }
+  },
+  {
+    "title": "RECOMB",
+    "description": "International Conference on Research inComputational Molecular Biology",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "A"
+    },
+    "dblp": "recomb",
+    "confs": {
+      "year": 2026,
+      "id": "recomb26",
+      "link": "https://recomb.org/recomb2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-07 23:59:59",
+          "deadline": "2025-11-14 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 26 - 29, 2026",
+      "place": "Thessaloniki, Greece"
+    }
+  },
+  {
+    "title": "RTSS",
+    "description": "The IEEE Real-Time Systems Symposium",
+    "sub": "MX",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "B"
+    },
+    "dblp": "rtss",
+    "confs": {
+      "year": 2026,
+      "id": "rtss26",
+      "link": "http://2026.rtss.org/",
+      "timeline": [
+        {
+          "deadline": "2026-05-21 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 9-11, 2026",
+      "place": "Yokohama, Japan"
+    }
+  },
+  {
+    "title": "SIGSPATIAL",
+    "description": "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "sigspatial",
+    "confs": {
+      "year": 2025,
+      "id": "sigspatial25",
+      "link": "https://sigspatial2025.sigspatial.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-05-23 23:59:59",
+          "deadline": "2025-05-30 23:59:59"
+        }
+      ],
+      "timezone": "UTC-7",
+      "date": "November 3-6, 2025",
+      "place": "Minneapolis, MN, USA"
+    }
+  },
+  {
+    "title": "SMC",
+    "description": "IEEE International Conference on Systems, Man, and Cybernetics",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "smc",
+    "confs": {
+      "year": 2026,
+      "id": "smc26",
+      "link": "https://www.ieeesmc2026.org/",
+      "timeline": [
+        {
+          "deadline": "2026-03-22 23:59:59"
+        }
+      ],
+      "timezone": "UTC-7",
+      "date": "October 4-7, 2026",
+      "place": "Bellevue, WA, USA"
+    }
+  },
+  {
+    "title": "WINE",
+    "description": "Conference on Web and Internet Economics",
+    "sub": "MX",
+    "rank": {
+      "ccf": "A",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "wine",
+    "confs": {
+      "year": 2023,
+      "id": "wine2023",
+      "link": "https://wine2023.shanghaitech.edu.cn/",
+      "timeline": [
+        {
+          "deadline": "2023-07-07 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Dec 04-08, 2023",
+      "place": "Shanghai, China"
+    }
+  },
+  {
+    "title": "WWW",
+    "description": "International World Wide Web Conferences",
+    "sub": "MX",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "www",
+    "confs": {
+      "year": 2027,
+      "id": "www27",
+      "link": "https://www2027.thewebconf.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "TBD",
+      "place": "Dublin, Ireland"
+    }
+  }
+]

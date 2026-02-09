@@ -1,0 +1,1273 @@
+[
+  {
+    "title": "GLSVLSI",
+    "description": "Great Lakes Symposium on VLSI",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "glvlsi",
+    "confs": {
+      "year": 2026,
+      "id": "glsvlsi2026",
+      "link": "https://www.glsvlsi.org/",
+      "timeline": [
+        {
+          "deadline": "2026-03-02 23:59:00"
+        }
+      ],
+      "timezone": "UTC-5",
+      "date": "June 22-24, 2026",
+      "place": "Finger Lakes, NY, USA"
+    }
+  },
+  {
+    "title": "APSys",
+    "description": "ACM SIGOPS Asia-Pacific Workshop on Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "apsys",
+    "confs": {
+      "year": 2025,
+      "id": "apsys2025",
+      "link": "https://apsys2025.github.io/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-05-29 23:59:00",
+          "deadline": "2025-06-05 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 12-13, 2025",
+      "place": "Seoul, South Korea"
+    }
+  },
+  {
+    "title": "ASAP",
+    "description": "IEEE International Conference on Application-Specific Systems, Architectures, and Processors",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "asap",
+    "confs": {
+      "year": 2026,
+      "id": "asap2026",
+      "link": "https://2026.asap-conf.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-27 23:59:59",
+          "deadline": "2026-04-03 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 3-4, 2026",
+      "place": "London, UK"
+    }
+  },
+  {
+    "title": "ASP-DAC",
+    "description": "Asia and South Pacific Design Automation Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "B"
+    },
+    "dblp": "aspdac",
+    "confs": {
+      "year": 2026,
+      "id": "aspdac26",
+      "link": "https://www.aspdac.com/aspdac2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-07-04 17:00:00",
+          "deadline": "2025-07-11 17:00:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Jan 19-22, 2026",
+      "place": "Hong Kong Disneyland"
+    }
+  },
+  {
+    "title": "ASPLOS",
+    "description": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "asplos",
+    "confs": {
+      "year": 2027,
+      "id": "asplos27",
+      "link": "https://www.asplos-conference.org/call-for-papers-asplos27/",
+      "timeline": [
+        {
+          "deadline": "2026-04-15 23:59:59",
+          "comment": "April Cycle Submission Deadline"
+        },
+        {
+          "deadline": "2026-09-09 23:59:59",
+          "comment": "September Cycle Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "TBD",
+      "place": "TBD"
+    }
+  },
+  {
+    "title": "USENIX ATC",
+    "description": "USENIX Annual Technical Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "usenix",
+    "confs": {
+      "year": 2025,
+      "id": "atc2025",
+      "link": "https://www.usenix.org/conference/atc25",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-01-07 23:59:59",
+          "deadline": "2025-01-14 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "July 7-9, 2025",
+      "place": "Boston, MA, USA"
+    }
+  },
+  {
+    "title": "CF",
+    "description": "ACM International Conference on Computing Frontiers",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cf",
+    "confs": {
+      "year": 2026,
+      "id": "cf2026",
+      "link": "https://www.computingfrontiers.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-12 23:59:59",
+          "deadline": "2026-01-19 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 19-21, 2026",
+      "place": "Catania, Sicily, Italy"
+    }
+  },
+  {
+    "title": "IEEE/ACM CGO",
+    "description": "The International Symposium on Code Generation and Optimization",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "cgo",
+    "confs": {
+      "year": 2026,
+      "id": "cgo2026",
+      "link": "https://conf.researchr.org/home/cgo-2026",
+      "timeline": [
+        {
+          "deadline": "2025-05-29 23:59:59",
+          "comment": "First Submission"
+        },
+        {
+          "deadline": "2025-09-11 23:59:59",
+          "comment": "Second Submission"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "January 31 - 4 February, 2026",
+      "place": "Sydney, Australia"
+    }
+  },
+  {
+    "title": "CLUSTER",
+    "description": "IEEE International Conference on Cluster Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "cluster",
+    "confs": {
+      "year": 2025,
+      "id": "cluster25",
+      "link": "https://clustercomp.org/2025",
+      "timeline": [
+        {
+          "deadline": "2025-05-02 23:59:59",
+          "comment": "Full Paper Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 2-5, 2025",
+      "place": "Edinburgh, United Kingdom"
+    }
+  },
+  {
+    "title": "DAC",
+    "description": "Design Automation Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "dac",
+    "confs": {
+      "year": 2026,
+      "id": "dac26",
+      "link": "https://dac.com/2026/call-for-contributions",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-11 17:00:00",
+          "deadline": "2025-11-18 17:00:00"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "July 26-29, 2026",
+      "place": "Long Beach, CA"
+    }
+  },
+  {
+    "title": "DATE",
+    "description": "Design, Automation & Test in Europe",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "date",
+    "confs": {
+      "year": 2026,
+      "id": "date2026",
+      "link": "https://www.date-conference.com/call-for-papers",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-07 23:59:59",
+          "deadline": "2025-09-14 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 20- April 22, 2026",
+      "place": "Verona, Italy"
+    }
+  },
+  {
+    "title": "DCC",
+    "description": "Data Compression Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "B"
+    },
+    "dblp": "dcc",
+    "confs": {
+      "year": 2025,
+      "id": "dcc2025",
+      "link": "https://datacompressionconference.org/",
+      "timeline": [
+        {
+          "deadline": "2024-10-11 23:59:59"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "March 18-21, 2025",
+      "place": "Snowbird, Utah, U.S."
+    }
+  },
+  {
+    "title": "ETS",
+    "description": "IEEE European Test Symposium",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "ets",
+    "confs": {
+      "year": 2024,
+      "id": "ets2024",
+      "link": "https://ets24.ewi.tudelft.nl/",
+      "timeline": [
+        {
+          "abstract_deadline": "2023-12-08 23:59:59",
+          "deadline": "2023-12-16 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 20-24, 2024",
+      "place": "The Hague, Netherlands"
+    }
+  },
+  {
+    "title": "Euro-Par",
+    "description": "European Conference on Parallel and Distributed Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "europar",
+    "confs": {
+      "year": 2026,
+      "id": "euro-par26",
+      "link": "https://2026.euro-par.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-02-27 23:59:59",
+          "deadline": "2026-03-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 24-28, 2026",
+      "place": "Pisa, Italy"
+    }
+  },
+  {
+    "title": "EuroSys",
+    "description": "European Conference on Computer Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "eurosys",
+    "confs": {
+      "year": 2026,
+      "id": "eurosys2026",
+      "link": "https://2026.eurosys.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-05-08 23:59:59",
+          "deadline": "2025-05-15 23:59:59",
+          "comment": "Spring Submission Deadline"
+        },
+        {
+          "abstract_deadline": "2025-09-18 23:59:59",
+          "deadline": "2025-09-25 23:59:59",
+          "comment": "Fall Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 13-16, 2026",
+      "place": "Edinburgh, UK"
+    }
+  },
+  {
+    "title": "FAST",
+    "description": "USENIX Conference on File and Storage Technologies",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "fast",
+    "confs": {
+      "year": 2027,
+      "id": "fast27",
+      "link": "https://www.usenix.org/conference/fast27",
+      "timeline": [
+        {
+          "deadline": "2026-03-17 23:59:00",
+          "comment": "Spring deadline"
+        },
+        {
+          "deadline": "2026-09-15 23:59:00",
+          "comment": "Fall deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "FEBRUARY 23-25, 2027",
+      "place": "Renton, WA, USA"
+    }
+  },
+  {
+    "title": "FCCM",
+    "description": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "fccm",
+    "confs": {
+      "year": 2025,
+      "id": "fccm25",
+      "link": "https://www.fccm.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-01-10 23:59:59",
+          "deadline": "2025-01-17 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 4-7, 2025",
+      "place": "Fayetteville, Arkansas, USA"
+    }
+  },
+  {
+    "title": "FPGA",
+    "description": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "A"
+    },
+    "dblp": "fpga",
+    "confs": {
+      "year": 2026,
+      "id": "fpga2026",
+      "link": "https://www.isfpga.org/",
+      "timeline": [
+        {
+          "deadline": "2025-09-24 23:59:59",
+          "comment": "Abstracts Due"
+        },
+        {
+          "deadline": "2025-10-01 23:59:59",
+          "comment": "Submissions Due"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "February 22 - February 24, 2026",
+      "place": "Monterey, California, USA"
+    }
+  },
+  {
+    "title": "FPT",
+    "description": "International Conference on Field Programmable Technology",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "fpt",
+    "confs": {
+      "year": 2025,
+      "id": "fpt2025",
+      "link": "https://fpt2025.shanghaitech.edu.cn",
+      "timeline": [
+        {
+          "deadline": "2025-07-20 23:59:59",
+          "comment": "Title and Abstract Due (Conference Track)"
+        },
+        {
+          "deadline": "2025-08-01 23:59:59",
+          "comment": "Submission Due (Conference Track)"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 02 - December 05, 2025",
+      "place": "Shanghai, China"
+    }
+  },
+  {
+    "title": "Hot Chips",
+    "description": "Hot Chips: A Symposium on High Performance Chips",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "C",
+      "thcpl": "B"
+    },
+    "dblp": "hotchips",
+    "confs": {
+      "year": 2025,
+      "id": "hcs2025",
+      "link": "https://www.hotchips.org/",
+      "timeline": [
+        {
+          "deadline": "2025-04-16 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 24-26, 2025",
+      "place": "Memorial Auditorium, Stanford, Palo Alto, CA"
+    }
+  },
+  {
+    "title": "HPCA",
+    "description": "IEEE International Symposium on High-Performance Computer Architecture",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "hpca",
+    "confs": {
+      "year": 2026,
+      "id": "hpca26",
+      "link": "https://hpca-conf.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-07-25 23:59:59",
+          "deadline": "2025-08-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "Feb 25-Mar 1, 2026",
+      "place": "Sydney, NSW, Australia"
+    }
+  },
+  {
+    "title": "HPCC",
+    "description": "IEEE International Conference on High Performance Computing and Communications",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "hpcc",
+    "confs": {
+      "year": 2025,
+      "id": "hpcc2025",
+      "link": "https://hpcn.exeter.ac.uk/hpcc2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-18 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 13-15, 2025",
+      "place": "Exeter, UK"
+    }
+  },
+  {
+    "title": "HPDC",
+    "description": "ACM Symposium on High-Performance Parallel and Distributed Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "hpdc",
+    "confs": {
+      "year": 2026,
+      "id": "hpdc2026",
+      "link": "https://hpdc.sci.utah.edu/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-01-29 23:59:59",
+          "comment": "abstract registration deadline"
+        },
+        {
+          "deadline": "2026-02-05 23:59:59",
+          "comment": "paper submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 13-16, 2026",
+      "place": "Cleveland, OH, USA"
+    }
+  },
+  {
+    "title": "ICA3PP",
+    "description": "International Conference on Algorithms and Architectures for Parallel Processing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "ica3pp",
+    "confs": {
+      "year": 2025,
+      "id": "ica3pp",
+      "link": "https://ieee-cybermatics.org/2025/ica3pp/",
+      "timeline": [
+        {
+          "deadline": "2025-06-30 23:59:00",
+          "comment": "Paper Submission Due"
+        }
+      ],
+      "timezone": "UTC-8",
+      "date": "October 30- November 2, 2025",
+      "place": "Zhengzhou, Henan, China"
+    }
+  },
+  {
+    "title": "ICCAD",
+    "description": "IEEE/ACM International Conference on Computer-Aided Design",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "iccad",
+    "confs": {
+      "year": 2026,
+      "id": "iccad26",
+      "link": "https://iccad.com/2026",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-07 23:59:59",
+          "deadline": "2026-04-14 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "November 8 - 12, 2026",
+      "place": "San Jose, California, USA"
+    }
+  },
+  {
+    "title": "ICCD",
+    "description": "International Conference on Computer Design",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "iccd",
+    "confs": {
+      "year": 2025,
+      "id": "iccd25",
+      "link": "https://www.iccd-conf.com/home.html",
+      "timeline": [
+        {
+          "deadline": "2025-05-25 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 10-12, 2025",
+      "place": "Dallas, USA"
+    }
+  },
+  {
+    "title": "ICDCS",
+    "description": "IEEE International Conference on Distributed Computing Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "icdcs",
+    "confs": {
+      "year": 2026,
+      "id": "icdcs26",
+      "link": "http://icdcs2026.icdcs.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-21 23:59:59",
+          "deadline": "2026-01-21 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 22-25, 2026",
+      "place": "Seoul, South Korea"
+    }
+  },
+  {
+    "title": "ICPADS",
+    "description": "IEEE International Conference on Parallel and Distributed Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "icpads",
+    "confs": {
+      "year": 2025,
+      "id": "icpads25",
+      "link": "http://ieee-icpads.org.cn/",
+      "timeline": [
+        {
+          "deadline": "2025-08-31 18:00:00"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "December 14-18, 2025",
+      "place": "Hefei, China"
+    }
+  },
+  {
+    "title": "ICPP",
+    "description": "International Conference on Parallel Processing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "icpp",
+    "confs": {
+      "year": 2026,
+      "id": "icpp26",
+      "link": "https://icpp2026.github.io/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-24 23:59:59",
+          "deadline": "2026-05-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 28-October 1, 2026",
+      "place": "Singapore"
+    }
+  },
+  {
+    "title": "ICS",
+    "description": "ACM International Conference on Supercomputing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "ics",
+    "confs": {
+      "year": 2026,
+      "id": "ics26",
+      "link": "https://dipsa-qub.github.io/ICS2026-webpage/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-12-09 23:59:59",
+          "deadline": "2025-12-16 23:59:59",
+          "comment": "Cycle 1"
+        },
+        {
+          "abstract_deadline": "2026-02-02 23:59:59",
+          "deadline": "2026-02-09 23:59:59",
+          "comment": "Cycle 2"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 6-9, 2026",
+      "place": "Belfast, Northern Ireland, United Kingdom"
+    }
+  },
+  {
+    "title": "IISWC",
+    "description": "IEEE International Symposium on Workload Characterization",
+    "sub": "DS",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "iiswc",
+    "confs": {
+      "year": 2025,
+      "id": "iiswc2025",
+      "link": "https://iiswc.org/iiswc2025/",
+      "timeline": [
+        {
+          "deadline": "2025-06-21 00:00:00",
+          "comment": "Submissions Due: 2025-06-21"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "October 12-14, 2025",
+      "place": "Irvine, USA"
+    }
+  },
+  {
+    "title": "IPDPS",
+    "description": "IEEE International Parallel and Distributed Processing Symposium",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "ipps",
+    "confs": {
+      "year": 2026,
+      "id": "ipdps26",
+      "link": "https://www.ipdps.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-10-02 23:59:59",
+          "deadline": "2025-10-09 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 25-29, 2026",
+      "place": "New Orleans, USA"
+    }
+  },
+  {
+    "title": "ISCA",
+    "description": "International Symposium on Computer Architecture",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "isca",
+    "confs": {
+      "year": 2026,
+      "id": "isca26",
+      "link": "https://iscaconf.org/isca2026/",
+      "timeline": [
+        {
+          "deadline": "2025-11-10 23:59:59",
+          "comment": "abstract deadline"
+        },
+        {
+          "deadline": "2025-11-17 23:59:59",
+          "comment": "full paper deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 27-July 1, 2026",
+      "place": "Raleigh, USA"
+    }
+  },
+  {
+    "title": "ISCAS",
+    "description": "IEEE International Symposium on Circuits and Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "iscas",
+    "confs": {
+      "year": 2026,
+      "id": "iscas26",
+      "link": "https://2026.ieee-iscas.org/",
+      "timeline": [
+        {
+          "deadline": "2025-10-12 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 24-27, 2026",
+      "place": "SHANGHAI, CHINA"
+    }
+  },
+  {
+    "title": "ISPA",
+    "description": "IEEE International Symposium on Parallel and Distributed Processing with Applications",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "ispa",
+    "confs": {
+      "year": 2021,
+      "id": "ispa21",
+      "link": "http://www.cloud-conf.net/ispa2021/",
+      "timeline": [
+        {
+          "deadline": "2021-07-09 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 30-October 3, 2021",
+      "place": "New York, USA"
+    }
+  },
+  {
+    "title": "MICRO",
+    "description": "IEEE/ACM International Symposium on Microarchitecture",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "micro",
+    "confs": {
+      "year": 2026,
+      "id": "micro26",
+      "link": "https://microarch.org/micro59/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-31 23:59:59",
+          "deadline": "2026-04-07 23:59:59"
+        }
+      ],
+      "timezone": "UTC-4",
+      "date": "October 31-November 4, 2026",
+      "place": "Athens, Greece"
+    }
+  },
+  {
+    "title": "MSST",
+    "description": "International Conference on Massive Storage Systems and Technology",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "mss",
+    "confs": {
+      "year": 2024,
+      "id": "msst2024",
+      "link": "https://storageconference.us/index.html",
+      "timeline": [
+        {
+          "deadline": "2024-01-07 04:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "June 3-7, 2024",
+      "place": "Santa Clara, CA"
+    }
+  },
+  {
+    "title": "NETYS",
+    "description": "The International Conference on Networked Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "netys",
+    "confs": {
+      "year": 2024,
+      "id": "netys2024",
+      "link": "https://netys.net/",
+      "timeline": [
+        {
+          "abstract_deadline": "2024-02-29 23:59:00",
+          "deadline": "2024-03-07 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 29-31, 2024",
+      "place": "Rabat, Morocco"
+    }
+  },
+  {
+    "title": "PACT",
+    "description": "International Conference on Parallel Architectures and Compilation Techniques",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "pact",
+    "confs": {
+      "year": 2025,
+      "id": "pact25",
+      "link": "https://pact2025.github.io/",
+      "timeline": [
+        {
+          "deadline": "2025-04-11 23:59:59",
+          "comment": "Abstract submission deadline"
+        },
+        {
+          "deadline": "2025-04-18 23:59:59",
+          "comment": "Paper submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 3-6, 2025",
+      "place": "Irvine, California, USA"
+    }
+  },
+  {
+    "title": "PDCAT",
+    "description": "International Conference on Parallel and Distributed Computing, Applications and Technologies",
+    "sub": "DS",
+    "rank": {
+      "ccf": "N",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "pdcat",
+    "confs": {
+      "year": 2025,
+      "id": "pdcat2025",
+      "link": "https://www.pd-cat.org/",
+      "timeline": [
+        {
+          "deadline": "2025-08-15 23:59:00"
+        }
+      ],
+      "timezone": "UTC+10",
+      "date": "November 22-November 24, 2025",
+      "place": "Gold Coast, Australia"
+    }
+  },
+  {
+    "title": "PODC",
+    "description": "ACM Symposium on Principles of Distributed Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "B"
+    },
+    "dblp": "podc",
+    "confs": {
+      "year": 2024,
+      "id": "podc24",
+      "link": "https://www.podc.org/podc2024",
+      "timeline": [
+        {
+          "abstract_deadline": "2024-02-11 23:59:59",
+          "deadline": "2024-02-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 17-21, 2024",
+      "place": "Nantes, France"
+    }
+  },
+  {
+    "title": "PPoPP",
+    "description": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "B",
+      "thcpl": "A"
+    },
+    "dblp": "ppopp",
+    "confs": {
+      "year": 2026,
+      "id": "ppopp26",
+      "link": "https://ppopp26.sigplan.org/",
+      "timeline": [
+        {
+          "deadline": "2025-09-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Jan 31-Feb 4, 2026",
+      "place": "Sydney, Australia"
+    }
+  },
+  {
+    "title": "RTAS",
+    "description": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "rtas",
+    "confs": {
+      "year": 2026,
+      "id": "rtas2026",
+      "link": "https://2026.rtas.org/",
+      "timeline": [
+        {
+          "deadline": "2025-11-13 11:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 12-14, 2026",
+      "place": "Saint Malo, France"
+    }
+  },
+  {
+    "title": "SC",
+    "description": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "sub": "DS",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "sc",
+    "confs": {
+      "year": 2026,
+      "id": "sc26",
+      "link": "https://sc26.supercomputing.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-01 23:59:59",
+          "deadline": "2026-04-08 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 15-20, 2026",
+      "place": "McCormick Place, Chicago, Illinois, USA"
+    }
+  },
+  {
+    "title": "SIGMETRICS",
+    "description": "ACM Special Interest Group on Measurement and Evaluation",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "sigmetrics",
+    "confs": {
+      "year": 2026,
+      "id": "sigmetrics26",
+      "link": "https://www.sigmetrics.org/sigmetrics2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-07-22 23:59:00",
+          "deadline": "2025-07-29 23:59:00",
+          "comment": "summer round"
+        },
+        {
+          "abstract_deadline": "2025-10-07 23:59:00",
+          "deadline": "2025-10-14 23:59:00",
+          "comment": "fall round"
+        },
+        {
+          "abstract_deadline": "2026-01-06 23:59:00",
+          "deadline": "2026-01-13 23:59:00",
+          "comment": "winter round"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 8-12, 2026",
+      "place": "Ann Arbor, Michigan, USA"
+    }
+  },
+  {
+    "title": "SoCC",
+    "description": "ACM Symposium on Cloud Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "cloud",
+    "confs": {
+      "year": 2024,
+      "id": "socc24",
+      "link": "https://acmsocc.org/2024/",
+      "timeline": [
+        {
+          "abstract_deadline": "2024-07-08 17:00:00",
+          "deadline": "2024-07-15 17:00:00"
+        }
+      ],
+      "timezone": "UTC-4",
+      "date": "November 20-22, 2024",
+      "place": "Redmond, USA"
+    }
+  },
+  {
+    "title": "SPAA",
+    "description": "ACM Symposium on Parallelism in Algorithms and Architectures",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "spaa",
+    "confs": {
+      "year": 2026,
+      "id": "spaa26",
+      "link": "https://spaa.acm.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-02-20 23:59:59",
+          "deadline": "2026-02-27 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 6 - July 10, 2026",
+      "place": "London, UK"
+    }
+  },
+  {
+    "title": "SYSTOR",
+    "description": "The ACM International Systems and Storage Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "systor",
+    "confs": {
+      "year": 2025,
+      "id": "systor25",
+      "link": "https://www.systor.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-05-22 23:59:59",
+          "comment": "Full and Short Papers Track"
+        },
+        {
+          "deadline": "2025-07-03 22:59:59",
+          "comment": "Posters with Extended Abstract Track"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 8-9, 2025",
+      "place": "IBM Haifa, Israel"
+    }
+  },
+  {
+    "title": "VEE",
+    "description": "Virtual Execution Environments",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "vee",
+    "confs": {
+      "year": 2022,
+      "id": "vee2022",
+      "link": "https://conf.researchr.org/home/vee-2022",
+      "timeline": [
+        {
+          "deadline": "2021-12-03 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Feb 28-March 4, 2022",
+      "place": "Virtual"
+    }
+  }
+]

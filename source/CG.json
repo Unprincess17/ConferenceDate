@@ -1,0 +1,756 @@
+[
+  {
+    "title": "3DV",
+    "description": "International Conference on 3D Vision",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "3dim",
+    "confs": {
+      "year": 2026,
+      "id": "3dv2026",
+      "link": "https://3dvconf.github.io/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-08-18 23:59:59"
+        }
+      ],
+      "timezone": "UTC-7",
+      "date": "March 24-27, 2026",
+      "place": "Metro Vancouver, BC, Canada"
+    }
+  },
+  {
+    "title": "PacificVis",
+    "description": "IEEE Pacific Visualization Symposium",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "pacificvis",
+    "confs": {
+      "year": 2026,
+      "id": "pacificvis26",
+      "link": "https://pacificvis2026.github.io/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-01 23:59:00",
+          "deadline": "2025-09-07 23:59:00",
+          "comment": "Journal track"
+        },
+        {
+          "abstract_deadline": "2025-11-01 23:59:00",
+          "deadline": "2025-11-08 23:59:00",
+          "comment": "Conference track"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 20 - 23, 2026",
+      "place": "Sydney, Australia"
+    }
+  },
+  {
+    "title": "SGP",
+    "description": "Eurographics Symposium on Geometry Processing",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "sgp",
+    "confs": {
+      "year": 2025,
+      "id": "sgp25",
+      "link": "https://sgp2025.my.canva.site/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-02-04 23:59:59",
+          "deadline": "2025-02-07 23:59:59",
+          "comment": "First (visa-friendly) round"
+        },
+        {
+          "abstract_deadline": "2025-04-08 23:59:59",
+          "deadline": "2025-04-11 23:59:59",
+          "comment": "Second (traditional) round"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 30 - July 4, 2025",
+      "place": "BILBAO, SPAIN"
+    }
+  },
+  {
+    "title": "CASA",
+    "description": "International Conference on Computer Animation and Social Agents",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "ca",
+    "confs": {
+      "year": 2025,
+      "id": "casa2025",
+      "link": "https://casa2025.sciencesconf.org/",
+      "timeline": [
+        {
+          "deadline": "2025-03-08 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 2-5, 2025",
+      "place": "Strasbourg, France"
+    }
+  },
+  {
+    "title": "CGI",
+    "description": "Computer Graphics International",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "cgi",
+    "confs": {
+      "year": 2026,
+      "id": "cgi26",
+      "link": "https://www.cgs-network.org/cgi26/",
+      "timeline": [
+        {
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "July 06-10, 2026",
+      "place": "London, UK"
+    }
+  },
+  {
+    "title": "CVM",
+    "description": "The international conference on Computational Visual Media",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cvm",
+    "confs": {
+      "year": 2026,
+      "id": "cvm26",
+      "link": "http://iccvm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-10-10 23:59:59",
+          "deadline": "2025-10-13 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "April 10-12, 2026",
+      "place": "Seoul, Korea"
+    }
+  },
+  {
+    "title": "Eurographics",
+    "description": "Eurographics",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "eurographics",
+    "confs": {
+      "year": 2026,
+      "id": "eg26",
+      "link": "https://eg2026.github.io/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-22 23:59:59",
+          "deadline": "2025-09-26 23:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "May 4-8, 2026",
+      "place": "Aachen, Germany"
+    }
+  },
+  {
+    "title": "EGSR",
+    "description": "Eurographics Symposium on Rendering",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "rt",
+    "confs": {
+      "year": 2026,
+      "id": "egsr2026",
+      "link": "https://egsr2026.inria.fr/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-08 23:59:59",
+          "deadline": "2026-04-15 23:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "July 1-3, 2026",
+      "place": "Bordeaux, France"
+    }
+  },
+  {
+    "title": "EuroVis",
+    "description": "Eurographics Conference on Visualization",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "vissym",
+    "confs": {
+      "year": 2026,
+      "id": "eurovis2026",
+      "link": "https://www.eurovis.org.uk/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-26 23:59:59",
+          "deadline": "2024-12-03 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 8-12, 2026",
+      "place": "Nottingham, United Kingdom"
+    }
+  },
+  {
+    "title": "GMP",
+    "description": "International Conference on Geometric Modeling and Processing",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "gmp",
+    "confs": {
+      "year": 2026,
+      "id": "gmp26",
+      "link": "https://gmp2026.kma.zcu.cz/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-12-16 23:59:59",
+          "deadline": "2025-12-18 23:59:59"
+        }
+      ],
+      "timezone": "UTC",
+      "date": "May 27-29, 2026",
+      "place": "Pilsen, Czech Republic"
+    }
+  },
+  {
+    "title": "ICASSP",
+    "description": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "icassp",
+    "confs": {
+      "year": 2026,
+      "id": "icassp26",
+      "link": "https://2026.ieeeicassp.org/",
+      "timeline": [
+        {
+          "deadline": "2025-09-17 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "May 4-8, 2026",
+      "place": "Barcelona, Spain"
+    }
+  },
+  {
+    "title": "ICIP",
+    "description": "The IEEE International Conference on Image Processing",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "icip",
+    "confs": {
+      "year": 2026,
+      "id": "icip26",
+      "link": "https://2026.ieeeicip.org/",
+      "timeline": [
+        {
+          "deadline": "2026-02-04 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "Sep 13-17, 2026",
+      "place": "Tampere, Finland"
+    }
+  },
+  {
+    "title": "ICME",
+    "description": "The IEEE International Conference on Multimedia & Expo",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "icme",
+    "confs": {
+      "year": 2026,
+      "id": "icme26",
+      "link": "https://2026.ieeeicme.org/",
+      "timeline": [
+        {
+          "deadline": "2025-12-31 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "July 6 - July 10, 2026",
+      "place": "Bangkok, Thailand"
+    }
+  },
+  {
+    "title": "ICMR",
+    "description": "ACM SIGMM International Conference on Multimedia Retrieval",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "mir",
+    "confs": {
+      "year": 2026,
+      "id": "icmr26",
+      "link": "https://icmr2026.org/calls.html",
+      "timeline": [
+        {
+          "deadline": "2026-02-13 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "June 16-19, 2026",
+      "place": "Amsterdam, Netherlands"
+    }
+  },
+  {
+    "title": "ICVRV",
+    "description": "International Conference on Virtual Reality and Visualization",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "icvrv",
+    "confs": {
+      "year": 2025,
+      "id": "icvrv25",
+      "link": "https://icvrv2025.aconf.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-08-15 23:59:59",
+          "deadline": "2025-08-22 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 19-21, 2025",
+      "place": "Bogota, Colombia"
+    }
+  },
+  {
+    "title": "InterSpeech",
+    "description": "Conference of the International Speech Communication Association",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "interspeech",
+    "confs": {
+      "year": 2026,
+      "id": "interspeech26",
+      "link": "https://interspeech2026.org/",
+      "timeline": [
+        {
+          "deadline": "2026-02-25 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "September 27 - October 1, 2026",
+      "place": "Sydney, Australia"
+    }
+  },
+  {
+    "title": "ISMAR",
+    "description": "International Symposium on Mixed and Augmented Reality",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "B"
+    },
+    "dblp": "ismar",
+    "confs": {
+      "year": 2026,
+      "id": "ismar2026",
+      "link": "https://www.ieeeismar.net/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-09 23:59:59",
+          "deadline": "2026-03-16 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Oct 5-9, 2026",
+      "place": "Bari, Italy"
+    }
+  },
+  {
+    "title": "ACM MM",
+    "description": "ACM International Conference on Multimedia",
+    "sub": "CG",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "mm",
+    "confs": {
+      "year": 2026,
+      "id": "mm26",
+      "link": "https://2026.acmmm.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-24 11:59:59",
+          "deadline": "2026-03-31 11:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "November 10-14, 2026",
+      "place": "Rio de Janeiro, Brazil"
+    }
+  },
+  {
+    "title": "MMAsia",
+    "description": "ACM Multimedia Asia",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "mmasia",
+    "confs": {
+      "year": 2025,
+      "id": "mmasia25",
+      "link": "https://mmasia2025.org/",
+      "timeline": [
+        {
+          "deadline": "2025-07-25 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 9-12, 2025",
+      "place": "Grand Millenium Hotel, Kuala Lumpur, Malaysia"
+    }
+  },
+  {
+    "title": "MMM",
+    "description": "International Conference on Multimedia Modeling",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "mmm",
+    "confs": {
+      "year": 2026,
+      "id": "mmm26",
+      "link": "https://mmm2026.cz/",
+      "timeline": [
+        {
+          "deadline": "2025-08-19 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "January 29-31, 2026",
+      "place": "Prague, Czech Republic"
+    }
+  },
+  {
+    "title": "PG",
+    "description": "Pacific Graphics, The Pacific Conference on Computer Graphics and Applications",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "pg",
+    "confs": {
+      "year": 2025,
+      "id": "pg25",
+      "link": "https://pg2025.nccu.edu.tw/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-05-30 23:59:59",
+          "deadline": "2025-06-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 14-17, 2025",
+      "place": "National Chengchi University, Taipei, Taiwan"
+    }
+  },
+  {
+    "title": "PRCV",
+    "description": "Chinese Conference on Pattern Recognition and Computer Vision",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "prcv",
+    "confs": {
+      "year": 2025,
+      "id": "prcv25",
+      "link": "http://2025.prcv.cn/",
+      "timeline": [
+        {
+          "deadline": "2025-06-30 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "Oct 16-19, 2025",
+      "place": "Shanghai, China"
+    }
+  },
+  {
+    "title": "SCA",
+    "description": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "sca",
+    "confs": {
+      "year": 2025,
+      "id": "sca25",
+      "link": "https://computeranimation.org/",
+      "timeline": [
+        {
+          "deadline": "2025-04-07 23:59:59",
+          "comment": "Submission deadline (papers)"
+        },
+        {
+          "deadline": "2025-06-15 23:59:59",
+          "comment": "Submission deadline (posters)"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 8-10, 2025",
+      "place": "Vancouver, Canada"
+    }
+  },
+  {
+    "title": "ACM SIGGRAPH",
+    "description": "ACM SIGGRAPH Annual Conference",
+    "sub": "CG",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "siggraph",
+    "confs": {
+      "year": 2026,
+      "id": "siggraph26",
+      "link": "https://s2026.siggraph.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-15 22:00:00",
+          "deadline": "2026-01-22 22:00:00"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "July 19 - 23, 2026",
+      "place": "Los Angeles, California"
+    }
+  },
+  {
+    "title": "ACM SIGGRAPH ASIA",
+    "description": "ACM SIGGRAPH Annual Conference in Asia",
+    "sub": "CG",
+    "rank": {
+      "ccf": "A",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "siggrapha",
+    "confs": {
+      "year": 2026,
+      "id": "siggrapha26",
+      "link": "https://asia.siggraph.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "December 1-4, 2026",
+      "place": "KLCC, Kuala Lumpur, Malaysia"
+    }
+  },
+  {
+    "title": "SMI",
+    "description": "Shape Modeling International",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "smi",
+    "confs": {
+      "year": 2025,
+      "id": "smi25",
+      "link": "https://smiconf.github.io/2025/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-04-14 23:59:59",
+          "deadline": "2025-04-22 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 29 - November 2, 2025",
+      "place": "Hangzhou, Zhejiang, P.R. China"
+    }
+  },
+  {
+    "title": "SPM",
+    "description": "Symposium on Solid and Physical Modeling",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "C",
+      "thcpl": "B"
+    },
+    "dblp": "sma",
+    "confs": {
+      "year": 2025,
+      "id": "spm25",
+      "link": "https://spmconf2025.github.io/SPM2025/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-03-08 23:59:59",
+          "deadline": "2025-03-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 29 - November 2, 2025",
+      "place": "Hangzhou, Zhejiang, P.R. China"
+    }
+  },
+  {
+    "title": "VINCI",
+    "description": "International Symposium on Visual Information Communication and Interaction",
+    "sub": "CG",
+    "rank": {
+      "ccf": "N",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "vinci",
+    "confs": {
+      "year": 2025,
+      "id": "vinci2025",
+      "link": "https://vinci2025.games.cg.jku.at",
+      "timeline": [
+        {
+          "deadline": "2025-06-27 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 1-3, 2025",
+      "place": "Linz, Austria"
+    }
+  },
+  {
+    "title": "IEEE VIS",
+    "description": "IEEE Visualization Conference",
+    "sub": "CG",
+    "rank": {
+      "ccf": "A",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "visualization",
+    "confs": {
+      "year": 2026,
+      "id": "vis26",
+      "link": "https://ieeevis.org/year/2026/welcome",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-21 23:59:59",
+          "deadline": "2026-03-31 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 9-13, 2026",
+      "place": "Boston, Massachusetts, USA"
+    }
+  },
+  {
+    "title": "IEEE VR",
+    "description": "IEEE Virtual Reality",
+    "sub": "CG",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "vr",
+    "confs": {
+      "year": 2026,
+      "id": "vr26",
+      "link": "https://ieeevr.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-09-05 23:59:59",
+          "deadline": "2025-09-12 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 21 - 25, 2026",
+      "place": "Daegu, Korea"
+    }
+  }
+]

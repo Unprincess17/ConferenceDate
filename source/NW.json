@@ -1,0 +1,743 @@
+[
+  {
+    "title": "APNet",
+    "description": "Asia-Pacific Workshop on Networking",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "apnet",
+    "confs": {
+      "year": 2026,
+      "id": "apnet26",
+      "link": "https://conferences.sigcomm.org/events/apnet2026/",
+      "timeline": [
+        {
+          "deadline": "2026-03-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 6-7, 2026",
+      "place": "Osaka, Japan"
+    }
+  },
+  {
+    "title": "CoNEXT",
+    "description": "International Conference on Emerging Networking Experiments and Technologies",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "conext",
+    "confs": {
+      "year": 2026,
+      "id": "conext26",
+      "link": "https://conferences.sigcomm.org/co-next/2026/#!/home",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-12-05 23:59:59",
+          "deadline": "2025-12-12 23:59:59",
+          "comment": "December Cycle"
+        },
+        {
+          "abstract_deadline": "2026-05-29 23:59:59",
+          "deadline": "2026-06-05 23:59:59",
+          "comment": "June Cycle"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 7-10, 2026",
+      "place": "Utrecht, The Netherlands"
+    }
+  },
+  {
+    "title": "FORTE",
+    "description": "International Conference on Formal Techniques for (Networked and) Distributed Systems",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "forte",
+    "confs": {
+      "year": 2026,
+      "id": "forte26",
+      "link": "https://www.discotec.org/2026/forte",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-30 23:59:59",
+          "deadline": "2026-02-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 8-12, 2026",
+      "place": "Urbino, Italy"
+    }
+  },
+  {
+    "title": "GLOBECOM",
+    "description": "IEEE Global Communications Conference",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "globecom",
+    "confs": {
+      "year": 2026,
+      "id": "globecom26",
+      "link": "https://globecom2026.ieee-globecom.org/",
+      "timeline": [
+        {
+          "deadline": "2026-04-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "December 7-11, 2026",
+      "place": "Macao, China"
+    }
+  },
+  {
+    "title": "ICC",
+    "description": "IEEE International Conference on Communications",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "icc",
+    "confs": {
+      "year": 2026,
+      "id": "icc26",
+      "link": "https://icc2026.ieee-icc.org",
+      "timeline": [
+        {
+          "deadline": "2025-10-31 00:59:59"
+        }
+      ],
+      "timezone": "UTC-4",
+      "date": "May 24-28, 2026",
+      "place": "Glasgow, Scotland, UK"
+    }
+  },
+  {
+    "title": "ICCCN",
+    "description": "IEEE International Conference on Computer Communications and Networks",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "icccn",
+    "confs": {
+      "year": 2026,
+      "id": "icccn26",
+      "link": "http://www.icccn.org/ICCCN26/",
+      "timeline": [
+        {
+          "deadline": "2026-02-13 23:59:59"
+        }
+      ],
+      "timezone": "UTC-10",
+      "date": "July 27-30, 2026",
+      "place": "Honolulu, Hawaii, USA"
+    }
+  },
+  {
+    "title": "ICNP",
+    "description": "IEEE International Conference on Network Protocols",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "A"
+    },
+    "dblp": "icnp",
+    "confs": {
+      "year": 2026,
+      "id": "icnp26",
+      "link": "https://icnp26.cs.ucr.edu/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-05-15 23:59:59",
+          "deadline": "2026-05-22 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 5-8, 2026",
+      "place": "Tempe, Arizona, USA"
+    }
+  },
+  {
+    "title": "IMC",
+    "description": "ACM Internet Measurement Conference",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "imc",
+    "confs": {
+      "year": 2026,
+      "id": "imc26",
+      "link": "https://conferences.sigcomm.org/imc/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-13 23:59:59",
+          "deadline": "2025-11-20 23:59:59",
+          "comment": "Cycle 1 Deadline"
+        },
+        {
+          "abstract_deadline": "2026-04-22 23:59:59",
+          "deadline": "2026-04-29 23:59:59",
+          "comment": "Cycle 2 Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 03-06, 2026",
+      "place": "Karlsruhe, Germany"
+    }
+  },
+  {
+    "title": "INFOCOM",
+    "description": "IEEE International Conference on Computer Communications",
+    "sub": "NW",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "infocom",
+    "confs": {
+      "year": 2026,
+      "id": "infocom26",
+      "link": "https://infocom2026.ieee-infocom.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-07-24 23:59:59",
+          "deadline": "2025-07-31 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 18 - 21, 2026",
+      "place": "Tokyo, Japan"
+    }
+  },
+  {
+    "title": "IPSN",
+    "description": "ACM/IEEE International Conference on Information Processing in Sensor Networks",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "ipsn",
+    "confs": {
+      "year": 2022,
+      "id": "ipsn22",
+      "link": "https://ipsn.acm.org/2022/",
+      "timeline": [
+        {
+          "abstract_deadline": "2021-10-22 23:59:59",
+          "deadline": "2021-10-29 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "May 4-6, 2022",
+      "place": "Milan, Italy"
+    }
+  },
+  {
+    "title": "ISCC",
+    "description": "IEEE Symposium on Computers and Communications",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "C",
+      "thcpl": "N"
+    },
+    "dblp": "iscc",
+    "confs": {
+      "year": 2026,
+      "id": "iscc26",
+      "link": "https://ieee-iscc.computer.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-02-15 23:59:59"
+        }
+      ],
+      "timezone": "UTC+0",
+      "date": "June 23-26, 2026",
+      "place": "Vilamoura, Algarve, Portugal"
+    }
+  },
+  {
+    "title": "IWQoS",
+    "description": "IEEE/ACM International Symposium on Quality of Service",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "iwqos",
+    "confs": {
+      "year": 2026,
+      "id": "iwqos26",
+      "link": "https://iwqos2026.ieee-iwqos.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-02-02 23:59:59",
+          "deadline": "2026-02-09 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "29 June - 2 July, 2026",
+      "place": "Dubai, United Arab Emirates"
+    }
+  },
+  {
+    "title": "LCN",
+    "description": "IEEE Conference on Local Computer Networks",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "lcn",
+    "confs": {
+      "year": 2026,
+      "id": "lcn26",
+      "link": "https://www.ieeelcn.org/",
+      "timeline": [
+        {
+          "deadline": "2026-04-20 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 7-9, 2026",
+      "place": "Coimbra, Portugal"
+    }
+  },
+  {
+    "title": "MMSys",
+    "description": "ACM International Conference on Multimedia Systems",
+    "sub": "NW",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "mmsys",
+    "confs": {
+      "year": 2026,
+      "id": "mmsys26",
+      "link": "https://2026.acmmmsys.org",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-14 23:59:59",
+          "deadline": "2025-11-21 23:59:59",
+          "comment": "Round 2 deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 4 - 8, 2026",
+      "place": "Hong Kong SAR"
+    }
+  },
+  {
+    "title": "MobiCom",
+    "description": "ACM Annual International Conference On Mobile Computing And Networking",
+    "sub": "NW",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "mobicom",
+    "confs": {
+      "year": 2026,
+      "id": "mobicom26",
+      "link": "https://sigmobile.org/mobicom/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-08-27 23:59:59",
+          "deadline": "2025-09-03 23:59:59",
+          "comment": "Summer Deadlines"
+        },
+        {
+          "abstract_deadline": "2026-03-06 23:59:59",
+          "deadline": "2026-03-13 23:59:59",
+          "comment": "Winter Deadlines"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November, 2026",
+      "place": "Austin, Texas, USA"
+    }
+  },
+  {
+    "title": "MobiHoc",
+    "description": "International Symposium on Mobile Ad Hoc Networking and Computing",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "mobihoc",
+    "confs": {
+      "year": 2022,
+      "id": "mobihoc22",
+      "link": "https://www.sigmobile.org/mobihoc/2022/",
+      "timeline": [
+        {
+          "abstract_deadline": "2022-02-25 23:59:59",
+          "deadline": "2022-03-04 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "October 17-22, 2022",
+      "place": "Seoul, South Korea"
+    }
+  },
+  {
+    "title": "MobiSys",
+    "description": "ACM International Conference on Mobile Systems, Applications, and Services",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "A"
+    },
+    "dblp": "mobisys",
+    "confs": {
+      "year": 2026,
+      "id": "mobisys26",
+      "link": "https://www.sigmobile.org/mobisys/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-28 23:59:59",
+          "deadline": "2025-12-05 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 21-25, 2026",
+      "place": "Cambridge, UK"
+    }
+  },
+  {
+    "title": "MSN",
+    "description": "International Conference on Mobility, Sensing and Networking",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "msn",
+    "confs": {
+      "year": 2025,
+      "id": "msn25",
+      "link": "https://ieee-msn.org/2025",
+      "timeline": [
+        {
+          "deadline": "2025-09-15 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "December 3-6, 2025",
+      "place": "Bandung, Indonesia"
+    }
+  },
+  {
+    "title": "MSWiM",
+    "description": "International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "mswim",
+    "confs": {
+      "year": 2026,
+      "id": "mswim26",
+      "link": "https://mswimconf.com/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-06-01 23:59:59"
+        }
+      ],
+      "timezone": "UTC+1",
+      "date": "October 26-30, 2026",
+      "place": "Paris, France"
+    }
+  },
+  {
+    "title": "Networking",
+    "description": "IFIP International Conference on Networking",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "networking",
+    "confs": {
+      "year": 2026,
+      "id": "networking26",
+      "link": "https://networking.ifip.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-02-08 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 24-27, 2026",
+      "place": "Lugano, Switzerland"
+    }
+  },
+  {
+    "title": "NOSSDAV",
+    "description": "International Workshop on Network and Operating System Support for Digital Audio and Video",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "nossdav",
+    "confs": {
+      "year": 2025,
+      "id": "nossdav25",
+      "link": "https://nossdav.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-01-17 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 31- April 3, 2025",
+      "place": "Stellenbosch, South Africa"
+    }
+  },
+  {
+    "title": "NSDI",
+    "description": "USENIX Symposium on Networked Systems Design and Implementation",
+    "sub": "NW",
+    "rank": {
+      "ccf": "A",
+      "core": "N",
+      "thcpl": "A"
+    },
+    "dblp": "nsdi",
+    "confs": {
+      "year": 2026,
+      "id": "nsdi26",
+      "link": "https://www.usenix.org/conference/nsdi26",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-04-18 23:59:59",
+          "deadline": "2025-04-25 23:59:59"
+        },
+        {
+          "abstract_deadline": "2025-09-11 23:59:59",
+          "deadline": "2025-09-18 23:59:59"
+        }
+      ],
+      "timezone": "UTC-7",
+      "date": "May 4-6, 2026",
+      "place": "Renton, WA, USA"
+    }
+  },
+  {
+    "title": "SECON",
+    "description": "IEEE International Conference on Sensing, Communication, and Networking",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "secon",
+    "confs": {
+      "year": 2026,
+      "id": "secon26",
+      "link": "https://secon2026.ieee-secon.org/important-dates",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-12-08 23:59:59",
+          "deadline": "2025-12-30 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 27-29, 2026",
+      "place": "Abu Dhabi, UAE"
+    }
+  },
+  {
+    "title": "SenSys",
+    "description": "ACM Conference on Embedded Networked Sensor Systems",
+    "sub": "NW",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "sensys",
+    "confs": {
+      "year": 2026,
+      "id": "sensys26",
+      "link": "https://sensys.acm.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-06-24 23:59:00",
+          "deadline": "2025-07-01 23:59:00",
+          "comment": "1st deadline"
+        },
+        {
+          "abstract_deadline": "2025-11-06 23:59:00",
+          "deadline": "2025-11-13 23:59:00",
+          "comment": "2nd deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 11-14, 2026",
+      "place": "Saint-Malo, France"
+    }
+  },
+  {
+    "title": "SIGCOMM",
+    "description": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+    "sub": "NW",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "sigcomm",
+    "confs": {
+      "year": 2026,
+      "id": "sigcomm26",
+      "link": "https://conferences.sigcomm.org/sigcomm/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-30 23:59:59",
+          "deadline": "2026-02-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "TBD",
+      "place": "Denver, Colorado, USA"
+    }
+  },
+  {
+    "title": "WASA",
+    "description": "International Conference on Wireless Algorithms, Systems, and Applications",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "wasa",
+    "confs": {
+      "year": 2026,
+      "id": "wasa26",
+      "link": "http://wasa-conference.org/WASA2026/",
+      "timeline": [
+        {
+          "deadline": "2026-03-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 6-9, 2026",
+      "place": "Xi'an, China"
+    }
+  },
+  {
+    "title": "WCNC",
+    "description": "Wireless Communications and Networking Conference",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "wcnc",
+    "confs": {
+      "year": 2026,
+      "id": "wcnc26",
+      "link": "https://wcnc2026.ieee-wcnc.org/group/21",
+      "timeline": [
+        {
+          "deadline": "2025-09-14 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "April 13-16, 2026",
+      "place": "Kuala Lumpur, Malaysia"
+    }
+  },
+  {
+    "title": "WiCON",
+    "description": "International Wireless Internet Conference",
+    "sub": "NW",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "wicon",
+    "confs": {
+      "year": 2025,
+      "id": "wicon2025",
+      "link": "https://wicon.eai-conferences.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-10-20 23:59:59"
+        }
+      ],
+      "timezone": "UTC+3",
+      "date": "December 19, 2025",
+      "place": "Istanbul, Turkey (Online)"
+    }
+  },
+  {
+    "title": "WoWMoM",
+    "description": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "wowmom",
+    "confs": {
+      "year": 2026,
+      "id": "wowmom26",
+      "link": "https://www.cs.unibo.it/wowmom2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-18 23:59:59",
+          "deadline": "2025-12-05 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 16-19, 2026",
+      "place": "Bologna, Italy"
+    }
+  }
+]

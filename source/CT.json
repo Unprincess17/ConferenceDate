@@ -1,0 +1,346 @@
+[
+  {
+    "title": "CADE",
+    "description": "The Conference on Automated Deduction (CADE)",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A"
+    },
+    "dblp": "cade",
+    "confs": {
+      "year": 2025,
+      "id": "cade25",
+      "link": "https://www.dhbw-stuttgart.de/cade-30/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-02-17 23:59:59",
+          "deadline": "2025-02-24 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 28-31, 2025",
+      "place": "DHBW Stuttgart, Stuttgart, Germany"
+    }
+  },
+  {
+    "title": "CAV",
+    "description": "International Conference on Computer-Aided Verification",
+    "sub": "CT",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "cav",
+    "confs": {
+      "year": 2026,
+      "id": "cav26",
+      "link": "https://conferences.i-cav.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-01-28 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 26-29, 2026",
+      "place": "Lisbon, Portugal"
+    }
+  },
+  {
+    "title": "COCOON",
+    "description": "International Computing and Combinatorics Conference",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cocoon",
+    "confs": {
+      "year": 2025,
+      "id": "cocoon25",
+      "link": "https://tcsuestc.com/cocoon2025",
+      "timeline": [
+        {
+          "deadline": "2025-03-05 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 15-17, 2025",
+      "place": "Chengdu, China"
+    }
+  },
+  {
+    "title": "CONCUR",
+    "description": "International Conference on Concurrency Theory",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "concur",
+    "confs": {
+      "year": 2025,
+      "id": "concur25",
+      "link": "https://conferences.au.dk/confest2025/concur",
+      "timeline": [
+        {
+          "deadline": "2025-04-09 23:59:59",
+          "abstract_deadline": "2025-04-03 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Aug 26-29, 2025",
+      "place": "Aarhus, Denmark"
+    }
+  },
+  {
+    "title": "FMCAD",
+    "description": "Formal Methods in Computer-Aided Design",
+    "sub": "CT",
+    "rank": {
+      "ccf": "C",
+      "core": "B"
+    },
+    "dblp": "fmcad",
+    "confs": {
+      "year": 2025,
+      "id": "fmcad25",
+      "link": "https://fmcad.forsyte.at/FMCAD25/",
+      "timeline": [
+        {
+          "deadline": "2025-04-27 23:59:00",
+          "abstract_deadline": "2025-04-20 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Oct. 6-10, 2025",
+      "place": "Menlo Park, USA"
+    }
+  },
+  {
+    "title": "FOCS",
+    "description": "IEEE Symposium on Foundations of Computer Science",
+    "sub": "CT",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "focs",
+    "confs": {
+      "year": 2025,
+      "id": "focs25",
+      "link": "https://focs.computer.org/2025/",
+      "timeline": [
+        {
+          "deadline": "2025-04-03 20:00:00"
+        }
+      ],
+      "timezone": "UTC-5",
+      "date": "December 14-17, 2025",
+      "place": "Sydney, Australia"
+    }
+  },
+  {
+    "title": "HSCC",
+    "description": "International Conference on Hybrid Systems: Computation and Control",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "hybrid",
+    "confs": {
+      "year": 2026,
+      "id": "hscc26",
+      "link": "https://www.isis.vanderbilt.edu/events/hscciccps-2026",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-06 23:59:59",
+          "deadline": "2025-11-13 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 11-14, 2026",
+      "place": "Saint Malo, France"
+    }
+  },
+  {
+    "title": "ICALP",
+    "description": "EATCS International Colloquium on Automata, Languages, and Programming",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A"
+    },
+    "dblp": "icalp",
+    "confs": {
+      "year": 2026,
+      "id": "icalp26",
+      "link": "https://icalppodcspaa2026.cs.rhul.ac.uk/",
+      "timeline": [
+        {
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 6-10, 2026",
+      "place": "London, UK"
+    }
+  },
+  {
+    "title": "ISIT",
+    "description": "IEEE International Symposium on Information Theory",
+    "sub": "CT",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "isit",
+    "confs": {
+      "year": 2026,
+      "id": "isit26",
+      "link": "https://2026.ieee-isit.org/",
+      "timeline": [
+        {
+          "deadline": "2026-01-16 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 28 - July 3, 2026",
+      "place": "Guangzhou, China"
+    }
+  },
+  {
+    "title": "LICS",
+    "description": "IEEE Symposium on Logic in Computer Science",
+    "sub": "CT",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "lics",
+    "confs": {
+      "year": 2026,
+      "id": "lics26",
+      "link": "https://lics.siglog.org/lics26/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-01-15 23:59:59",
+          "deadline": "2026-01-22 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 20-23, 2026",
+      "place": "Lisbon, Portugal"
+    }
+  },
+  {
+    "title": "SETTA",
+    "description": "Symposium on Dependable Software Engineering: Theories, Tools and Applications",
+    "sub": "CT",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "setta",
+    "confs": {
+      "year": 2025,
+      "id": "setta25",
+      "link": "https://www.setta2025.uk",
+      "timeline": [
+        {
+          "deadline": "2025-04-30 23:59:59",
+          "comment": "Round 1 Paper Submission"
+        },
+        {
+          "deadline": "2025-08-20 23:59:59",
+          "comment": "Round 2 Paper Submission"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Dec, 2025",
+      "place": "Oxford, UK"
+    }
+  },
+  {
+    "title": "SOCG",
+    "description": "International Symposium on Computational Geometry",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "compgeom",
+    "confs": {
+      "year": 2026,
+      "id": "socg26",
+      "link": "https://cgweek26.computational-geometry.org/contribute/",
+      "timeline": [
+        {
+          "abstract_deadline": "2025-11-25 23:59:00",
+          "deadline": "2025-12-02 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 2-5, 2026",
+      "place": "New Brunswick, New Jersey, USA"
+    }
+  },
+  {
+    "title": "SODA",
+    "description": "ACM-SIAM Symposium on Discrete Algorithms",
+    "sub": "CT",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "soda",
+    "confs": {
+      "year": 2026,
+      "id": "soda26",
+      "link": "https://www.siam.org/conferences-events/siam-conferences/soda26/",
+      "timeline": [
+        {
+          "deadline": "2025-07-14 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "January 11-14, 2026",
+      "place": "Hyatt Regency Vancouver, Vancouver, Canada"
+    }
+  },
+  {
+    "title": "STOC",
+    "description": "ACM Symposium on the Theory of Computing",
+    "sub": "CT",
+    "rank": {
+      "ccf": "A",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "stoc",
+    "confs": {
+      "year": 2026,
+      "id": "stoc26",
+      "link": "https://acm-stoc.org/stoc2026/",
+      "timeline": [
+        {
+          "deadline": "2025-11-04 16:59:59"
+        }
+      ],
+      "timezone": "UTC-5",
+      "date": "June 22-26, 2026",
+      "place": "Salt Lake City, Utah, USA"
+    }
+  }
+]
