@@ -9,16 +9,16 @@ let activeFilters = {
 };
 
 const areaNames = {
-    '080101': 'Computer Architecture',
-    '080102': 'Computer Networks',
-    '080103': 'Cybersecurity',
-    '080104': 'Databases',
-    '080105': 'Computer Graphics',
-    '080106': 'Human-Computer Interaction',
-    '080107': 'Machine Learning',
-    '080108': 'Software Engineering',
-    '080109': 'Systems Software',
-    '080110': 'Theoretical Computer Science'
+    'DS': 'Computer Architecture',
+    'NW': 'Network System',
+    'SC': 'Network and System Security',
+    'SE': 'Software Engineering',
+    'DB': 'Databases',
+    'CT': 'Computer Theoretical',
+    'CG': 'Graphics',
+    'AI': 'Artificial Intelligence',
+    'HI': 'Human-Computer Interaction',
+    'MX': 'Interdiscipline/Mixture/Emerging',
 };
 
 // LocalStorage functions
