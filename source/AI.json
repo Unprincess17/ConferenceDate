@@ -1103,18 +1103,17 @@
     },
     "dblp": "nips",
     "confs": {
-      "year": 2025,
-      "id": "nips25",
-      "link": "https://neurips.cc/Conferences/2025",
+      "year": 2026,
+      "id": "nips26",
+      "link": "https://neurips.cc/Conferences/2026",
       "timeline": [
         {
-          "abstract_deadline": "2025-05-11 23:59:59",
-          "deadline": "2025-05-15 23:59:59"
+          "deadline": "2026-05-07 11:59:00"
         }
       ],
-      "timezone": "AoE",
-      "date": "December 2-7, 2025",
-      "place": "San Diego Convention Center, USA"
+      "timezone": "UTC+0",
+      "date": "December 6, 2026",
+      "place": "Sydney, Australia"
     }
   },
   {
@@ -1191,7 +1190,7 @@
   },
   {
     "title": "ProbML",
-    "description": "Symposium on Probabilistic Machine Learnin",
+    "description": "Symposium on Probabilistic Machine Learning",
     "sub": "AI",
     "rank": {
       "ccf": "N",
