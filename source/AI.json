@@ -10,18 +10,18 @@
     },
     "dblp": "aaai",
     "confs": {
-      "year": 2026,
-      "id": "aaai26",
-      "link": "https://aaai.org/conference/aaai/aaai-26/",
+      "year": 2027,
+      "id": "aaai27",
+      "link": "https://aaai.org/conference/aaai/aaai-27/",
       "timeline": [
         {
-          "abstract_deadline": "2025-07-25 23:59:59",
-          "deadline": "2025-08-01 23:59:59"
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
         }
       ],
       "timezone": "UTC-12",
-      "date": "January 20 - 27, 2026",
-      "place": "Singapore EXPO"
+      "date": "February 16-23, 2027",
+      "place": "Montréal, Québec, Canada"
     }
   },
   {
@@ -504,17 +504,17 @@
     },
     "dblp": "emnlp",
     "confs": {
-      "year": 2025,
-      "id": "emnlp25",
-      "link": "https://2025.emnlp.org/",
+      "year": 2026,
+      "id": "emnlp26",
+      "link": "https://2026.emnlp.org/",
       "timeline": [
         {
-          "deadline": "2025-05-19 23:59:59"
+          "deadline": "2026-05-25 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "November 5 - 9, 2025",
-      "place": "Suzhou, China"
+      "date": "October 24 - 29, 2026",
+      "place": "Budapest, Hungary"
     }
   },
   {
