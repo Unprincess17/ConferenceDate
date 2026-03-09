@@ -161,8 +161,8 @@
       "link": "https://cp2026.a4cp.org/",
       "timeline": [
         {
-          "abstract_deadline": "TBD",
-          "deadline": "TBD"
+          "abstract_deadline": "2026-03-02 23:59:59",
+          "deadline": "2026-03-14 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -468,24 +468,19 @@
     },
     "dblp": "icse",
     "confs": {
-      "year": 2026,
-      "id": "icse26",
-      "link": "https://conf.researchr.org/home/icse-2026",
+      "year": 2027,
+      "id": "icse27",
+      "link": "https://conf.researchr.org/home/icse-2027",
       "timeline": [
         {
-          "abstract_deadline": "2025-03-07 23:59:59",
-          "deadline": "2025-03-14 23:59:59",
-          "comment": "First Cycle: Submission"
-        },
-        {
-          "abstract_deadline": "2025-07-11 23:59:59",
-          "deadline": "2025-07-18 23:59:59",
-          "comment": "Second Cycle: Submission"
+          "abstract_deadline": "2026-06-23 23:59:59",
+          "deadline": "2026-06-30 23:59:59",
+          "comment": "Single Submission Cycle Deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "April 12-18, 2026",
-      "place": "Rio De Janeiro, Brazil"
+      "date": "April 25-May 01, 2027",
+      "place": "Dublin, Ireland"
     }
   },
   {
@@ -548,6 +543,30 @@
     }
   },
   {
+    "title": "ICST",
+    "description": "IEEE International Conference on Software Testing, Verification and Validation",
+    "sub": "SE",
+    "rank": {
+      "ccf": "C",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "icst",
+    "confs": {
+      "year": 2026,
+      "id": "icst2026",
+      "link": "https://conf.researchr.org/home/icst-2026",
+      "timeline": [
+        {
+          "deadline": "2025-12-22 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "May 18-22, 2026",
+      "place": "Daejeon, South Korea"
+    }
+  },
+  {
     "title": "ICWS",
     "description": "IEEE International Conference on Web Services (Research Track)",
     "sub": "SE",
@@ -558,18 +577,17 @@
     },
     "dblp": "icws",
     "confs": {
-      "year": 2025,
-      "id": "icws25",
-      "link": "https://services.conferences.computer.org/2025/icws-2025/",
+      "year": 2026,
+      "id": "icws26",
+      "link": "https://services.conferences.computer.org/2026/icws-2026/",
       "timeline": [
         {
-          "abstract_deadline": "2025-02-24 23:59:59",
-          "deadline": "2025-03-03 23:59:59"
+          "deadline": "2025-03-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "July 7-12, 2025",
-      "place": "Helsinki, Finland"
+      "date": "July 13-18, 2026",
+      "place": "Sydney, Australia"
     }
   },
   {
@@ -633,22 +651,18 @@
     },
     "dblp": "issre",
     "confs": {
-      "year": 2025,
-      "id": "issre25",
-      "link": "https://issre.github.io/2025/index.html",
+      "year": 2026,
+      "id": "issre26",
+      "link": "https://cyprusconferences.org/issre2026/",
       "timeline": [
         {
-          "deadline": "2025-04-28 23:59:59",
-          "comment": "Abstract submission - Research Track"
-        },
-        {
-          "deadline": "2025-05-05 23:59:59",
-          "comment": "Paper submission - Research Track"
+          "abstract_deadline": "2026-04-10 23:59:59",
+          "deadline": "2025-04-17 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 21st-24th, 2025",
-      "place": "São Paulo, Brazil"
+      "date": "October 20-23, 2026",
+      "place": "Limassol, Cyprus"
     }
   },
   {

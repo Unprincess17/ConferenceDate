@@ -135,6 +135,30 @@
     }
   },
   {
+    "title": "BlockSys",
+    "description": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "blocksys",
+    "confs": {
+      "year": 2026,
+      "id": "blocksys2026",
+      "link": "https://blocksys.info/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-03-30 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "July 29-31, 2026",
+      "place": "Chengdu, China"
+    }
+  },
+  {
     "title": "CCS",
     "description": "ACM Conference on Computer and Communications Security",
     "sub": "SC",
@@ -201,6 +225,30 @@
     }
   },
   {
+    "title": "CODASPY",
+    "description": "ACM Conference on Data and Application Security and Privacy",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "codaspy",
+    "confs": {
+      "year": 2026,
+      "id": "codaspy2026",
+      "link": "https://www.codaspy.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2025-12-26 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 23-25, 2026",
+      "place": "Frankfurt am Main, Germany"
+    }
+  },
+  {
     "title": "CRYPTO",
     "description": "International Cryptology Conference",
     "sub": "SC",
@@ -222,6 +270,30 @@
       "timezone": "UTC-12",
       "date": "August 17-20, 2026",
       "place": "Santa Barbara, USA"
+    }
+  },
+  {
+    "title": "CSCloud",
+    "description": "IEEE International Conference on Cyber Security and Cloud Computing",
+    "sub": "SC",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cscloud",
+    "confs": {
+      "year": 2026,
+      "id": "cscloud2026",
+      "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/",
+      "timeline": [
+        {
+          "deadline": "2026-08-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 19-21, 2026",
+      "place": "Shanghai, China"
     }
   },
   {
@@ -1171,17 +1243,17 @@
     },
     "dblp": "trustcom",
     "confs": {
-      "year": 2026,
-      "id": "trustcom26",
-      "link": "https://collaboratecom.eai-conferences.org/2026/",
+      "year": 2025,
+      "id": "trustcom25",
+      "link": "https://ieee-aiplus-2025.org/",
       "timeline": [
         {
-          "deadline": "2026-05-01 23:59:59"
+          "deadline": "2025-08-01 23:59:59"
         }
       ],
       "timezone": "UTC+8",
-      "date": "November 14 - 15, 2026",
-      "place": "Hong Kong SAR, China"
+      "date": "November 14 - 17, 2025",
+      "place": "Guiyang, China"
     }
   },
   {
@@ -1201,12 +1273,12 @@
       "timeline": [
         {
           "abstract_deadline": "2026-08-18 23:59:59",
-          "deadline": "2025-08-25 23:59:59",
+          "deadline": "2026-08-25 23:59:59",
           "comment": "Cycle 1 Deadline"
         },
         {
-          "abstract_deadline": "2026-01-19 23:59:59",
-          "deadline": "2026-01-26 23:59:59",
+          "abstract_deadline": "2027-01-19 23:59:59",
+          "deadline": "2027-01-26 23:59:59",
           "comment": "Cycle 2 Deadline"
         }
       ],

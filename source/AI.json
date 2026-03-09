@@ -70,7 +70,7 @@
       ],
       "timezone": "UTC-12",
       "date": "December 14-18, 2026",
-      "place": "Osaka, japan"
+      "place": "Osaka, Japan"
     }
   },
   {
@@ -191,8 +191,8 @@
       "link": "https://bmvc2026.bmva.org/",
       "timeline": [
         {
-          "abstract_deadline": "TBD",
-          "deadline": "TBD"
+          "abstract_deadline": "2026-05-22 23:59:59",
+          "deadline": "2026-05-29 23:59:59"
         }
       ],
       "timezone": "UTC+0",
@@ -357,17 +357,18 @@
     },
     "dblp": "corl",
     "confs": {
-      "year": 2025,
-      "id": "corl25",
+      "year": 2026,
+      "id": "corl26",
       "link": "https://www.corl.org/",
       "timeline": [
         {
-          "deadline": "2025-04-30 23:59:59"
+          "abstract_deadline": "2026-05-25 23:59:59",
+          "deadline": "2026-05-28 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "September 27-30, 2025",
-      "place": "Seoul, Korea"
+      "date": "November 10-12, 2026",
+      "place": "Austin, Texas, USA"
     }
   },
   {
@@ -730,7 +731,7 @@
     "description": "International Conference on Learning Representations",
     "sub": "AI",
     "rank": {
-      "ccf": "N",
+      "ccf": "A",
       "core": "A*",
       "thcpl": "A"
     },
@@ -877,7 +878,7 @@
     "description": "International Joint Conference on Artificial Intelligence",
     "sub": "AI",
     "rank": {
-      "ccf": "A",
+      "ccf": "B",
       "core": "A*",
       "thcpl": "B"
     },
@@ -1175,17 +1176,17 @@
     },
     "dblp": "pricai",
     "confs": {
-      "year": 2025,
-      "id": "pricai2025",
-      "link": "https://www.pricai.org/2025/",
+      "year": 2026,
+      "id": "pricai2026",
+      "link": "https://2026.pricai.org/",
       "timeline": [
         {
-          "deadline": "2025-06-27 23:59:59"
+          "deadline": "2026-06-13 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "Nov 17-21, 2025",
-      "place": "Wellington, New Zealand"
+      "date": "Nov 17-20, 2026",
+      "place": "Guangzhou, China"
     }
   },
   {

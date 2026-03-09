@@ -1,11 +1,12 @@
 [
   {
     "title": "CADE",
-    "description": "The Conference on Automated Deduction (CADE)",
+    "description": "The Conference on Automated Deduction",
     "sub": "CT",
     "rank": {
       "ccf": "B",
-      "core": "A"
+      "core": "A",
+      "thcpl": "B"
     },
     "dblp": "cade",
     "confs": {
@@ -58,17 +59,17 @@
     },
     "dblp": "cocoon",
     "confs": {
-      "year": 2025,
-      "id": "cocoon25",
-      "link": "https://tcsuestc.com/cocoon2025",
+      "year": 2026,
+      "id": "cocoon26",
+      "link": "https://event.ntu.edu.sg/cocoon2026",
       "timeline": [
         {
-          "deadline": "2025-03-05 23:59:59"
+          "deadline": "2025-03-04 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "August 15-17, 2025",
-      "place": "Chengdu, China"
+      "date": "July 23-25, 2026",
+      "place": "Singapore"
     }
   },
   {
@@ -77,23 +78,23 @@
     "sub": "CT",
     "rank": {
       "ccf": "B",
-      "core": "A",
+      "core": "B",
       "thcpl": "B"
     },
     "dblp": "concur",
     "confs": {
-      "year": 2025,
-      "id": "concur25",
-      "link": "https://conferences.au.dk/confest2025/concur",
+      "year": 2026,
+      "id": "concur26",
+      "link": "https://confest-2026.github.io/concur/",
       "timeline": [
         {
-          "deadline": "2025-04-09 23:59:59",
-          "abstract_deadline": "2025-04-03 23:59:59"
+          "deadline": "2026-04-27 23:59:59",
+          "abstract_deadline": "2026-04-20 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "Aug 26-29, 2025",
-      "place": "Aarhus, Denmark"
+      "date": "Sep 1-4, 2026",
+      "place": "Liverpool, UK"
     }
   },
   {
@@ -101,23 +102,24 @@
     "description": "Formal Methods in Computer-Aided Design",
     "sub": "CT",
     "rank": {
-      "ccf": "C",
-      "core": "B"
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
     },
     "dblp": "fmcad",
     "confs": {
-      "year": 2025,
-      "id": "fmcad25",
-      "link": "https://fmcad.forsyte.at/FMCAD25/",
+      "year": 2026,
+      "id": "fmcad26",
+      "link": "https://fmcad.forsyte.at/FMCAD26/",
       "timeline": [
         {
-          "deadline": "2025-04-27 23:59:00",
-          "abstract_deadline": "2025-04-20 23:59:00"
+          "deadline": "2026-04-26 23:59:59",
+          "abstract_deadline": "2026-05-03 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "Oct. 6-10, 2025",
-      "place": "Menlo Park, USA"
+      "date": "Sep. 14-18, 2026",
+      "place": "Graz, Austria"
     }
   },
   {
@@ -131,17 +133,17 @@
     },
     "dblp": "focs",
     "confs": {
-      "year": 2025,
-      "id": "focs25",
-      "link": "https://focs.computer.org/2025/",
+      "year": 2026,
+      "id": "focs26",
+      "link": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
       "timeline": [
         {
-          "deadline": "2025-04-03 20:00:00"
+          "deadline": "2026-04-01 21:00:00"
         }
       ],
-      "timezone": "UTC-5",
-      "date": "December 14-17, 2025",
-      "place": "Sydney, Australia"
+      "timezone": "UTC",
+      "date": "November 8-11, 2026",
+      "place": "New York City, NY, USA"
     }
   },
   {
@@ -175,7 +177,8 @@
     "sub": "CT",
     "rank": {
       "ccf": "B",
-      "core": "A"
+      "core": "A*",
+      "thcpl": "A"
     },
     "dblp": "icalp",
     "confs": {
@@ -184,12 +187,37 @@
       "link": "https://icalppodcspaa2026.cs.rhul.ac.uk/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "deadline": "2026-02-06 23:59:59"
         }
       ],
       "timezone": "AoE",
       "date": "July 6-10, 2026",
       "place": "London, UK"
+    }
+  },
+  {
+    "title": "IJCAR",
+    "description": "International Joint Conference on Automated Reasoning",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "ijcar",
+    "confs": {
+      "year": 2026,
+      "id": "ijcar26",
+      "link": "https://www.floc26.org/ijcar",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-02-06 23:59:59",
+          "deadline": "2025-02-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 26-29, 2026",
+      "place": "Lisbon, Portugal"
     }
   },
   {
@@ -238,6 +266,31 @@
       ],
       "timezone": "AoE",
       "date": "July 20-23, 2026",
+      "place": "Lisbon, Portugal"
+    }
+  },
+  {
+    "title": "SAT",
+    "description": "International Conference on Theory and Applications of Satisfiability Testing",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "sat",
+    "confs": {
+      "year": 2026,
+      "id": "sat26",
+      "link": "https://satisfiability.org/SAT26/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-02 23:59:59",
+          "deadline": "2026-03-10 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 20 - July 23, 2026",
       "place": "Lisbon, Portugal"
     }
   },

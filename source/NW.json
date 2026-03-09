@@ -15,12 +15,12 @@
       "link": "https://conferences.sigcomm.org/events/apnet2026/",
       "timeline": [
         {
-          "deadline": "2026-03-06 23:59:59"
+          "deadline": "2026-03-11 23:59:59"
         }
       ],
       "timezone": "AoE",
       "date": "August 6-7, 2026",
-      "place": "Osaka, Japan"
+      "place": "Singapore"
     }
   },
   {
@@ -550,7 +550,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-16 23:59:59",
-          "deadline": "2026-04-16 23:59:59"
+          "deadline": "2026-04-23 23:59:59"
         },
         {
           "abstract_deadline": "2026-09-10 23:59:59",

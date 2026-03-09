@@ -34,17 +34,17 @@
     },
     "dblp": "bibm",
     "confs": {
-      "year": 2025,
-      "id": "bibm25",
-      "link": "https://ieeebibm.org/BIBM2025/",
+      "year": 2026,
+      "id": "bibm26",
+      "link": "https://ieeebibm.org/BIBM2026/",
       "timeline": [
         {
-          "deadline": "2025-08-03 17:00:00"
+          "deadline": "2026-07-05 17:00:00"
         }
       ],
       "timezone": "UTC-5",
-      "date": "Dec 15-18, 2025",
-      "place": "Wuhan, China"
+      "date": "Dec 1-4, 2026",
+      "place": "Dallas, USA"
     }
   },
   {
@@ -58,17 +58,17 @@
     },
     "dblp": "bigdataconf",
     "confs": {
-      "year": 2025,
-      "id": "bigdata25",
-      "link": "https://conferences.cis.um.edu.mo/ieeebigdata2025/",
+      "year": 2026,
+      "id": "bigdata26",
+      "link": "https://bigdataieee.org/BigData2026/",
       "timeline": [
         {
-          "deadline": "2025-08-29 23:59:59"
+          "deadline": "2026-08-21 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "December 8-11, 2025",
-      "place": "Macau SAR, China"
+      "date": "December 14-17, 2026",
+      "place": "Phoenix, Arizona, United State"
     }
   },
   {
@@ -368,7 +368,7 @@
     "description": "Conference on Web and Internet Economics",
     "sub": "MX",
     "rank": {
-      "ccf": "A",
+      "ccf": "B",
       "core": "N",
       "thcpl": "N"
     },

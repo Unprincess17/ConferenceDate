@@ -15,12 +15,37 @@
       "link": "https://www.glsvlsi.org/",
       "timeline": [
         {
-          "deadline": "2026-03-02 23:59:00"
+          "deadline": "2026-03-16 23:59:00"
         }
       ],
       "timezone": "UTC-5",
       "date": "June 22-24, 2026",
       "place": "Finger Lakes, NY, USA"
+    }
+  },
+  {
+    "title": "APPT",
+    "description": "International Symposium on Advanced Parallel Programming Technologies",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "appt",
+    "confs": {
+      "year": 2026,
+      "id": "appt2026",
+      "link": "https://www.appt-conference.com/2026",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-27 23:59:00",
+          "deadline": "2026-04-03 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 27-31, 2026",
+      "place": "Brussels, Belgium"
     }
   },
   {
@@ -124,7 +149,7 @@
       ],
       "timezone": "AoE",
       "date": "TBD",
-      "place": "TBD"
+      "place": "Crete, Greece"
     }
   },
   {
@@ -150,6 +175,30 @@
       "timezone": "UTC+0",
       "date": "July 7-9, 2025",
       "place": "Boston, MA, USA"
+    }
+  },
+  {
+    "title": "ATS",
+    "description": "IEEE Asian Test Symposium",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "ats",
+    "confs": {
+      "year": 2026,
+      "id": "ats2026",
+      "link": "https://www.ats2026.tw/",
+      "timeline": [
+        {
+          "deadline": "2026-06-06 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "December 1-3, 2026",
+      "place": "Taiwan"
     }
   },
   {
@@ -311,23 +360,23 @@
     "sub": "DS",
     "rank": {
       "ccf": "C",
-      "core": "N",
+      "core": "B",
       "thcpl": "N"
     },
     "dblp": "ets",
     "confs": {
-      "year": 2024,
-      "id": "ets2024",
-      "link": "https://ets24.ewi.tudelft.nl/",
+      "year": 2026,
+      "id": "ets2026",
+      "link": "https://ets2026.uniwa.gr/",
       "timeline": [
         {
-          "abstract_deadline": "2023-12-08 23:59:59",
-          "deadline": "2023-12-16 23:59:59"
+          "abstract_deadline": "2025-12-15 23:59:59",
+          "deadline": "2026-01-12 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 20-24, 2024",
-      "place": "The Hague, Netherlands"
+      "date": "May 25-29, 2026",
+      "place": "Chania, Greec"
     }
   },
   {
@@ -523,6 +572,30 @@
     }
   },
   {
+    "title": "HotStorage",
+    "description": "ACM Workshop on Hot Topics in Storage and File Systems",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "hotstorage",
+    "confs": {
+      "year": 2026,
+      "id": "hotstorage2026",
+      "link": "https://www.hotstorage.org/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-06-05 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 28-29, 2026",
+      "place": "Prague, Czechia"
+    }
+  },
+  {
     "title": "HPCA",
     "description": "IEEE International Symposium on High-Performance Computer Architecture",
     "sub": "DS",
@@ -576,7 +649,7 @@
     "description": "ACM Symposium on High-Performance Parallel and Distributed Computing",
     "sub": "DS",
     "rank": {
-      "ccf": "B",
+      "ccf": "A",
       "core": "A",
       "thcpl": "B"
     },
@@ -863,7 +936,7 @@
     "description": "IEEE International Symposium on Circuits and Systems",
     "sub": "DS",
     "rank": {
-      "ccf": "C",
+      "ccf": "B",
       "core": "N",
       "thcpl": "B"
     },
@@ -904,6 +977,56 @@
       "timezone": "AoE",
       "date": "September 30-October 3, 2021",
       "place": "New York, USA"
+    }
+  },
+  {
+    "title": "ITC-Asia",
+    "description": "IEEE International Test Conference in Asia",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "itc-asia",
+    "confs": {
+      "year": 2026,
+      "id": "itc-asia2026",
+      "link": "https://www.castest.com.cn/itcasia_2026",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-18 23:59:59",
+          "deadline": "2026-04-25 23:59:59"
+        }
+      ],
+      "timezone": "UTC+8",
+      "date": "August 19-21, 2026",
+      "place": "Ningbo International Conference Center, Ningbo, China"
+    }
+  },
+  {
+    "title": "ITC",
+    "description": "International Test Conference",
+    "sub": "DS",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "itc",
+    "confs": {
+      "year": 2026,
+      "id": "itc2026",
+      "link": "https://www.itctestweek.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-03-20 23:59:59",
+          "deadline": "2026-04-24 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "October 11-16, 2026",
+      "place": "Grand Hyatt San Antonio Riverwalk, TX, USA"
     }
   },
   {
@@ -1132,6 +1255,31 @@
     }
   },
   {
+    "title": "SEC",
+    "description": "ACM/IEEE Symposium on Edge Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "ieeesec",
+    "confs": {
+      "year": 2026,
+      "id": "sec2026",
+      "link": "https://acm-ieee-sec.org/2026/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-24 23:59:59",
+          "deadline": "2026-05-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Oct 13-16, 2026",
+      "place": "Santa Clara University, CA, USA"
+    }
+  },
+  {
     "title": "SIGMETRICS",
     "description": "ACM Special Interest Group on Measurement and Evaluation",
     "sub": "DS",
@@ -1178,18 +1326,24 @@
     },
     "dblp": "cloud",
     "confs": {
-      "year": 2024,
-      "id": "socc24",
-      "link": "https://acmsocc.org/2024/",
+      "year": 2026,
+      "id": "socc26",
+      "link": "https://acmsocc.org/2026/",
       "timeline": [
         {
-          "abstract_deadline": "2024-07-08 17:00:00",
-          "deadline": "2024-07-15 17:00:00"
+          "abstract_deadline": "2026-02-06 23:59:59",
+          "deadline": "2026-02-13 23:59:59",
+          "comment": "First round"
+        },
+        {
+          "abstract_deadline": "2026-07-07 23:59:59",
+          "deadline": "2026-07-14 23:59:59",
+          "comment": "Second round"
         }
       ],
-      "timezone": "UTC-4",
-      "date": "November 20-22, 2024",
-      "place": "Redmond, USA"
+      "timezone": "AoE",
+      "date": "November 18-20, 2026",
+      "place": "Singapore"
     }
   },
   {
