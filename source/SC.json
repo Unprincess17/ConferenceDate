@@ -868,17 +868,17 @@
     },
     "dblp": "nspw",
     "confs": {
-      "year": 2025,
-      "id": "nspw25",
-      "link": "https://www.nspw.org/2025",
+      "year": 2026,
+      "id": "nspw26",
+      "link": "https://www.nspw.org/2026",
       "timeline": [
         {
-          "deadline": "2025-04-11 23:59:59"
+          "deadline": "2026-04-30 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "August 24-27, 2025",
-      "place": "Aerzen, Germany"
+      "date": "September 27-30, 2026",
+      "place": "Victoria, BC, Canada"
     }
   },
   {
@@ -1190,22 +1190,22 @@
     },
     "dblp": "srds",
     "confs": {
-      "year": 2025,
-      "id": "srds25",
+      "year": 2026,
+      "id": "srds26",
       "link": "https://srds-conference.org/",
       "timeline": [
         {
-          "deadline": "2025-04-25 23:59:59",
+          "deadline": "TBD",
           "comment": "Abstract Submission"
         },
         {
-          "deadline": "2025-05-02 23:59:59",
+          "deadline": "TBD",
           "comment": "Full Paper Submission"
         }
       ],
       "timezone": "AoE",
-      "date": "September 29-October 2, 2025",
-      "place": "Porto, Portugal"
+      "date": "September 21-25, 2026",
+      "place": "Rome, Italy"
     }
   },
   {

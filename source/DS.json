@@ -163,18 +163,17 @@
     },
     "dblp": "usenix",
     "confs": {
-      "year": 2025,
-      "id": "atc2025",
-      "link": "https://www.usenix.org/conference/atc25",
+      "year": 2026,
+      "id": "atc2026",
+      "link": "https://sigops.org/s/conferences/atc/2026/index.html",
       "timeline": [
         {
-          "abstract_deadline": "2025-01-07 23:59:59",
-          "deadline": "2025-01-14 23:59:59"
+          "deadline": "2026-06-10 23:59:59"
         }
       ],
       "timezone": "UTC+0",
-      "date": "July 7-9, 2025",
-      "place": "Boston, MA, USA"
+      "date": "November 15-18, 2026",
+      "place": "Hyatt Hotel, Shatin, Hong Kong, China"
     }
   },
   {
@@ -558,16 +557,16 @@
     },
     "dblp": "hotchips",
     "confs": {
-      "year": 2025,
-      "id": "hcs2025",
+      "year": 2026,
+      "id": "hcs2026",
       "link": "https://www.hotchips.org/",
       "timeline": [
         {
-          "deadline": "2025-04-16 23:59:59"
+          "deadline": "2025-03-29 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "August 24-26, 2025",
+      "date": "August 23-25, 2026",
       "place": "Memorial Auditorium, Stanford, Palo Alto, CA"
     }
   },
@@ -1027,6 +1026,31 @@
       "timezone": "AoE",
       "date": "October 11-16, 2026",
       "place": "Grand Hyatt San Antonio Riverwalk, TX, USA"
+    }
+  },
+  {
+    "title": "JCC",
+    "description": "International Conference on JointCloud Computing",
+    "sub": "DS",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "N",
+    "confs": {
+      "year": 2025,
+      "id": "jcc2025",
+      "link": "https://jointcloud.cloud",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-10 23:59:59",
+          "deadline": "2026-04-15 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "Jul 27-30, 2026",
+      "place": "Tokyo, Japan"
     }
   },
   {

@@ -885,18 +885,18 @@
     },
     "dblp": "popl",
     "confs": {
-      "year": 2026,
-      "id": "popl26",
-      "link": "https://popl26.sigplan.org/",
+      "year": 2027,
+      "id": "popl27",
+      "link": "https://popl27.sigplan.org/",
       "timeline": [
         {
-          "deadline": "2025-07-10 23:59:59",
+          "deadline": "2026-07-09 23:59:59",
           "comment": "Submission Deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "January 11-17, 2026",
-      "place": "Rennes, France"
+      "date": "January 10-16, 2027",
+      "place": "Mexico City"
     }
   },
   {
@@ -935,18 +935,23 @@
     },
     "dblp": "re",
     "confs": {
-      "year": 2023,
-      "id": "re23",
-      "link": "https://conf.researchr.org/dates/RE-2023",
+      "year": 2026,
+      "id": "re26",
+      "link": "https://conf.researchr.org/home/RE-2026",
       "timeline": [
         {
-          "abstract_deadline": "2023-03-10 23:59:59",
-          "deadline": "2023-03-17 23:59:59"
+          "abstract_deadline": "2026-02-16 23:59:59",
+          "deadline": "2026-02-23 23:59:59",
+          "comment": "Research Papers"
+        },
+        {
+          "deadline": "2026-04-13 23:59:59",
+          "comment": "Journal Paper"
         }
       ],
       "timezone": "AoE",
-      "date": "September 4-8, 2023",
-      "place": "Hannover, Germany"
+      "date": "August 17-21, 2026",
+      "place": "Montreal, Canada"
     }
   },
   {
@@ -1063,19 +1068,18 @@
     },
     "dblp": "scam",
     "confs": {
-      "year": 2025,
-      "id": "scam25",
-      "link": "https://conf.researchr.org/home/scam-2025",
+      "year": 2026,
+      "id": "scam26",
+      "link": "https://conf.researchr.org/home/scam-2026",
       "timeline": [
         {
-          "abstract_deadline": "2025-06-05 23:59:59",
-          "deadline": "2025-06-09 23:59:59",
-          "comment": "co-located with ICSME 2025"
+          "deadline": "2026-06-11 23:59:59",
+          "comment": "co-located with ICSME 2026"
         }
       ],
       "timezone": "AoE",
-      "date": "September 7-12, 2025",
-      "place": "Auckland, New Zealand"
+      "date": "September 14-15, 2026",
+      "place": "Benevento, Italy"
     }
   },
   {

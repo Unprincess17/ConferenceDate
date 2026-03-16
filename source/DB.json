@@ -34,22 +34,22 @@
     },
     "dblp": "APWeb",
     "confs": {
-      "year": 2025,
-      "id": "apweb25",
-      "link": "https://apweb2025.sau.edu.cn/",
+      "year": 2026,
+      "id": "apweb26",
+      "link": "https://conferences.sigappfr.org/apweb2026/",
       "timeline": [
         {
-          "deadline": "2025-03-02 23:59:59",
+          "deadline": "2026-03-31 23:59:59",
           "comment": "first round"
         },
         {
-          "deadline": "2025-05-04 23:59:59",
+          "deadline": "2026-05-04 23:59:59",
           "comment": "second round"
         }
       ],
-      "timezone": "UTC-8",
-      "date": "August 28-30, 2025",
-      "place": "Shenyang, China"
+      "timezone": "AoE",
+      "date": "September 7-9, 2026",
+      "place": "Danang, Vietnam"
     }
   },
   {
@@ -87,18 +87,18 @@
     },
     "dblp": "cikm",
     "confs": {
-      "year": 2025,
-      "id": "cikm25",
-      "link": "https://cikm2025.org",
+      "year": 2026,
+      "id": "cikm26",
+      "link": "https://cikm2026.diag.uniroma1.it/",
       "timeline": [
         {
-          "abstract_deadline": "2025-05-16 23:59:59",
-          "deadline": "2025-05-23 23:59:59"
+          "abstract_deadline": "2026-05-18 23:59:59",
+          "deadline": "2026-05-25 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "November 10-14, 2025",
-      "place": "Coex, Seoul, Korea"
+      "date": "November 7-11, 2026",
+      "place": "Rome, Italy"
     }
   },
   {

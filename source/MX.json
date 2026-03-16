@@ -10,17 +10,17 @@
     },
     "dblp": "apbc",
     "confs": {
-      "year": 2025,
-      "id": "apbc25",
-      "link": "https://bioinfo.nuaa.edu.cn/apbc2025/main.psp",
+      "year": 2026,
+      "id": "apbc26",
+      "link": "https://www.apbc2026.com/home",
       "timeline": [
         {
-          "deadline": "2025-06-15 23:59:59"
+          "deadline": "2026-06-15 23:59:59"
         }
       ],
       "timezone": "UTC+0",
-      "date": "September 19-22, 2025",
-      "place": "Nanjing， China"
+      "date": "October 21-24, 2026",
+      "place": "Hsinchu, Taiwan， China"
     }
   },
   {
@@ -154,18 +154,18 @@
     },
     "dblp": "emsoft",
     "confs": {
-      "year": 2025,
-      "id": "emsoft25",
+      "year": 2026,
+      "id": "emsoft26",
       "link": "https://esweek.org/emsoft/",
       "timeline": [
         {
-          "abstract_deadline": "2025-03-23 23:59:59",
-          "deadline": "2025-03-30 23:59:59"
+          "abstract_deadline": "2026-03-23 23:59:59",
+          "deadline": "2026-03-30 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "September 28 - October 3, 2025",
-      "place": "TAIPEI, TAIWAN"
+      "date": "October 4 - 9, 2026",
+      "place": "Barcelona, Spain"
     }
   },
   {
@@ -325,18 +325,18 @@
     },
     "dblp": "sigspatial",
     "confs": {
-      "year": 2025,
-      "id": "sigspatial25",
-      "link": "https://sigspatial2025.sigspatial.org/",
+      "year": 2026,
+      "id": "sigspatial26",
+      "link": "https://sigspatial2026.sigspatial.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-05-23 23:59:59",
-          "deadline": "2025-05-30 23:59:59"
+          "abstract_deadline": "2026-05-22 23:59:59",
+          "deadline": "2026-05-29 23:59:59"
         }
       ],
       "timezone": "UTC-7",
-      "date": "November 3-6, 2025",
-      "place": "Minneapolis, MN, USA"
+      "date": "November 3-6, 2026",
+      "place": "Riverside, CA, USA"
     }
   },
   {

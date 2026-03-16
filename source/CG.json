@@ -110,6 +110,31 @@
     }
   },
   {
+    "title": "CCCG",
+    "description": "Canadian Conference on Computational Geometry",
+    "sub": "CG",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cccg",
+    "confs": {
+      "year": 2026,
+      "id": "cccg2026",
+      "link": "https://sites.google.com/view/cccg-2026/home",
+      "timeline": [
+        {
+          "deadline": "2026-04-30 23:59:59",
+          "comment": "Submission Deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 12-14, 2026",
+      "place": "Orillia, Ontario, Canada"
+    }
+  },
+  {
     "title": "CGI",
     "description": "Computer Graphics International",
     "sub": "CG",
@@ -125,7 +150,12 @@
       "link": "https://www.cgs-network.org/cgi26/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "deadline": "2026-03-12 23:59:00",
+          "comment": "First Track: Call for papers with final publication in The Visual Computer Journal"
+        },
+        {
+          "deadline": "2026-04-20 23:59:00",
+          "comment": "Second Track: Call for papers with final publication in LNCS Book published by Springer or in The Visual Computer journal or Computer Animation and Virtual Worlds Journal"
         }
       ],
       "timezone": "UTC",
@@ -488,17 +518,17 @@
     },
     "dblp": "mmm",
     "confs": {
-      "year": 2026,
-      "id": "mmm26",
-      "link": "https://mmm2026.cz/",
+      "year": 2027,
+      "id": "mmm27",
+      "link": "https://www.mmm2027.net/",
       "timeline": [
         {
-          "deadline": "2025-08-19 23:59:59"
+          "deadline": "2026-08-16 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "January 29-31, 2026",
-      "place": "Prague, Czech Republic"
+      "date": "January 5-8, 2027",
+      "place": "Siem Reap, Cambodia"
     }
   },
   {
@@ -561,22 +591,23 @@
     },
     "dblp": "sca",
     "confs": {
-      "year": 2025,
-      "id": "sca25",
+      "year": 2026,
+      "id": "sca26",
       "link": "https://computeranimation.org/",
       "timeline": [
         {
-          "deadline": "2025-04-07 23:59:59",
+          "abstract_deadline": "2026-04-10 23:59:59",
+          "deadline": "2026-04-17 23:59:59",
           "comment": "Submission deadline (papers)"
         },
         {
-          "deadline": "2025-06-15 23:59:59",
+          "deadline": "2026-06-01 23:59:59",
           "comment": "Submission deadline (posters)"
         }
       ],
       "timezone": "AoE",
-      "date": "August 8-10, 2025",
-      "place": "Vancouver, Canada"
+      "date": "July 8-10, 2026",
+      "place": "Barcelona, Spain"
     }
   },
   {
@@ -621,7 +652,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-05-05 23:59:00",
-          "deadline": "2025-05-12 23:59:00"
+          "deadline": "2026-05-12 23:59:00"
         }
       ],
       "timezone": "UTC-12",
