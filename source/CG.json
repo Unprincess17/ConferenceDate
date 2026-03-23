@@ -299,17 +299,17 @@
     },
     "dblp": "icassp",
     "confs": {
-      "year": 2026,
-      "id": "icassp26",
-      "link": "https://2026.ieeeicassp.org/",
+      "year": 2027,
+      "id": "icassp27",
+      "link": "https://2027.ieeeicassp.org/",
       "timeline": [
         {
-          "deadline": "2025-09-17 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 4-8, 2026",
-      "place": "Barcelona, Spain"
+      "date": "May 16-21, 2027",
+      "place": "Toronto, Canada"
     }
   },
   {
@@ -567,17 +567,17 @@
     },
     "dblp": "prcv",
     "confs": {
-      "year": 2025,
-      "id": "prcv25",
-      "link": "http://2025.prcv.cn/",
+      "year": 2026,
+      "id": "prcv26",
+      "link": "https://www.prcv.cn/web/#/home",
       "timeline": [
         {
-          "deadline": "2025-06-30 23:59:59"
+          "deadline": "2026-04-15 23:59:59"
         }
       ],
       "timezone": "UTC+8",
-      "date": "Oct 16-19, 2025",
-      "place": "Shanghai, China"
+      "date": "Aug 22-25, 2026",
+      "place": "Harbin, China"
     }
   },
   {
@@ -658,6 +658,30 @@
       "timezone": "UTC-12",
       "date": "December 1-4, 2026",
       "place": "KLCC, Kuala Lumpur, Malaysia"
+    }
+  },
+  {
+    "title": "SLT",
+    "description": "IEEE Spoken Language Technology (SLT) Workshop",
+    "sub": "CG",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "slt",
+    "confs": {
+      "year": 2026,
+      "id": "slt26",
+      "link": "https://attend.ieee.org/slt-2026/",
+      "timeline": [
+        {
+          "deadline": "2026-06-17 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "December 13-16, 2026",
+      "place": "Palermo, Sicily, Italy"
     }
   },
   {
@@ -770,18 +794,18 @@
     },
     "dblp": "vr",
     "confs": {
-      "year": 2026,
-      "id": "vr26",
-      "link": "https://ieeevr.org/2026/",
+      "year": 2027,
+      "id": "vr27",
+      "link": "https://ieeevr.org/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-05 23:59:59",
-          "deadline": "2025-09-12 23:59:59"
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "March 21 - 25, 2026",
-      "place": "Daegu, Korea"
+      "date": "February 27 - March 3, 2027",
+      "place": "Melbourne, Australia"
     }
   }
 ]
