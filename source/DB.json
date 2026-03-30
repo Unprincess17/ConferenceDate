@@ -63,17 +63,17 @@
     },
     "dblp": "cidr",
     "confs": {
-      "year": 2026,
-      "id": "cidr26",
-      "link": "https://www.cidrdb.org/cidr2026/",
+      "year": 2027,
+      "id": "cidr27",
+      "link": "https://www.cidrdb.org/cidr2027/",
       "timeline": [
         {
-          "deadline": "2025-08-05 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "UTC-7",
-      "date": "Jan 18-21, 2026",
-      "place": "Chaminade Resort & Spa, Santa Cruz, California, USA"
+      "date": "January 24-27, 2027",
+      "place": "Amsterdam, The Netherlands"
     }
   },
   {
@@ -520,50 +520,62 @@
     },
     "dblp": "vldb",
     "confs": {
-      "year": 2026,
-      "id": "vldb26",
-      "link": "https://www.vldb.org/2026/",
+      "year": 2027,
+      "id": "vldb27",
+      "link": "https://www.vldb.org/2027/",
       "timeline": [
         {
-          "deadline": "2025-04-01 17:00:00"
+          "abstract_deadline": "2026-03-25 17:00:00",
+          "deadline": "2026-04-01 17:00:00"
         },
         {
-          "deadline": "2025-05-01 17:00:00"
+          "abstract_deadline": "2026-04-25 17:00:00",
+          "deadline": "2026-05-01 17:00:00"
         },
         {
-          "deadline": "2025-06-01 17:00:00"
+          "abstract_deadline": "2026-05-25 17:00:00",
+          "deadline": "2026-06-01 17:00:00"
         },
         {
-          "deadline": "2025-07-01 17:00:00"
+          "abstract_deadline": "2026-06-25 17:00:00",
+          "deadline": "2026-07-01 17:00:00"
         },
         {
-          "deadline": "2025-08-01 17:00:00"
+          "abstract_deadline": "2026-07-25 17:00:00",
+          "deadline": "2026-08-01 17:00:00"
         },
         {
-          "deadline": "2025-09-01 17:00:00"
+          "abstract_deadline": "2026-08-25 17:00:00",
+          "deadline": "2026-09-01 17:00:00"
         },
         {
-          "deadline": "2025-10-01 17:00:00"
+          "abstract_deadline": "2026-09-25 17:00:00",
+          "deadline": "2026-10-01 17:00:00"
         },
         {
-          "deadline": "2025-11-01 17:00:00"
+          "abstract_deadline": "2026-10-25 17:00:00",
+          "deadline": "2026-11-01 17:00:00"
         },
         {
-          "deadline": "2025-12-01 17:00:00"
+          "abstract_deadline": "2026-11-25 17:00:00",
+          "deadline": "2026-12-01 17:00:00"
         },
         {
-          "deadline": "2026-01-01 17:00:00"
+          "abstract_deadline": "2026-12-25 17:00:00",
+          "deadline": "2027-01-01 17:00:00"
         },
         {
-          "deadline": "2026-02-01 17:00:00"
+          "abstract_deadline": "2027-01-25 17:00:00",
+          "deadline": "2027-02-01 17:00:00"
         },
         {
-          "deadline": "2026-03-01 17:00:00"
+          "abstract_deadline": "2027-02-25 17:00:00",
+          "deadline": "2027-03-01 17:00:00"
         }
       ],
       "timezone": "UTC-7",
-      "date": "August 31 - September 4, 2026",
-      "place": "Boston, MA, USA"
+      "date": "August 23 - August 27, 2027",
+      "place": "Athens, Greece"
     }
   },
   {

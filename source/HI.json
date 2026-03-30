@@ -295,18 +295,18 @@
     },
     "dblp": "iui",
     "confs": {
-      "year": 2026,
-      "id": "iui26",
-      "link": "https://iui.hosting.acm.org/2026/",
+      "year": 2027,
+      "id": "iui27",
+      "link": "https://iui.hosting.acm.org/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-03 23:59:59",
-          "deadline": "2025-10-10 23:59:59"
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "March 23 - 26, 2026",
-      "place": "Paphos, Cyprus"
+      "date": "February 8-11, 2027",
+      "place": "Helsinki, Finland"
     }
   },
   {
