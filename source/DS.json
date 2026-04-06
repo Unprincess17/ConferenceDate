@@ -39,8 +39,8 @@
       "link": "https://www.appt-conference.com/2026",
       "timeline": [
         {
-          "abstract_deadline": "2026-03-27 23:59:00",
-          "deadline": "2026-04-03 23:59:00"
+          "abstract_deadline": "2026-04-03 23:59:59",
+          "deadline": "2026-04-10 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -136,7 +136,7 @@
     "confs": {
       "year": 2027,
       "id": "asplos27",
-      "link": "https://www.asplos-conference.org/call-for-papers-asplos27/",
+      "link": "https://www.asplos-conference.org/asplos2027/cfp/",
       "timeline": [
         {
           "deadline": "2026-04-15 23:59:59",
