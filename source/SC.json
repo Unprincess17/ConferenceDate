@@ -68,17 +68,17 @@
     },
     "dblp": "acsac",
     "confs": {
-      "year": 2025,
-      "id": "acsac25",
+      "year": 2026,
+      "id": "acsac26",
       "link": "https://www.acsac.org/",
       "timeline": [
         {
-          "deadline": "2025-05-30 23:59:59"
+          "deadline": "2026-05-26 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "December 8-12, 2025",
-      "place": "Honolulu, Hawaii, USA"
+      "date": "December 7-11, 2026",
+      "place": "Los Angeles, California, USA"
     }
   },
   {
@@ -121,17 +121,17 @@
     },
     "dblp": "asiacrypt",
     "confs": {
-      "year": 2025,
-      "id": "asiacrypt25",
-      "link": "https://asiacrypt.iacr.org/2025/",
+      "year": 2026,
+      "id": "asiacrypt26",
+      "link": "https://asiacrypt.iacr.org/2026/",
       "timeline": [
         {
-          "deadline": "2025-05-16 11:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "UTC",
-      "date": "December 8-12, 2025",
-      "place": "Melbourne, Australia"
+      "date": "December 7-11, 2026",
+      "place": "Hong Kong, China1"
     }
   },
   {
@@ -813,24 +813,22 @@
     },
     "dblp": "ndss",
     "confs": {
-      "year": 2026,
-      "id": "ndss26",
-      "link": "https://www.ndss-symposium.org/ndss2026/",
+      "year": 2027,
+      "id": "ndss27",
+      "link": "https://www.ndss-symposium.org/ndss2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-04-16 23:59:59",
-          "deadline": "2025-04-23 23:59:59",
+          "deadline": "2026-05-06 23:59:59",
           "comment": "Summer"
         },
         {
-          "abstract_deadline": "2025-07-30 23:59:59",
-          "deadline": "2025-08-06 23:59:59",
+          "deadline": "2026-08-19 23:59:59",
           "comment": "Fall"
         }
       ],
       "timezone": "UTC-12",
-      "date": "February 23 - February 27, 2026",
-      "place": "San Diego, California"
+      "date": "TBD",
+      "place": "TBD"
     }
   },
   {

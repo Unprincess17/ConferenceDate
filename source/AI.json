@@ -567,6 +567,30 @@
     }
   },
   {
+    "title": "EUVIP",
+    "description": "European Conference on Visual Information Processing",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "euvip",
+    "confs": {
+      "year": 2026,
+      "id": "euvip26",
+      "link": "https://euvip2026.github.io/",
+      "timeline": [
+        {
+          "deadline": "2026-05-21 23:59:59"
+        }
+      ],
+      "timezone": "UTC+2",
+      "date": "September 28 - October 1, 2026",
+      "place": "Luxembourg, Luxembourg"
+    }
+  },
+  {
     "title": "FG",
     "description": "International Conference on Automatic Face and Gesture Recognition",
     "sub": "AI",
@@ -962,8 +986,8 @@
       "link": "https://2026.aaclnet.org/",
       "timeline": [
         {
-          "deadline": "TBD",
-          "comment": "AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)"
+          "deadline": "2026-05-25 23:59:59",
+          "comment": "ARR Submission; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)"
         }
       ],
       "timezone": "UTC-12",

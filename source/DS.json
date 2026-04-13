@@ -59,18 +59,18 @@
     },
     "dblp": "apsys",
     "confs": {
-      "year": 2025,
-      "id": "apsys2025",
-      "link": "https://apsys2025.github.io/",
+      "year": 2026,
+      "id": "apsys2026",
+      "link": "https://ap-sys.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-05-29 23:59:00",
-          "deadline": "2025-06-05 23:59:00"
+          "abstract_deadline": "2026-05-13 23:59:00",
+          "deadline": "2026-05-20 23:59:00"
         }
       ],
       "timezone": "AoE",
-      "date": "October 12-13, 2025",
-      "place": "Seoul, South Korea"
+      "date": "September 17-18, 2026",
+      "place": "Bangkok, Thailand"
     }
   },
   {
@@ -148,7 +148,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "TBD",
+      "date": "April 11-15, 2027",
       "place": "Crete, Greece"
     }
   },
