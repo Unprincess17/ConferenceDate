@@ -1,5 +1,30 @@
 [
   {
+    "title": "AFT",
+    "description": "Advances in Financial Technologies",
+    "sub": "MX",
+    "rank": {
+      "ccf": "C",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "aft",
+    "confs": {
+      "year": 2026,
+      "id": "aft26",
+      "link": "https://aft.ifca.ai/aft26/index.html",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-05-20 23:59:59",
+          "deadline": "2026-05-27 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "October 6-9, 2026",
+      "place": "London, UK"
+    }
+  },
+  {
     "title": "APBC",
     "description": "Asia Pacific Bioinformatics Conference",
     "sub": "MX",
