@@ -131,17 +131,17 @@
     },
     "dblp": "IEEEcloud",
     "confs": {
-      "year": 2025,
-      "id": "cloud25",
-      "link": "https://services.conferences.computer.org/2025/cloud/",
+      "year": 2026,
+      "id": "cloud26",
+      "link": "https://services.conferences.computer.org/2026/cloud/",
       "timeline": [
         {
-          "deadline": "2025-03-10 23:00:00"
+          "deadline": "2026-03-22 23:00:00"
         }
       ],
       "timezone": "AoE",
-      "date": "July 7-12, 2025",
-      "place": "Helsinki, Finland"
+      "date": "July 13-18, 2026",
+      "place": "Sydney, Australia"
     }
   },
   {
@@ -380,7 +380,7 @@
       "link": "https://www.ieeesmc2026.org/",
       "timeline": [
         {
-          "deadline": "2026-04-19 23:59:59"
+          "deadline": "2026-05-03 23:59:59"
         }
       ],
       "timezone": "UTC-7",

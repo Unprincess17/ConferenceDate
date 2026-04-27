@@ -265,18 +265,18 @@
     },
     "dblp": "cluster",
     "confs": {
-      "year": 2025,
-      "id": "cluster25",
-      "link": "https://clustercomp.org/2025",
+      "year": 2026,
+      "id": "cluster26",
+      "link": "https://clustercomp.org/2026",
       "timeline": [
         {
-          "deadline": "2025-05-02 23:59:59",
-          "comment": "Full Paper Deadline"
+          "abstract_deadline": "2026-04-30 23:59:59",
+          "deadline": "2026-05-07 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "September 2-5, 2025",
-      "place": "Edinburgh, United Kingdom"
+      "date": "September 22-25, 2026",
+      "place": "Alexandria, Virginia, USA"
     }
   },
   {
@@ -315,18 +315,18 @@
     },
     "dblp": "date",
     "confs": {
-      "year": 2026,
-      "id": "date2026",
-      "link": "https://www.date-conference.com/call-for-papers",
+      "year": 2027,
+      "id": "date2027",
+      "link": "https://www.date-conference.com/date-2027-call-papers",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-07 23:59:59",
-          "deadline": "2025-09-14 23:59:59"
+          "abstract_deadline": "2026-09-13 23:59:59",
+          "deadline": "2026-09-20 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "April 20- April 22, 2026",
-      "place": "Verona, Italy"
+      "date": "March 22-24, 2027",
+      "place": "Dresden, Germany"
     }
   },
   {
@@ -340,17 +340,17 @@
     },
     "dblp": "dcc",
     "confs": {
-      "year": 2025,
-      "id": "dcc2025",
+      "year": 2027,
+      "id": "dcc2027",
       "link": "https://datacompressionconference.org/",
       "timeline": [
         {
-          "deadline": "2024-10-11 23:59:59"
+          "deadline": "2026-10-02 23:59:59"
         }
       ],
-      "timezone": "UTC-8",
-      "date": "March 18-21, 2025",
-      "place": "Snowbird, Utah, U.S."
+      "timezone": "AoE",
+      "date": "March 23-26, 2027",
+      "place": "The Cliff Lodge convention center, Snowbird, Utah, U.S."
     }
   },
   {
@@ -862,18 +862,17 @@
     },
     "dblp": "iiswc",
     "confs": {
-      "year": 2025,
-      "id": "iiswc2025",
-      "link": "https://iiswc.org/iiswc2025/",
+      "year": 2026,
+      "id": "iiswc2026",
+      "link": "https://iiswc.org/iiswc2026/",
       "timeline": [
         {
-          "deadline": "2025-06-21 00:00:00",
-          "comment": "Submissions Due: 2025-06-21"
+          "deadline": "2026-05-14 00:00:00"
         }
       ],
       "timezone": "UTC",
-      "date": "October 12-14, 2025",
-      "place": "Irvine, USA"
+      "date": "September 27-29, 2026",
+      "place": "Boulder, USA"
     }
   },
   {
