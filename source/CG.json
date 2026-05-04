@@ -125,7 +125,7 @@
       "link": "https://sites.google.com/view/cccg-2026/home",
       "timeline": [
         {
-          "deadline": "2026-04-30 23:59:59",
+          "deadline": "2026-05-08 23:59:59",
           "comment": "Submission Deadline"
         }
       ],
@@ -572,10 +572,10 @@
       "link": "https://www.prcv.cn/web/#/home",
       "timeline": [
         {
-          "deadline": "2026-04-30 23:59:59"
+          "deadline": "2026-05-30 23:59:59"
         }
       ],
-      "timezone": "UTC+8",
+      "timezone": "AoE",
       "date": "Aug 22-25, 2026",
       "place": "Harbin, China"
     }
