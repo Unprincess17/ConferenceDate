@@ -841,7 +841,7 @@
       "link": "https://www.iconip2026.org/",
       "timeline": [
         {
-          "deadline": "2026-05-10 23:59:59"
+          "deadline": "2026-05-31 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -1157,6 +1157,7 @@
       "link": "https://neurips.cc/Conferences/2026",
       "timeline": [
         {
+          "abstract_deadline": "2026-05-05 11:59:00",
           "deadline": "2026-05-07 11:59:00"
         }
       ],
@@ -1346,24 +1347,24 @@
     },
     "dblp": "wacv",
     "confs": {
-      "year": 2026,
-      "id": "wacv26",
+      "year": 2027,
+      "id": "wacv27",
       "link": "https://wacv.thecvf.com/",
       "timeline": [
         {
-          "abstract_deadline": "2025-07-11 23:59:00",
-          "deadline": "2025-07-18 23:59:59",
+          "abstract_deadline": "2026-06-18 23:59:00",
+          "deadline": "2026-06-25 23:59:59",
           "comment": "First round"
         },
         {
-          "abstract_deadline": "2025-09-12 23:59:00",
-          "deadline": "2025-09-19 23:59:59",
+          "abstract_deadline": "2026-08-20 23:59:00",
+          "deadline": "2026-08-27 23:59:59",
           "comment": "Second round"
         }
       ],
       "timezone": "AoE",
-      "date": "Mar 6 - 10, 2026",
-      "place": "Tucson, Arizona, USA"
+      "date": "Jan 5 - 9, 2027",
+      "place": "Disney Springs, Buena Vista, FL, USA"
     }
   }
 ]
