@@ -162,23 +162,23 @@
     },
     "dblp": "edbt",
     "confs": {
-      "year": 2026,
-      "id": "edbt26",
-      "link": "https://edbticdt2026.github.io/",
+      "year": 2027,
+      "id": "edbt27",
+      "link": "https://edbticdt2027.github.io/",
       "timeline": [
         {
-          "deadline": "2025-02-05 23:59:59"
+          "deadline": "2026-02-04 23:59:59"
         },
         {
-          "deadline": "2025-06-04 23:59:59"
+          "deadline": "2026-06-10 23:59:59"
         },
         {
-          "deadline": "2025-10-08 23:59:59"
+          "deadline": "2026-10-07 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "March 24-27, 2026",
-      "place": "Tampere, Finland"
+      "date": "April 6-9, 2027",
+      "place": "Lille, France"
     }
   },
   {
@@ -270,22 +270,22 @@
     },
     "dblp": "icdt",
     "confs": {
-      "year": 2026,
-      "id": "icdt26",
-      "link": "https://edbticdt2026.github.io/",
+      "year": 2027,
+      "id": "icdt27",
+      "link": "https://edbticdt2027.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-03-13 23:59:59",
-          "deadline": "2025-03-20 23:59:59"
+          "abstract_deadline": "2026-03-03 23:59:59",
+          "deadline": "2026-03-10 23:59:59"
         },
         {
-          "abstract_deadline": "2025-09-03 23:59:59",
-          "deadline": "2025-09-10 23:59:59"
+          "abstract_deadline": "2026-09-03 23:59:59",
+          "deadline": "2026-09-10 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "March 24-27, 2026",
-      "place": "Tampere, Finland"
+      "date": "April 6-9, 2027",
+      "place": "Lille, France"
     }
   },
   {

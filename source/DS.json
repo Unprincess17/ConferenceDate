@@ -553,22 +553,22 @@
     },
     "dblp": "fpt",
     "confs": {
-      "year": 2025,
-      "id": "fpt2025",
-      "link": "https://fpt2025.shanghaitech.edu.cn",
+      "year": 2026,
+      "id": "fpt2026",
+      "link": "https://fpt2026.uark.edu",
       "timeline": [
         {
-          "deadline": "2025-07-20 23:59:59",
+          "deadline": "2026-06-05 23:59:59",
           "comment": "Title and Abstract Due (Conference Track)"
         },
         {
-          "deadline": "2025-08-01 23:59:59",
+          "deadline": "2026-06-12 23:59:59",
           "comment": "Submission Due (Conference Track)"
         }
       ],
       "timezone": "AoE",
-      "date": "December 02 - December 05, 2025",
-      "place": "Shanghai, China"
+      "date": "December 07 - December 10, 2026",
+      "place": "Honolulu, Hawaii, USA"
     }
   },
   {
@@ -758,17 +758,19 @@
     },
     "dblp": "iccd",
     "confs": {
-      "year": 2025,
-      "id": "iccd25",
-      "link": "https://www.iccd-conf.com/home.html",
+      "year": 2026,
+      "id": "iccd26",
+      "link": "https://www.iccd-conf.com/2026/home.html",
       "timeline": [
         {
-          "deadline": "2025-05-25 23:59:00"
+          "abstract_deadline": "2026-05-29 23:59:00",
+          "deadline": "2026-06-05 23:59:00",
+          "comment": "abstract and full paper deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "November 10-12, 2025",
-      "place": "Dallas, USA"
+      "date": "November 16-18, 2026",
+      "place": "Hong Kong SAR, China"
     }
   },
   {

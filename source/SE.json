@@ -995,17 +995,17 @@
     },
     "dblp": "rv",
     "confs": {
-      "year": 2025,
-      "id": "rv25",
-      "link": "https://rv25.isec.tugraz.at/",
+      "year": 2026,
+      "id": "rv26",
+      "link": "https://rv2026.smithengineering.queensu.ca/",
       "timeline": [
         {
-          "deadline": "2025-05-30 23:59:59"
+          "deadline": "2026-05-31 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "September 15-19, 2025",
-      "place": "Graz, Austria"
+      "date": "October 6-9, 2026",
+      "place": "Kingston, Canada"
     }
   },
   {

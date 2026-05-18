@@ -104,6 +104,30 @@
     }
   },
   {
+    "title": "HotNets",
+    "description": "ACM Workshop on Hot Topics in Networks",
+    "sub": "NW",
+    "rank": {
+      "ccf": "C",
+      "core": "N",
+      "thcpl": "B"
+    },
+    "dblp": "hotnets",
+    "confs": {
+      "year": 2026,
+      "id": "hotnets26",
+      "link": "https://conferences.sigcomm.org/hotnets/2026/",
+      "timeline": [
+        {
+          "deadline": "2026-07-16 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "November 16-17, 2026",
+      "place": "Salt Lake City, Utah, USA"
+    }
+  },
+  {
     "title": "ICC",
     "description": "IEEE International Conference on Communications",
     "sub": "NW",
@@ -341,19 +365,18 @@
     },
     "dblp": "mmsys",
     "confs": {
-      "year": 2026,
-      "id": "mmsys26",
-      "link": "https://2026.acmmmsys.org",
+      "year": 2027,
+      "id": "mmsys27",
+      "link": "https://2027.acmmmsys.org",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-14 23:59:59",
-          "deadline": "2025-11-21 23:59:59",
-          "comment": "Round 2 deadline"
+          "abstract_deadline": "TBD",
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "April 4 - 8, 2026",
-      "place": "Hong Kong SAR"
+      "date": "March 30 - April 2, 2027",
+      "place": "Ghent, Belgium"
     }
   },
   {
@@ -448,17 +471,17 @@
     },
     "dblp": "msn",
     "confs": {
-      "year": 2025,
-      "id": "msn25",
-      "link": "https://ieee-msn.org/2025",
+      "year": 2026,
+      "id": "msn26",
+      "link": "https://ieee-msn.org/2026",
       "timeline": [
         {
-          "deadline": "2025-09-15 23:59:59"
+          "deadline": "2026-08-20 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "December 3-6, 2025",
-      "place": "Bandung, Indonesia"
+      "date": "December 18-20, 2026",
+      "place": "Ningbo, China"
     }
   },
   {
