@@ -235,17 +235,17 @@
     },
     "dblp": "cicai",
     "confs": {
-      "year": 2023,
-      "id": "cicai23",
-      "link": "https://cicai.caai.cn/",
+      "year": 2026,
+      "id": "cicai26",
+      "link": "https://cicai.caai.cn/index.html",
       "timeline": [
         {
-          "deadline": "2023-06-30 23:59:59"
+          "deadline": "2026-06-08 23:59:59"
         }
       ],
       "timezone": "UTC+8",
-      "date": "July 22-23, 2023",
-      "place": "Fuzhou, China"
+      "date": "October 17-19, 2026",
+      "place": "Haining, Zhejiang, China"
     }
   },
   {
@@ -582,7 +582,7 @@
       "link": "https://euvip2026.github.io/",
       "timeline": [
         {
-          "deadline": "2026-05-21 23:59:59"
+          "deadline": "2026-06-05 23:59:59"
         }
       ],
       "timezone": "UTC+2",
