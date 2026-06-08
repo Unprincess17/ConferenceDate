@@ -573,7 +573,7 @@
           "deadline": "2027-03-01 17:00:00"
         }
       ],
-      "timezone": "UTC-7",
+      "timezone": "PT",
       "date": "August 23 - August 27, 2027",
       "place": "Athens, Greece"
     }

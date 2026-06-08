@@ -364,22 +364,22 @@
     },
     "dblp": "iceccs",
     "confs": {
-      "year": 2024,
-      "id": "iceccs24",
-      "link": "https://cyprusconferences.org/iceccs2024/",
+      "year": 2026,
+      "id": "iceccs26",
+      "link": "https://formal-analysis.com/iceccs/2026/",
       "timeline": [
         {
-          "deadline": "2023-12-29 23:59:59",
+          "deadline": "2026-06-29 23:59:59",
           "comment": "Abstract submission"
         },
         {
-          "deadline": "2024-01-05 23:59:59",
+          "deadline": "2026-07-06 23:59:59",
           "comment": "Full paper submission"
         }
       ],
       "timezone": "AoE",
-      "date": "June 19-21, 2024",
-      "place": "Limassol, Cyprus"
+      "date": "November 23-24, 2026",
+      "place": "Brisbane, Australia"
     }
   },
   {
@@ -1024,8 +1024,8 @@
       "link": "https://conf.researchr.org/home/saner-2027",
       "timeline": [
         {
-          "abstract_deadline": "TBD",
-          "deadline": "TBD",
+          "abstract_deadline": "2026-09-21 23:59:59",
+          "deadline": "2026-09-25 23:59:59",
           "comment": "Research Track Paper submission deadline"
         }
       ],

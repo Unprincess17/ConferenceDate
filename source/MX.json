@@ -194,6 +194,30 @@
     }
   },
   {
+    "title": "ICAIF",
+    "description": "International Conference on AI in Finance",
+    "sub": "MX",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "icaif",
+    "confs": {
+      "year": 2026,
+      "id": "icaif2026",
+      "link": "https://icaif2026.org/index.html",
+      "timeline": [
+        {
+          "deadline": "2026-08-02 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 14-17, 2026",
+      "place": "Milan, Italy"
+    }
+  },
+  {
     "title": "ICIC",
     "description": "International Conference on Intelligent Computing",
     "sub": "MX",
@@ -399,17 +423,17 @@
     },
     "dblp": "wine",
     "confs": {
-      "year": 2023,
-      "id": "wine2023",
-      "link": "https://wine2023.shanghaitech.edu.cn/",
+      "year": 2026,
+      "id": "wine2026",
+      "link": "https://wine2026conf.github.io/",
       "timeline": [
         {
-          "deadline": "2023-07-07 23:59:59"
+          "deadline": "2026-07-02 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "Dec 04-08, 2023",
-      "place": "Shanghai, China"
+      "date": "December 1-4, 2026",
+      "place": "Hong Kong, China"
     }
   },
   {

@@ -113,15 +113,15 @@
       "link": "https://www.acml-conf.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-06-06 23:59:59",
+          "deadline": "2026-06-20 23:59:59",
           "comment": "Journal Track"
         },
         {
-          "deadline": "2025-06-26 23:59:59",
+          "deadline": "2026-06-26 23:59:59",
           "comment": "Conference Track"
         }
       ],
-      "timezone": "UTC-7",
+      "timezone": "AoE",
       "date": "December 1-4, 2026",
       "place": "Melbourne, Australia"
     }
@@ -431,17 +431,23 @@
     },
     "dblp": "dai2",
     "confs": {
-      "year": 2025,
-      "id": "dai2025",
-      "link": "https://www.adai.ai/dai/2025/index.html",
+      "year": 2026,
+      "id": "dai2026",
+      "link": "https://www.adai.ai/dai/2026/index.html",
       "timeline": [
         {
-          "deadline": "2025-08-21 23:59:59"
+          "abstract_deadline": "2026-07-27 23:59:59",
+          "deadline": "2026-08-03 23:59:59",
+          "comment": "Research / Industry Track"
+        },
+        {
+          "deadline": "2026-08-10 23:59:59",
+          "comment": "AI Paper Track"
         }
       ],
-      "timezone": "UTC-12",
-      "date": "November 21-24, 2025",
-      "place": "London, United Kingdom"
+      "timezone": "AoE",
+      "date": "November 29-December 2, 2026",
+      "place": "Hong Kong, China"
     }
   },
   {
@@ -455,17 +461,17 @@
     },
     "dblp": "eacl",
     "confs": {
-      "year": 2026,
-      "id": "eacl26",
-      "link": "https://2026.eacl.org/",
+      "year": 2027,
+      "id": "eacl27",
+      "link": "https://2027.eacl.org/",
       "timeline": [
         {
-          "deadline": "2025-10-06 23:59:59"
+          "deadline": "2026-08-03 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "March 24-29, 2026",
-      "place": "Rabat, Morocco"
+      "date": "March 9-14, 2027",
+      "place": "Athens, Greece"
     }
   },
   {
@@ -1182,7 +1188,7 @@
       "link": "http://tcci.ccf.org.cn/conference/2026/",
       "timeline": [
         {
-          "deadline": "2026-05-26 23:59:59"
+          "deadline": "2026-06-20 23:59:59"
         }
       ],
       "timezone": "UTC+8",
