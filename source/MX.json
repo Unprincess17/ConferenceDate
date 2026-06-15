@@ -364,6 +364,31 @@
     }
   },
   {
+    "title": "SIGCSE",
+    "description": "Technical Symposium on Computer Science Education Conference",
+    "sub": "MX",
+    "rank": {
+      "ccf": "N",
+      "core": "A",
+      "thcpl": "N"
+    },
+    "dblp": "sigcse",
+    "confs": {
+      "year": 2027,
+      "id": "sigcse27",
+      "link": "https://2027.sigcse-ts.acm.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-06-26 23:59:59",
+          "deadline": "2026-07-03 23:59:59"
+        }
+      ],
+      "timezone": "UTC-12",
+      "date": "February 17-20, 2027",
+      "place": "Sacramento, California, USA"
+    }
+  },
+  {
     "title": "SIGSPATIAL",
     "description": "ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems",
     "sub": "MX",

@@ -103,7 +103,7 @@
     "sub": "AI",
     "rank": {
       "ccf": "C",
-      "core": "N",
+      "core": "C",
       "thcpl": "N"
     },
     "dblp": "acml",
@@ -1236,7 +1236,7 @@
       "link": "https://2026.pricai.org/",
       "timeline": [
         {
-          "deadline": "2026-06-13 23:59:59"
+          "deadline": "2026-06-27 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -1358,13 +1358,13 @@
       "link": "https://wacv.thecvf.com/",
       "timeline": [
         {
-          "abstract_deadline": "2026-06-18 23:59:00",
-          "deadline": "2026-06-25 23:59:59",
+          "abstract_deadline": "2026-06-19 23:59:00",
+          "deadline": "2026-06-26 23:59:59",
           "comment": "First round"
         },
         {
-          "abstract_deadline": "2026-08-20 23:59:00",
-          "deadline": "2026-08-27 23:59:59",
+          "abstract_deadline": "2026-08-21 23:59:00",
+          "deadline": "2026-08-28 23:59:59",
           "comment": "Second round"
         }
       ],

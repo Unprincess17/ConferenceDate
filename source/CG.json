@@ -189,6 +189,30 @@
     }
   },
   {
+    "title": "DCC",
+    "description": "Data Compression Conference",
+    "sub": "CG",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "B"
+    },
+    "dblp": "dcc",
+    "confs": {
+      "year": 2027,
+      "id": "dcc2027",
+      "link": "https://datacompressionconference.org/",
+      "timeline": [
+        {
+          "deadline": "2026-10-02 23:59:59"
+        }
+      ],
+      "timezone": "PT",
+      "date": "March 23-26, 2027",
+      "place": "Snowbird, Utah, United States"
+    }
+  },
+  {
     "title": "Eurographics",
     "description": "Eurographics",
     "sub": "CG",
