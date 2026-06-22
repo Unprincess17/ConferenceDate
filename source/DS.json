@@ -825,22 +825,22 @@
     "sub": "DS",
     "rank": {
       "ccf": "C",
-      "core": "N",
+      "core": "B",
       "thcpl": "N"
     },
     "dblp": "icpads",
     "confs": {
-      "year": 2025,
-      "id": "icpads25",
-      "link": "http://ieee-icpads.org.cn/",
+      "year": 2026,
+      "id": "icpads26",
+      "link": "https://www.cloud-conf.net/icpads2026",
       "timeline": [
         {
-          "deadline": "2025-08-31 18:00:00"
+          "deadline": "2026-06-30 23:59:59"
         }
       ],
-      "timezone": "UTC+8",
-      "date": "December 14-18, 2025",
-      "place": "Hefei, China"
+      "timezone": "AoE",
+      "date": "November 22-26 2026",
+      "place": "Tokyo, Japan"
     }
   },
   {
@@ -983,22 +983,22 @@
     "sub": "DS",
     "rank": {
       "ccf": "B",
-      "core": "N",
+      "core": "C",
       "thcpl": "B"
     },
     "dblp": "iscas",
     "confs": {
-      "year": 2026,
-      "id": "iscas26",
-      "link": "https://2026.ieee-iscas.org/",
+      "year": 2027,
+      "id": "iscas27",
+      "link": "https://2027.ieee-iscas.org/",
       "timeline": [
         {
-          "deadline": "2025-10-12 23:59:59"
+          "deadline": "2026-10-13 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 24-27, 2026",
-      "place": "SHANGHAI, CHINA"
+      "date": "June 6-9, 2027",
+      "place": "Bordeaux, France"
     }
   },
   {
