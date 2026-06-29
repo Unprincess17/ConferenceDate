@@ -448,24 +448,19 @@
     },
     "dblp": "kdd",
     "confs": {
-      "year": 2026,
-      "id": "sigkdd26",
-      "link": "https://kdd2026.kdd.org/",
+      "year": 2027,
+      "id": "sigkdd27",
+      "link": "https://kdd2027.kdd.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-07-24 23:59:59",
-          "deadline": "2025-07-31 23:59:59",
+          "abstract_deadline": "2026-07-19 23:59:59",
+          "deadline": "2026-07-26 23:59:59",
           "comment": "1st round of 2 total rounds"
-        },
-        {
-          "abstract_deadline": "2026-02-01 23:59:59",
-          "deadline": "2026-02-08 23:59:59",
-          "comment": "2nd round of 2 total rounds"
         }
       ],
       "timezone": "AoE",
-      "date": "August 9-13, 2026",
-      "place": "Jeju, Korea"
+      "date": "August 2027 (exact dates TBD)",
+      "place": "San Jose, California, USA"
     }
   },
   {

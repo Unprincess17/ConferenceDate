@@ -35,18 +35,18 @@
     },
     "dblp": "ifaamas",
     "confs": {
-      "year": 2026,
-      "id": "aamas26",
-      "link": "https://cyprusconferences.org/aamas2026",
+      "year": 2027,
+      "id": "aamas27",
+      "link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-01 23:59:59",
-          "deadline": "2025-10-08 23:59:59"
+          "abstract_deadline": "2026-10-02 11:59:00",
+          "deadline": "2026-10-09 11:59:00"
         }
       ],
-      "timezone": "UTC-12",
-      "date": "May 27-29, 2026",
-      "place": "Paphos, Cyprus"
+      "timezone": "UTC+0",
+      "date": "May 03, 2027",
+      "place": "Hanoi, Vietnam"
     }
   },
   {
@@ -117,7 +117,7 @@
           "comment": "Journal Track"
         },
         {
-          "deadline": "2026-06-26 23:59:59",
+          "deadline": "2026-07-05 23:59:59",
           "comment": "Conference Track"
         }
       ],

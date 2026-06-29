@@ -841,18 +841,18 @@
     },
     "dblp": "osdi",
     "confs": {
-      "year": 2026,
-      "id": "osdi2026",
-      "link": "https://www.usenix.org/conference/osdi26",
+      "year": 2027,
+      "id": "osdi2027",
+      "link": "https://www.usenix.org/conference/osdi27",
       "timeline": [
         {
-          "abstract_deadline": "2025-12-04 22:59:59",
-          "deadline": "2025-12-11 22:59:59"
+          "abstract_deadline": "2026-12-01 22:59:59",
+          "deadline": "2026-12-08 22:59:59"
         }
       ],
       "timezone": "UTC",
-      "date": "July 13-15, 2026",
-      "place": "Seattle, WA, USA"
+      "date": "July 7-9, 2027",
+      "place": "Baltimore, MD, USA"
     }
   },
   {
