@@ -137,18 +137,18 @@
     },
     "dblp": "ecir",
     "confs": {
-      "year": 2026,
-      "id": "ecir26",
-      "link": "https://ecir2026.eu/",
+      "year": 2027,
+      "id": "ecir27",
+      "link": "https://ecir2027.co.uk/",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-25 23:59:59",
-          "deadline": "2025-10-02 23:59:59"
+          "abstract_deadline": "2026-09-25 23:59:59",
+          "deadline": "2026-10-02 23:59:59"
         }
       ],
-      "timezone": "AoE",
-      "date": "March 30 - April 01, 2026",
-      "place": "Delft, The Netherlands"
+      "timezone": "UTC+0",
+      "date": "March 21-25, 2027",
+      "place": "Southampton, UK"
     }
   },
   {
