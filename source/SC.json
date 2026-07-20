@@ -220,8 +220,8 @@
         }
       ],
       "timezone": "AoE",
-      "date": "TBD, 2027",
-      "place": "TBD, Americas"
+      "date": "September 6 - 9, 2027",
+      "place": "Cancún, Mexico"
     }
   },
   {
@@ -307,26 +307,26 @@
     },
     "dblp": "csfw",
     "confs": {
-      "year": 2026,
-      "id": "csfw26",
-      "link": "https://csf2026.ieee-security.org/",
+      "year": 2027,
+      "id": "csfw27",
+      "link": "https://www.ieee-security.org/TC/CSF2027/",
       "timeline": [
         {
-          "deadline": "2025-07-24 23:59:59",
+          "deadline": "2026-08-03 23:59:59",
           "comment": "Summer"
         },
         {
-          "deadline": "2025-10-09 23:59:59",
+          "deadline": "2026-10-15 23:59:59",
           "comment": "Fall"
         },
         {
-          "deadline": "2026-01-29 23:59:59",
+          "deadline": "2027-01-28 23:59:59",
           "comment": "Winter"
         }
       ],
       "timezone": "UTC-12",
-      "date": "July 26-29, 2026",
-      "place": "Lisbon, Portugal"
+      "date": "TBA",
+      "place": "Tokyo, Japan"
     }
   },
   {
@@ -443,18 +443,18 @@
     },
     "dblp": "dsn",
     "confs": {
-      "year": 2026,
-      "id": "dsn26",
-      "link": "https://dsn2026.github.io",
+      "year": 2027,
+      "id": "dsn27",
+      "link": "https://dsn2027-berlin.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-27 23:59:59",
-          "deadline": "2025-12-04 23:59:59"
+          "abstract_deadline": "2026-11-25 23:59:59",
+          "deadline": "2026-12-02 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 22-25, 2026",
-      "place": "Charlotte, USA"
+      "date": "June 22-25, 2027",
+      "place": "Berlin, Germany"
     }
   },
   {

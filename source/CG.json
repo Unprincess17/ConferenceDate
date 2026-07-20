@@ -10,17 +10,18 @@
     },
     "dblp": "3dim",
     "confs": {
-      "year": 2026,
-      "id": "3dv2026",
-      "link": "https://3dvconf.github.io/2026/",
+      "year": 2027,
+      "id": "3dv2027",
+      "link": "https://3dvconf.github.io/2027/",
       "timeline": [
         {
-          "deadline": "2025-08-18 23:59:59"
+          "deadline": "2026-08-28 11:00:00",
+          "comment": "Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT."
         }
       ],
       "timezone": "UTC-7",
-      "date": "March 24-27, 2026",
-      "place": "Metro Vancouver, BC, Canada"
+      "date": "April 6-9, 2027",
+      "place": "Thessaloniki, Greece"
     }
   },
   {
@@ -513,7 +514,7 @@
     "sub": "CG",
     "rank": {
       "ccf": "C",
-      "core": "N",
+      "core": "C",
       "thcpl": "N"
     },
     "dblp": "mmasia",

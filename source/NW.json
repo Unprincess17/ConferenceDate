@@ -138,17 +138,17 @@
     },
     "dblp": "icc",
     "confs": {
-      "year": 2026,
-      "id": "icc26",
-      "link": "https://icc2026.ieee-icc.org",
+      "year": 2027,
+      "id": "icc27",
+      "link": "https://icc2027.ieee-icc.org",
       "timeline": [
         {
-          "deadline": "2025-10-31 00:59:59"
+          "deadline": "2026-10-02 23:59:59"
         }
       ],
       "timezone": "UTC-4",
-      "date": "May 24-28, 2026",
-      "place": "Glasgow, Scotland, UK"
+      "date": "May 30 - June 3, 2027",
+      "place": "Washington, DC, USA"
     }
   },
   {
@@ -692,11 +692,11 @@
   },
   {
     "title": "WCNC",
-    "description": "Wireless Communications and Networking Conference",
+    "description": "IEEE Wireless Communications and Networking Conference",
     "sub": "NW",
     "rank": {
       "ccf": "C",
-      "core": "N",
+      "core": "B",
       "thcpl": "N"
     },
     "dblp": "wcnc",
