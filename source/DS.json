@@ -418,8 +418,8 @@
       "link": "https://2026.euro-par.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-02-27 23:59:59",
-          "deadline": "2026-03-06 23:59:59"
+          "abstract_deadline": "2026-03-06 23:59:59",
+          "deadline": "2026-03-13 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -934,18 +934,18 @@
     },
     "dblp": "ipps",
     "confs": {
-      "year": 2026,
-      "id": "ipdps26",
+      "year": 2027,
+      "id": "ipdps27",
       "link": "https://www.ipdps.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-02 23:59:59",
-          "deadline": "2025-10-09 23:59:59"
+          "abstract_deadline": "2026-10-01 23:59:59",
+          "deadline": "2026-10-08 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 25-29, 2026",
-      "place": "New Orleans, USA"
+      "date": "June 1-5, 2027",
+      "place": "Seattle, USA"
     }
   },
   {
@@ -1160,17 +1160,17 @@
     },
     "dblp": "mss",
     "confs": {
-      "year": 2024,
-      "id": "msst2024",
-      "link": "https://storageconference.us/index.html",
+      "year": 2026,
+      "id": "msst2026",
+      "link": "https://msstconference.org/2026/index.html",
       "timeline": [
         {
-          "deadline": "2024-01-07 04:59:59"
+          "deadline": "2026-04-14 23:59:59"
         }
       ],
       "timezone": "UTC",
-      "date": "June 3-7, 2024",
-      "place": "Santa Clara, CA"
+      "date": "June 1-5, 2026",
+      "place": "Santa Clara University, Santa Clara, CA, USA"
     }
   },
   {
@@ -1209,22 +1209,18 @@
     },
     "dblp": "pact",
     "confs": {
-      "year": 2025,
-      "id": "pact25",
-      "link": "https://pact2025.github.io/",
+      "year": 2026,
+      "id": "pact26",
+      "link": "https://pact2026.github.io/",
       "timeline": [
         {
-          "deadline": "2025-04-11 23:59:59",
-          "comment": "Abstract submission deadline"
-        },
-        {
-          "deadline": "2025-04-18 23:59:59",
-          "comment": "Paper submission deadline"
+          "abstract_deadline": "2026-04-23 23:59:59",
+          "deadline": "2026-04-30 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "November 3-6, 2025",
-      "place": "Irvine, California, USA"
+      "date": "October 19-22, 2026",
+      "place": "Chicago, Illinois, USA"
     }
   },
   {
@@ -1285,18 +1281,18 @@
     },
     "dblp": "podc",
     "confs": {
-      "year": 2024,
-      "id": "podc24",
-      "link": "https://www.podc.org/podc2024",
+      "year": 2026,
+      "id": "podc26",
+      "link": "https://www.podc.org/podc2026/",
       "timeline": [
         {
-          "abstract_deadline": "2024-02-11 23:59:59",
-          "deadline": "2024-02-15 23:59:59"
+          "abstract_deadline": "2026-02-11 23:59:59",
+          "deadline": "2026-02-16 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 17-21, 2024",
-      "place": "Nantes, France"
+      "date": "July 6-10, 2026",
+      "place": "Egham, England"
     }
   },
   {

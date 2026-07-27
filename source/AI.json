@@ -84,17 +84,18 @@
     },
     "dblp": "acl",
     "confs": {
-      "year": 2026,
-      "id": "acl26",
-      "link": "https://2026.aclweb.org/",
+      "year": 2027,
+      "id": "acl27",
+      "link": "https://2027.aclweb.org/",
       "timeline": [
         {
-          "deadline": "2026-01-05 23:59:59"
+          "deadline": "TBD",
+          "comment": "ARR Submission"
         }
       ],
       "timezone": "UTC-12",
-      "date": "July 2 - 7, 2026",
-      "place": "San Diego, California, United States"
+      "date": "August 17-22, 2027",
+      "place": "Kyoto, Japan"
     }
   },
   {
@@ -259,18 +260,18 @@
     },
     "dblp": "coling",
     "confs": {
-      "year": 2025,
-      "id": "coling25",
-      "link": "https://coling2025.org/",
+      "year": 2027,
+      "id": "coling27",
+      "link": "https://2027.coling-iccl.org/",
       "timeline": [
         {
-          "deadline": "2024-09-16 23:59:59",
-          "comment": "First Call for Main Conference Papers"
+          "deadline": "TBD",
+          "comment": "ARR Submission"
         }
       ],
       "timezone": "UTC-12",
-      "date": "Jan 19 - Jan 24, 2025",
-      "place": "Abu Dhabi, UAE"
+      "date": "May 9-14, 2027",
+      "place": "Macau SAR, China"
     }
   },
   {
@@ -466,10 +467,11 @@
       "link": "https://2027.eacl.org/",
       "timeline": [
         {
-          "deadline": "2026-08-03 23:59:59"
+          "deadline": "2026-08-03 23:59:59",
+          "comment": "ARR Submission; commitment deadline: 2026-10-11"
         }
       ],
-      "timezone": "AoE",
+      "timezone": "UTC-12",
       "date": "March 9-14, 2027",
       "place": "Athens, Greece"
     }
@@ -540,7 +542,8 @@
       "link": "https://2026.emnlp.org/",
       "timeline": [
         {
-          "deadline": "2026-05-25 23:59:59"
+          "deadline": "2026-05-25 23:59:59",
+          "comment": "ARR Submission; commitment deadline: 2026-08-02"
         }
       ],
       "timezone": "UTC-12",
@@ -993,12 +996,12 @@
       "timeline": [
         {
           "deadline": "2026-05-25 23:59:59",
-          "comment": "ARR Submission; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)"
+          "comment": "ARR Submission; commitment deadline: 2026-08-02; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)"
         }
       ],
       "timezone": "UTC-12",
       "date": "Nov 6-10, 2026",
-      "place": "Hengqin, China"
+      "place": "Hengqin, Zhuhai, China"
     }
   },
   {
@@ -1134,17 +1137,18 @@
     },
     "dblp": "naacl",
     "confs": {
-      "year": 2025,
-      "id": "naacl25",
-      "link": "https://2025.naacl.org/",
+      "year": 2027,
+      "id": "naacl27",
+      "link": "https://2027.naacl.org/",
       "timeline": [
         {
-          "deadline": "2024-10-15 23:59:59"
+          "deadline": "2026-10-12 23:59:59",
+          "comment": "ARR Submission"
         }
       ],
       "timezone": "UTC-12",
-      "date": "April 29-May 4, 2025",
-      "place": "Albuquerque, New Mexico, USA"
+      "date": "June 1-5, 2027",
+      "place": "San Francisco, California, USA"
     }
   },
   {

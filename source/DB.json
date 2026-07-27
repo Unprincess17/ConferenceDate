@@ -15,7 +15,28 @@
       "link": "https://adma2026.github.io/",
       "timeline": [
         {
-          "deadline": "2026-06-26 23:59:59"
+          "deadline": "2026-07-17 23:59:59",
+          "comment": "Main Track"
+        },
+        {
+          "deadline": "2026-07-31 23:59:59",
+          "comment": "Industry Track"
+        },
+        {
+          "deadline": "2026-07-31 23:59:59",
+          "comment": "Special Session Paper"
+        },
+        {
+          "deadline": "2026-08-07 23:59:59",
+          "comment": "Short Paper"
+        },
+        {
+          "deadline": "2026-09-11 23:59:59",
+          "comment": "Poster Paper"
+        },
+        {
+          "deadline": "2026-09-11 23:59:59",
+          "comment": "Encore Paper"
         }
       ],
       "timezone": "AoE",
@@ -348,18 +369,17 @@
     },
     "dblp": "pkdd",
     "confs": {
-      "year": 2026,
-      "id": "ecmlpkdd2026",
-      "link": "https://ecmlpkdd.org/2026/",
+      "year": 2027,
+      "id": "ecmlpkdd2027",
+      "link": "https://ecmlpkdd.org/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2026-03-05 23:59:59",
-          "deadline": "2026-03-12 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "September 7-11, 2026",
-      "place": "Naples, Italy"
+      "date": "September 20-24, 2027",
+      "place": "Eindhoven, The Netherlands"
     }
   },
   {
@@ -398,18 +418,18 @@
     },
     "dblp": "sdm",
     "confs": {
-      "year": 2025,
-      "id": "sdm2025",
-      "link": "https://www.siam.org/conferences-events/siam-conferences/sdm25",
+      "year": 2026,
+      "id": "sdm2026",
+      "link": "https://www.siam.org/conferences-events/siam-conferences/sdm26/",
       "timeline": [
         {
-          "abstract_deadline": "2024-09-27 23:59:59",
-          "deadline": "2024-10-04 23:59:59"
+          "abstract_deadline": "2026-04-10 23:59:59",
+          "deadline": "2026-04-17 23:59:59"
         }
       ],
-      "timezone": "UTC-8",
-      "date": "May 1-3, 2025",
-      "place": "Alexandria, Virginia, USA"
+      "timezone": "AoE",
+      "date": "November 19-20, 2026",
+      "place": "Salt Lake City, Utah, USA"
     }
   },
   {
@@ -596,6 +616,31 @@
       "timezone": "UTC+8",
       "date": "August 07-09, 2026",
       "place": "Kunming, China"
+    }
+  },
+  {
+    "title": "WISE",
+    "description": "International Conference on Web Information Systems Engineering",
+    "sub": "DB",
+    "rank": {
+      "ccf": "B",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "wise",
+    "confs": {
+      "year": 2026,
+      "id": "wise26",
+      "link": "https://conferences.sigappfr.org/wise2026/",
+      "timeline": [
+        {
+          "deadline": "2026-06-30 23:59:59",
+          "comment": "Extended submission deadline"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "November 2-5, 2026",
+      "place": "Venice, Italy"
     }
   },
   {
