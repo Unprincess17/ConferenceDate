@@ -950,17 +950,17 @@
     },
     "dblp": "pkc",
     "confs": {
-      "year": 2026,
-      "id": "pkc26",
-      "link": "https://pkc.iacr.org/2026/",
+      "year": 2027,
+      "id": "pkc27",
+      "link": "https://pkc.iacr.org/2027/",
       "timeline": [
         {
-          "deadline": "2025-10-24 23:59:59"
+          "deadline": "2026-08-16 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 25-28, 2026",
-      "place": "West Palm Beach, USA"
+      "date": "March 1-4, 2027",
+      "place": "Taipei, Taiwan"
     }
   },
   {

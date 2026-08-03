@@ -794,18 +794,18 @@
     },
     "dblp": "iclr",
     "confs": {
-      "year": 2026,
-      "id": "iclr26",
-      "link": "https://iclr.cc/Conferences/2026",
+      "year": 2027,
+      "id": "iclr27",
+      "link": "https://iclr.cc/Conferences/2027",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-19 23:59:59",
-          "deadline": "2025-09-24 23:59:59"
+          "abstract_deadline": "2026-09-18 23:59:59",
+          "deadline": "2026-09-25 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 01-05, 2026",
-      "place": "Brazil"
+      "date": "April 26-30, 2027",
+      "place": "San Francisco, CA, USA"
     }
   },
   {
@@ -893,17 +893,17 @@
     },
     "dblp": "icra",
     "confs": {
-      "year": 2026,
-      "id": "icra26",
-      "link": "https://2026.ieee-icra.org/",
+      "year": 2027,
+      "id": "icra27",
+      "link": "https://2027.ieee-icra.org/",
       "timeline": [
         {
-          "deadline": "2025-09-15 23:59:00"
+          "deadline": "2026-09-15 23:59:59"
         }
       ],
-      "timezone": "UTC-8",
-      "date": "Jun 1-5, 2026",
-      "place": "Vienna, Austria"
+      "timezone": "UTC-7",
+      "date": "May 24-28, 2027",
+      "place": "Seoul, Republic of Korea"
     }
   },
   {

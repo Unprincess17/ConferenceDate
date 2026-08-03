@@ -224,18 +224,18 @@
     },
     "dblp": "eurographics",
     "confs": {
-      "year": 2026,
-      "id": "eg26",
-      "link": "https://eg2026.github.io/",
+      "year": 2027,
+      "id": "eg27",
+      "link": "https://eg2027.isti.cnr.it/",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-22 23:59:59",
-          "deadline": "2025-09-26 23:59:59"
+          "abstract_deadline": "2026-09-25 23:59:59",
+          "deadline": "2026-10-01 23:59:59"
         }
       ],
       "timezone": "UTC",
-      "date": "May 4-8, 2026",
-      "place": "Aachen, Germany"
+      "date": "May 10-14, 2027",
+      "place": "Lucca, Italy"
     }
   },
   {
@@ -524,7 +524,7 @@
       "link": "https://www.mmasia2026.org/",
       "timeline": [
         {
-          "deadline": "2026-08-03 23:59:59",
+          "deadline": "2026-08-14 23:59:59",
           "comment": "Regular Paper / Special Session Submission"
         }
       ],

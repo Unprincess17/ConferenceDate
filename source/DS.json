@@ -61,7 +61,7 @@
     "confs": {
       "year": 2026,
       "id": "apsys2026",
-      "link": "https://ap-sys.org/",
+      "link": "https://apsys26.github.io/",
       "timeline": [
         {
           "abstract_deadline": "2026-05-13 23:59:00",
@@ -523,21 +523,21 @@
     },
     "dblp": "fpga",
     "confs": {
-      "year": 2026,
-      "id": "fpga2026",
+      "year": 2027,
+      "id": "fpga2027",
       "link": "https://www.isfpga.org/",
       "timeline": [
         {
-          "deadline": "2025-09-24 23:59:59",
+          "deadline": "2026-10-01 23:59:59",
           "comment": "Abstracts Due"
         },
         {
-          "deadline": "2025-10-01 23:59:59",
+          "deadline": "2026-10-08 23:59:59",
           "comment": "Submissions Due"
         }
       ],
       "timezone": "UTC-12",
-      "date": "February 22 - February 24, 2026",
+      "date": "March 14 - March 16, 2027",
       "place": "Monterey, California, USA"
     }
   },
