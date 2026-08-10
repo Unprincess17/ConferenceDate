@@ -396,17 +396,17 @@
     },
     "dblp": "mir",
     "confs": {
-      "year": 2026,
-      "id": "icmr26",
-      "link": "https://icmr2026.org/calls.html",
+      "year": 2027,
+      "id": "icmr27",
+      "link": "https://www.icmr2027.org/",
       "timeline": [
         {
-          "deadline": "2026-02-13 23:59:59"
+          "deadline": "2027-01-31 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "June 16-19, 2026",
-      "place": "Amsterdam, Netherlands"
+      "date": "June 7-10, 2027",
+      "place": "Singapore"
     }
   },
   {
