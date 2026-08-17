@@ -39,22 +39,22 @@
     },
     "dblp": "acns",
     "confs": {
-      "year": 2026,
-      "id": "acns26",
-      "link": "https://acns2026.github.io/index.html",
+      "year": 2027,
+      "id": "acns27",
+      "link": "https://acns2027.isg.rhul.ac.uk/",
       "timeline": [
         {
-          "deadline": "2025-09-26 23:59:59",
+          "deadline": "2026-09-24 23:59:59",
           "comment": "Cycle 1 Submission deadline"
         },
         {
-          "deadline": "2026-01-23 23:59:59",
+          "deadline": "2027-01-21 23:59:59",
           "comment": "Cycle 2 Submission deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "June 22-25, 2026",
-      "place": "New York, United States"
+      "date": "June 28 - July 1, 2027",
+      "place": "Royal Holloway, Egham, UK"
     }
   },
   {
@@ -340,17 +340,17 @@
     },
     "dblp": "ctrsa",
     "confs": {
-      "year": 2026,
-      "id": "ct-rsa26",
-      "link": "https://conference.wsu.edu/ct-rsa-2026/",
+      "year": 2027,
+      "id": "ct-rsa27",
+      "link": "https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/",
       "timeline": [
         {
-          "deadline": "2025-10-24 23:59:59",
+          "deadline": "2026-10-22 23:59:59",
           "comment": "Paper submission deadline"
         }
       ],
       "timezone": "UTC-12",
-      "date": "March 23-26, 2026",
+      "date": "April 5-8, 2027",
       "place": "San Francisco, California, USA"
     }
   },
@@ -1056,17 +1056,17 @@
     },
     "dblp": "satml",
     "confs": {
-      "year": 2026,
-      "id": "satml26",
-      "link": "https://www.satml.org",
+      "year": 2027,
+      "id": "satml27",
+      "link": "https://satml.org/",
       "timeline": [
         {
-          "deadline": "2025-09-24 23:59:59"
+          "deadline": "2026-09-29 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "March 23-25, 2026",
-      "place": "Munich, Germany"
+      "date": "May 2027 (exact dates TBD)",
+      "place": "Reykjavik, Iceland"
     }
   },
   {
