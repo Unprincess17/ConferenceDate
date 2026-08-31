@@ -677,17 +677,18 @@
     },
     "dblp": "issta",
     "confs": {
-      "year": 2026,
-      "id": "issta26",
-      "link": "https://conf.researchr.org/home/issta-2026",
+      "year": 2027,
+      "id": "issta27",
+      "link": "https://conf.researchr.org/home/issta-2027",
       "timeline": [
         {
-          "deadline": "2026-01-29 23:59:59"
+          "abstract_deadline": "2027-01-08 23:59:59",
+          "deadline": "2027-01-11 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 3-9, 2026",
-      "place": "Oakland, California, United States"
+      "date": "September 7-10, 2027",
+      "place": "Singapore"
     }
   },
   {

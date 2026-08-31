@@ -301,16 +301,16 @@
     },
     "dblp": "mlsys",
     "confs": {
-      "year": 2026,
-      "id": "mlsys26",
+      "year": 2027,
+      "id": "mlsys27",
       "link": "https://mlsys.org/",
       "timeline": [
         {
-          "deadline": "2025-10-30 20:00:00"
+          "deadline": "2026-10-30 20:00:00"
         }
       ],
-      "timezone": "AoE",
-      "date": "May 17-22, 2026",
+      "timezone": "UTC",
+      "date": "TBD",
       "place": "Bellevue, Washington, USA"
     }
   },
