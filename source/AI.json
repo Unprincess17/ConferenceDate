@@ -138,18 +138,18 @@
     },
     "dblp": "aistats",
     "confs": {
-      "year": 2026,
-      "id": "aistats26",
-      "link": "https://virtual.aistats.org/Conferences/2026",
+      "year": 2027,
+      "id": "aistats27",
+      "link": "https://virtual.aistats.org/Conferences/2027",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-25 23:59:59",
-          "deadline": "2025-10-02 23:59:59"
+          "abstract_deadline": "2026-09-29 23:59:59",
+          "deadline": "2026-10-06 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 2-5, 2026",
-      "place": "Morocco"
+      "date": "May 3, 2027",
+      "place": "Montréal, Canada"
     }
   },
   {
@@ -407,18 +407,18 @@
     },
     "dblp": "cvpr",
     "confs": {
-      "year": 2026,
-      "id": "cvpr26",
-      "link": "https://cvpr.thecvf.com/Conferences/2026",
+      "year": 2027,
+      "id": "cvpr27",
+      "link": "https://cvpr.thecvf.com/Conferences/2027",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-06 23:59:00",
-          "deadline": "2025-11-13 23:59:00"
+          "abstract_deadline": "2026-11-10 23:59:00",
+          "deadline": "2026-11-16 23:59:00"
         }
       ],
       "timezone": "UTC-12",
-      "date": "June 3-7, 2026",
-      "place": "Denver, Colorado, United States"
+      "date": "June 20-24, 2027",
+      "place": "Seattle, WA, United States"
     }
   },
   {
