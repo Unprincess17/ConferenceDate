@@ -251,7 +251,7 @@
   },
   {
     "title": "COLING",
-    "description": "INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS",
+    "description": "International Conference on Computational Linguistics",
     "sub": "AI",
     "rank": {
       "ccf": "B",
@@ -1166,7 +1166,7 @@
         }
       ],
       "timezone": "UTC+0",
-      "date": "December 6, 2026",
+      "date": "December 6-12, 2026",
       "place": "Sydney, Australia"
     }
   },
