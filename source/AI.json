@@ -397,6 +397,28 @@
     }
   },
   {
+    "title": "CVC",
+    "description": "Computer Vision Conference",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N"
+    },
+    "dblp": "cvc",
+    "confs": {
+      "year": 2027,
+      "id": "cvc27",
+      "link": "https://saiconference.com/CVC",
+      "timeline": [
+        {
+          "deadline": "2026-10-01 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "April 15-16, 2027",
+      "place": "Amsterdam, Netherlands"
+    }
+  },
+  {
     "title": "CVPR",
     "description": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
     "sub": "AI",
@@ -576,6 +598,31 @@
     }
   },
   {
+    "title": "EuroGP",
+    "description": "European Conference on Genetic Programming",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "eurogp",
+    "confs": {
+      "year": 2027,
+      "id": "eurogp27",
+      "link": "https://www.evostar.org/2027/eurogp/",
+      "timeline": [
+        {
+          "deadline": "2026-11-01 23:59:00",
+          "comment": "Full papers"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 31-April 2, 2027",
+      "place": "Mainz, Germany (hybrid)"
+    }
+  },
+  {
     "title": "EUVIP",
     "description": "European Conference on Visual Information Processing",
     "sub": "AI",
@@ -597,6 +644,81 @@
       "timezone": "UTC+2",
       "date": "September 28 - October 1, 2026",
       "place": "Luxembourg, Luxembourg"
+    }
+  },
+  {
+    "title": "EvoApplications",
+    "description": "International Conference on the Applications of Evolutionary Computation",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "evoapps",
+    "confs": {
+      "year": 2027,
+      "id": "evoapps27",
+      "link": "https://www.evostar.org/2027/evoapps/",
+      "timeline": [
+        {
+          "deadline": "2026-11-01 23:59:00",
+          "comment": "Full papers"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 31-April 2, 2027",
+      "place": "Mainz, Germany (hybrid)"
+    }
+  },
+  {
+    "title": "EvoCOP",
+    "description": "European Conference on Evolutionary Computation in Combinatorial Optimisation",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "evocop",
+    "confs": {
+      "year": 2027,
+      "id": "evocop27",
+      "link": "https://www.evostar.org/2027/evocop/",
+      "timeline": [
+        {
+          "deadline": "2026-11-01 23:59:00",
+          "comment": "Full papers"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 31-April 2, 2027",
+      "place": "Mainz, Germany (hybrid)"
+    }
+  },
+  {
+    "title": "EvoMUSART",
+    "description": "International Conference on Artificial Intelligence in Music, Sound, Art and Design",
+    "sub": "AI",
+    "rank": {
+      "ccf": "N",
+      "core": "B",
+      "thcpl": "N"
+    },
+    "dblp": "evomusart",
+    "confs": {
+      "year": 2027,
+      "id": "evomusart27",
+      "link": "https://www.evostar.org/2027/evomusart/",
+      "timeline": [
+        {
+          "deadline": "2026-11-01 23:59:00",
+          "comment": "Full papers"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "March 31-April 2, 2027",
+      "place": "Mainz, Germany (hybrid)"
     }
   },
   {

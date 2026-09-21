@@ -98,6 +98,31 @@
     }
   },
   {
+    "title": "ESA",
+    "description": "European Symposium on Algorithms",
+    "sub": "CT",
+    "rank": {
+      "ccf": "B",
+      "core": "A",
+      "thcpl": "B"
+    },
+    "dblp": "esa",
+    "confs": {
+      "year": 2026,
+      "id": "esa2026",
+      "link": "https://algo-conference.org/2026/esa/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-04-21 23:59:59",
+          "deadline": "2026-04-23 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 31 - September 4, 2026",
+      "place": "L'Aquila, Italy"
+    }
+  },
+  {
     "title": "FMCAD",
     "description": "Formal Methods in Computer-Aided Design",
     "sub": "CT",
@@ -407,17 +432,17 @@
     },
     "dblp": "stoc",
     "confs": {
-      "year": 2026,
-      "id": "stoc26",
-      "link": "https://acm-stoc.org/stoc2026/",
+      "year": 2027,
+      "id": "stoc27",
+      "link": "https://acm-stoc.org/stoc2027/",
       "timeline": [
         {
-          "deadline": "2025-11-04 16:59:59"
+          "deadline": "2026-11-02 23:59:59"
         }
       ],
-      "timezone": "UTC-5",
-      "date": "June 22-26, 2026",
-      "place": "Salt Lake City, Utah, USA"
+      "timezone": "UTC-12",
+      "date": "June 6-11, 2027",
+      "place": "Atlanta, Georgia, USA"
     }
   }
 ]

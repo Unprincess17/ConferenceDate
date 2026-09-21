@@ -382,6 +382,37 @@
     }
   },
   {
+    "title": "PODS",
+    "description": "ACM Symposium on Principles of Database Systems",
+    "sub": "DB",
+    "rank": {
+      "ccf": "B",
+      "core": "A*",
+      "thcpl": "A"
+    },
+    "dblp": "pods",
+    "confs": {
+      "year": 2027,
+      "id": "pods27",
+      "link": "https://2027.sigmod.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2026-05-23 23:59:59",
+          "deadline": "2026-05-30 23:59:59",
+          "comment": "First Submission Cycle"
+        },
+        {
+          "abstract_deadline": "2026-12-03 23:59:59",
+          "deadline": "2026-12-10 23:59:59",
+          "comment": "Second Submission Cycle"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 13-19, 2027",
+      "place": "Huntington Beach, California, USA"
+    }
+  },
+  {
     "title": "RecSys",
     "description": "ACM Conference on Recommender Systems",
     "sub": "DB",
