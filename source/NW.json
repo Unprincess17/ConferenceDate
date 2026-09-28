@@ -70,8 +70,8 @@
       "link": "https://www.discotec.org/2026/forte",
       "timeline": [
         {
-          "abstract_deadline": "2026-01-30 23:59:59",
-          "deadline": "2026-02-06 23:59:59"
+          "abstract_deadline": "2026-02-13 23:59:59",
+          "deadline": "2026-02-20 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -167,7 +167,8 @@
       "link": "http://www.icccn.org/ICCCN26/",
       "timeline": [
         {
-          "deadline": "2026-02-13 23:59:59"
+          "abstract_deadline": "2026-03-07 23:59:59",
+          "deadline": "2026-03-13 23:59:59"
         }
       ],
       "timezone": "UTC-10",
@@ -211,24 +212,17 @@
     },
     "dblp": "imc",
     "confs": {
-      "year": 2026,
-      "id": "imc26",
-      "link": "https://conferences.sigcomm.org/imc/2026/",
+      "year": 2027,
+      "id": "imc27",
+      "link": "https://www.sigcomm.org/news/november-2025-sigcomm-newsletter",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-13 23:59:59",
-          "deadline": "2025-11-20 23:59:59",
-          "comment": "Cycle 1 Deadline"
-        },
-        {
-          "abstract_deadline": "2026-04-22 23:59:59",
-          "deadline": "2026-04-29 23:59:59",
-          "comment": "Cycle 2 Deadline"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "Oct 12-16, 2026",
-      "place": "Karlsruhe, Germany"
+      "date": "TBD",
+      "place": "Atlanta, GA, USA"
     }
   },
   {
@@ -267,18 +261,18 @@
     },
     "dblp": "ipsn",
     "confs": {
-      "year": 2022,
-      "id": "ipsn22",
-      "link": "https://ipsn.acm.org/2022/",
+      "year": 2024,
+      "id": "ipsn24",
+      "link": "https://ipsn.acm.org/2024/",
       "timeline": [
         {
-          "abstract_deadline": "2021-10-22 23:59:59",
-          "deadline": "2021-10-29 23:59:59"
+          "abstract_deadline": "2023-10-24 23:59:59",
+          "deadline": "2023-10-31 23:59:59"
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 4-6, 2022",
-      "place": "Milan, Italy"
+      "date": "May 13-16, 2024",
+      "place": "Hong Kong, China"
     }
   },
   {
@@ -297,7 +291,8 @@
       "link": "https://ieee-iscc.computer.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-02-15 23:59:59"
+          "deadline": "TBD",
+          "comment": "Paper submission: February 27, 2026 (firm); exact time and timezone not published"
         }
       ],
       "timezone": "UTC+0",
@@ -321,13 +316,13 @@
       "link": "https://iwqos2026.ieee-iwqos.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-02-02 23:59:59",
-          "deadline": "2026-02-09 23:59:59"
+          "abstract_deadline": "2026-02-16 23:59:59",
+          "deadline": "2026-02-23 23:59:59"
         }
       ],
       "timezone": "AoE",
       "date": "29 June - 2 July, 2026",
-      "place": "Dubai, United Arab Emirates"
+      "place": "Istanbul, Türkiye"
     }
   },
   {
@@ -346,7 +341,7 @@
       "link": "https://www.ieeelcn.org/",
       "timeline": [
         {
-          "deadline": "2026-04-20 23:59:59"
+          "deadline": "2026-05-04 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -370,8 +365,14 @@
       "link": "https://2027.acmmmsys.org",
       "timeline": [
         {
-          "abstract_deadline": "2026-09-10 23:59:59",
-          "deadline": "2026-09-17 23:59:59"
+          "abstract_deadline": "2026-09-17 23:59:59",
+          "deadline": "2026-09-17 23:59:59",
+          "comment": "Research Track - First Round (extended)"
+        },
+        {
+          "abstract_deadline": "2026-11-12 23:59:59",
+          "deadline": "2026-11-19 23:59:59",
+          "comment": "Research Track - Second Round"
         }
       ],
       "timezone": "AoE",
@@ -441,18 +442,18 @@
     },
     "dblp": "mobisys",
     "confs": {
-      "year": 2026,
-      "id": "mobisys26",
-      "link": "https://www.sigmobile.org/mobisys/2026/",
+      "year": 2027,
+      "id": "mobisys27",
+      "link": "https://www.sigmobile.org/mobisys/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-28 23:59:59",
-          "deadline": "2025-12-05 23:59:59"
+          "abstract_deadline": "2026-11-27 23:59:59",
+          "deadline": "2026-12-04 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 21-25, 2026",
-      "place": "Cambridge, UK"
+      "date": "June 21-25, 2027",
+      "place": "Ho Chi Minh City, Vietnam"
     }
   },
   {
@@ -519,7 +520,7 @@
       "link": "https://networking.ifip.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-02-08 23:59:59"
+          "deadline": "2026-02-28 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -538,17 +539,17 @@
     },
     "dblp": "nossdav",
     "confs": {
-      "year": 2026,
-      "id": "nossdav26",
-      "link": "https://nossdav.org/2026/",
+      "year": 2027,
+      "id": "nossdav27",
+      "link": "https://nossdav.org/",
       "timeline": [
         {
-          "deadline": "2026-01-16 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "April 8, 2026",
-      "place": "Hong Kong, China"
+      "date": "TBD",
+      "place": "Ghent, Belgium"
     }
   },
   {
@@ -676,11 +677,11 @@
       "link": "http://wasa-conference.org/WASA2026/",
       "timeline": [
         {
-          "deadline": "2026-03-15 23:59:59"
+          "deadline": "2026-04-10 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "July 6-9, 2026",
+      "date": "June 26-29, 2026",
       "place": "Xi'an, China"
     }
   },
@@ -700,10 +701,11 @@
       "link": "https://wcnc2027.ieee-wcnc.org/",
       "timeline": [
         {
-          "deadline": "2026-10-05 23:59:59"
+          "deadline": "TBD",
+          "comment": "Technical paper deadline: September 15, 2026; exact cutoff time and timezone not specified on the official IEEE ComSoc event page"
         }
       ],
-      "timezone": "UTC-4",
+      "timezone": "AoE",
       "date": "April 5-8, 2027",
       "place": "Panama City, Panama"
     }
@@ -724,10 +726,10 @@
       "link": "https://wicon.eai-conferences.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-06-01 23:59:59"
+          "deadline": "2026-09-30 23:59:59"
         }
       ],
-      "timezone": "UTC+3",
+      "timezone": "UTC+0",
       "date": "December 2-4, 2026",
       "place": "Bratislava, Slovakia"
     }
@@ -743,18 +745,17 @@
     },
     "dblp": "wowmom",
     "confs": {
-      "year": 2026,
-      "id": "wowmom26",
-      "link": "https://www.cs.unibo.it/wowmom2026/",
+      "year": 2027,
+      "id": "wowmom27",
+      "link": "https://wowmom2027.dii.unipi.it/index.html",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-18 23:59:59",
-          "deadline": "2025-12-05 23:59:59"
+          "deadline": "2026-12-01 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 16-19, 2026",
-      "place": "Bologna, Italy"
+      "date": "June 21-24, 2027",
+      "place": "Irvine, California, USA"
     }
   }
 ]

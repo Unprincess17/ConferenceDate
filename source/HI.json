@@ -10,17 +10,17 @@
     },
     "dblp": "assets",
     "confs": {
-      "year": 2025,
-      "id": "assets25",
-      "link": "https://assets25.sigaccess.org/",
+      "year": 2026,
+      "id": "assets26",
+      "link": "https://assets26.sigaccess.org/",
       "timeline": [
         {
-          "deadline": "2025-04-16 23:59:59"
+          "deadline": "2026-04-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "Oct 26 - 29, 2025",
-      "place": "Denver, Colorado"
+      "date": "October 25-28, 2026",
+      "place": "Porto, Portugal"
     }
   },
   {
@@ -87,11 +87,11 @@
       "link": "https://cscw.acm.org/2026/",
       "timeline": [
         {
-          "deadline": "2025-05-13 23:59:59",
-          "comment": "MAY 2025 SUBMISSION CYCLE"
+          "deadline": "2025-05-14 12:00:00",
+          "comment": "MAY 2025 SUBMISSION CYCLE (12:00 EDT)"
         }
       ],
-      "timezone": "AoE",
+      "timezone": "UTC-4",
       "date": "October 10-14, 2026",
       "place": "Salt Lake City, Utah, USA"
     }
@@ -107,17 +107,17 @@
     },
     "dblp": "cscwd",
     "confs": {
-      "year": 2025,
-      "id": "cscwd25",
-      "link": "http://2025.cscwd.org",
+      "year": 2027,
+      "id": "cscwd27",
+      "link": "http://2027.cscwd.org",
       "timeline": [
         {
-          "deadline": "2024-11-15 23:59:59"
+          "deadline": "2026-10-31 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 5-7, 2025",
-      "place": "Compiègne, France"
+      "date": "May 26-28, 2027",
+      "place": "Brisbane, Australia"
     }
   },
   {
@@ -131,18 +131,18 @@
     },
     "dblp": "ACMdis",
     "confs": {
-      "year": 2026,
-      "id": "dis26",
-      "link": "https://dis.acm.org/2026/",
+      "year": 2027,
+      "id": "dis27",
+      "link": "https://dis.acm.org/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2026-01-09 23:59:59",
-          "deadline": "2026-01-19 23:59:59"
+          "abstract_deadline": "2027-01-11 23:59:59",
+          "deadline": "2027-01-18 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 13 - 17, 2026",
-      "place": "Singapore"
+      "date": "June 28 - July 2, 2027",
+      "place": "Stockholm, Sweden"
     }
   },
   {
@@ -171,6 +171,28 @@
     }
   },
   {
+    "title": "GI",
+    "description": "Graphics Interface",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C"
+    },
+    "dblp": "graphicsinterface",
+    "confs": {
+      "year": 2027,
+      "id": "gi27",
+      "link": "https://conferences.graphicsinterface.org/2027",
+      "timeline": [
+        {
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 15-18, 2027",
+      "place": "Winnipeg, Canada"
+    }
+  },
+  {
     "title": "GROUP",
     "description": "ACM International Conference on Supporting Group Work",
     "sub": "HI",
@@ -189,6 +211,11 @@
           "abstract_deadline": "2025-07-08 23:59:59",
           "deadline": "2025-07-15 23:59:59",
           "comment": "Full Paper First Wave Submissions"
+        },
+        {
+          "abstract_deadline": "2026-03-24 23:59:59",
+          "deadline": "2026-03-31 23:59:59",
+          "comment": "Full Paper Second Wave Submissions (extended)"
         }
       ],
       "timezone": "AoE",
@@ -238,10 +265,11 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-13 23:59:59",
-          "deadline": "2026-04-20 23:59:59"
+          "deadline": "2026-04-24 04:59:59",
+          "comment": "Paper deadline extended to Apr 23, 23:59 AoE; normalized to UTC-7"
         }
       ],
-      "timezone": "UTC+7",
+      "timezone": "UTC-7",
       "date": "Oct 5 - 9, 2026",
       "place": "Napoli, Italy"
     }
@@ -257,26 +285,71 @@
     },
     "dblp": "icwsm",
     "confs": {
-      "year": 2026,
-      "id": "icwsm2026",
-      "link": "https://www.icwsm.org/2026/index.html",
+      "year": 2027,
+      "id": "icwsm2027",
+      "link": "https://www.icwsm.org/2027/",
       "timeline": [
         {
-          "deadline": "2025-05-15 23:59:59",
+          "deadline": "2026-05-15 23:59:59",
           "comment": "1st Full-paper Deadline"
         },
         {
-          "deadline": "2025-09-15 23:59:59",
+          "deadline": "2026-09-15 23:59:59",
           "comment": "2nd Full-paper Deadline"
         },
         {
-          "deadline": "2026-01-15 23:59:59",
+          "deadline": "2027-01-15 23:59:59",
           "comment": "3rd Full-paper Deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "May 27-29, 2026",
-      "place": "Los Angeles, CA, USA"
+      "date": "TBD",
+      "place": "Edinburgh, Scotland"
+    }
+  },
+  {
+    "title": "IDC",
+    "description": "ACM Interaction Design and Children Conference",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C"
+    },
+    "dblp": "acmidc",
+    "confs": {
+      "year": 2027,
+      "id": "idc27",
+      "link": "https://idc.acm.org/2027/",
+      "timeline": [
+        {
+          "deadline": "TBD"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "June 21-24, 2027",
+      "place": "Seattle, Washington, USA"
+    }
+  },
+  {
+    "title": "INTERACT",
+    "description": "IFIP TC13 International Conference on Human-Computer Interaction",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C"
+    },
+    "dblp": "interact",
+    "confs": {
+      "year": 2027,
+      "id": "interact27",
+      "link": "https://interact2027.org/",
+      "timeline": [
+        {
+          "abstract_deadline": "2027-01-25 23:59:59",
+          "deadline": "2027-02-01 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 23-27, 2027",
+      "place": "Tallinn, Estonia"
     }
   },
   {
@@ -294,6 +367,14 @@
       "id": "iss26",
       "link": "https://iss.acm.org/2026/",
       "timeline": [
+        {
+          "deadline": "2025-03-14 23:59:59",
+          "comment": "First round 2025"
+        },
+        {
+          "deadline": "2025-07-25 23:59:59",
+          "comment": "Second round 2025"
+        },
         {
           "deadline": "2026-02-12 23:59:59",
           "comment": "Winter round"
@@ -334,6 +415,29 @@
     }
   },
   {
+    "title": "MobileHCI",
+    "description": "ACM International Conference on Mobile Human-Computer Interaction",
+    "sub": "HI",
+    "rank": {
+      "ccf": "B"
+    },
+    "dblp": "mhci",
+    "confs": {
+      "year": 2027,
+      "id": "mobilehci27",
+      "link": "https://mobilehci.acm.org/2027/",
+      "timeline": [
+        {
+          "abstract_deadline": "2027-02-10 23:59:59",
+          "deadline": "2027-02-17 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 20-23, 2027",
+      "place": "Limassol, Cyprus"
+    }
+  },
+  {
     "title": "PerCom",
     "description": "IEEE International Conference on Pervasive Computing and Communications",
     "sub": "HI",
@@ -344,18 +448,19 @@
     },
     "dblp": "percom",
     "confs": {
-      "year": 2026,
-      "id": "percom26",
+      "year": 2027,
+      "id": "percom27",
       "link": "https://percom.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-03 23:59:00",
-          "deadline": "2025-10-03 23:59:00"
+          "abstract_deadline": "2026-09-11 23:59:59",
+          "deadline": "2026-09-18 23:59:59",
+          "comment": "Extended deadlines"
         }
       ],
       "timezone": "AoE",
-      "date": "March 16 - 20, 2026",
-      "place": "Pisa, Italy"
+      "date": "March 8-12, 2027",
+      "place": "Goa, India"
     }
   },
   {
@@ -382,10 +487,6 @@
           "comment": "second round"
         },
         {
-          "deadline": "2026-08-01 23:59:59",
-          "comment": "third round (only for resubmissions after major revisions)"
-        },
-        {
           "deadline": "2026-11-01 23:59:59",
           "comment": "fourth round"
         }
@@ -406,18 +507,17 @@
     },
     "dblp": "uic",
     "confs": {
-      "year": 2025,
-      "id": "uic25",
-      "link": "https://www.ieee-smart-world.org/2025/",
+      "year": 2026,
+      "id": "uic26",
+      "link": "https://swc-ieee-2026.github.io/uic/",
       "timeline": [
         {
-          "deadline": "2025-05-01 23:59:59",
-          "comment": "Conference Papers"
+          "deadline": "2026-05-31 23:59:59"
         }
       ],
-      "timezone": "UTC-4",
-      "date": "Aug 18 - 22, 2025",
-      "place": "Calgary, Alberta, Canada"
+      "timezone": "UTC+2",
+      "date": "Sept 7 - 11, 2026",
+      "place": "Rende, Italy"
     }
   },
   {
@@ -443,6 +543,28 @@
       "timezone": "AoE",
       "date": "November 2 - 5, 2026",
       "place": "GM Renaissance Center, Detroit, MI, USA"
+    }
+  },
+  {
+    "title": "WHC",
+    "description": "IEEE World Haptics Conference",
+    "sub": "HI",
+    "rank": {
+      "ccf": "C"
+    },
+    "dblp": "haptics",
+    "confs": {
+      "year": 2027,
+      "id": "whc27",
+      "link": "https://2027.worldhaptics.org/",
+      "timeline": [
+        {
+          "deadline": "2027-01-29 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 12-15, 2027",
+      "place": "Boston, Massachusetts, USA"
     }
   }
 ]

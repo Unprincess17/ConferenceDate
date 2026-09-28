@@ -107,17 +107,17 @@
     },
     "dblp": "bis",
     "confs": {
-      "year": 2026,
-      "id": "bis2026",
-      "link": "https://bisconf.org/2026/",
+      "year": 2027,
+      "id": "bis2027",
+      "link": "https://bisconf.org/2027/",
       "timeline": [
         {
-          "deadline": "2026-01-25 23:59:59"
+          "deadline": "2027-01-11 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 10-12, 2026",
-      "place": "Prague, Czech Republic"
+      "date": "June 23-25, 2027",
+      "place": "Poznań, Poland"
     }
   },
   {
@@ -209,7 +209,7 @@
       "link": "https://icaif2026.org/index.html",
       "timeline": [
         {
-          "deadline": "2026-08-02 23:59:59"
+          "deadline": "2026-08-09 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -252,17 +252,41 @@
     },
     "dblp": "isbra",
     "confs": {
-      "year": 2025,
-      "id": "isbra25",
-      "link": "https://www.helsinki.fi/en/conferences/isbra2025",
+      "year": 2026,
+      "id": "isbra26",
+      "link": "https://isbra2026.scimeeting.cn/",
       "timeline": [
         {
-          "deadline": "2025-04-01 23:59:59"
+          "deadline": "2026-03-22 23:59:59",
+          "comment": "Extended submission deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "August 3-5, 2025",
-      "place": "Helsinki, Finland"
+      "date": "July 22-24, 2026",
+      "place": "Macau, China"
+    }
+  },
+  {
+    "title": "ISMB",
+    "description": "International Conference on Intelligent Systems for Molecular Biology",
+    "sub": "MX",
+    "rank": {
+      "ccf": "B"
+    },
+    "dblp": "ismb",
+    "confs": {
+      "year": 2027,
+      "id": "ismb27",
+      "link": "https://www.iscb.org/ismbeccb2027/",
+      "timeline": [
+        {
+          "deadline": "TBD",
+          "comment": "Proceedings"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 18-22, 2027",
+      "place": "Copenhagen, Denmark"
     }
   },
   {
@@ -330,8 +354,8 @@
       "link": "https://recomb.org/recomb2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-28 23:59:59",
-          "deadline": "2025-11-04 23:59:59"
+          "abstract_deadline": "2026-10-28 23:59:59",
+          "deadline": "2026-11-04 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -355,7 +379,8 @@
       "link": "http://2026.rtss.org/",
       "timeline": [
         {
-          "deadline": "2026-05-21 23:59:59"
+          "abstract_deadline": "2026-05-21 23:59:59",
+          "deadline": "2026-05-26 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -364,7 +389,7 @@
     }
   },
   {
-    "title": "SAI Computing Conference",
+    "title": "SAI",
     "description": "Computing Conference (SAI)",
     "sub": "MX",
     "rank": {
@@ -377,7 +402,12 @@
       "link": "https://saiconference.com/Computing",
       "timeline": [
         {
-          "deadline": "2026-10-01 23:59:00"
+          "deadline": "2026-10-01 23:59:00",
+          "comment": "Round 1"
+        },
+        {
+          "deadline": "2026-12-01 23:59:00",
+          "comment": "Round 2"
         }
       ],
       "timezone": "AoE",
@@ -426,8 +456,9 @@
       "link": "https://sigspatial2026.sigspatial.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-05-22 23:59:59",
-          "deadline": "2026-05-29 23:59:59"
+          "abstract_deadline": "2026-05-29 23:59:59",
+          "deadline": "2026-06-05 23:59:59",
+          "comment": "Extended Research Track deadlines"
         }
       ],
       "timezone": "UTC-7",

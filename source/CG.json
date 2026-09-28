@@ -15,11 +15,12 @@
       "link": "https://3dvconf.github.io/2027/",
       "timeline": [
         {
-          "deadline": "2026-08-28 11:00:00",
-          "comment": "Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT."
+          "abstract_deadline": "2026-08-28 23:59:59",
+          "deadline": "2026-08-28 23:59:59",
+          "comment": "Regular-paper abstract registration and paper submission are both due Aug 28."
         }
       ],
-      "timezone": "UTC-7",
+      "timezone": "AoE",
       "date": "April 6-9, 2027",
       "place": "Thessaloniki, Greece"
     }
@@ -35,17 +36,17 @@
     },
     "dblp": "ca",
     "confs": {
-      "year": 2025,
-      "id": "casa2025",
-      "link": "https://casa2025.sciencesconf.org/",
+      "year": 2026,
+      "id": "casa2026",
+      "link": "https://cgs-network.org/CASAXR26/",
       "timeline": [
         {
-          "deadline": "2025-03-08 23:59:59"
+          "deadline": "2026-02-10 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "June 2-5, 2025",
-      "place": "Strasbourg, France"
+      "date": "June 1-3, 2026",
+      "place": "Geneva, Switzerland"
     }
   },
   {
@@ -64,7 +65,7 @@
       "link": "https://sites.google.com/view/cccg-2026/home",
       "timeline": [
         {
-          "deadline": "2026-05-08 23:59:59",
+          "deadline": "2026-05-12 23:59:59",
           "comment": "Submission Deadline"
         }
       ],
@@ -84,22 +85,18 @@
     },
     "dblp": "cgi",
     "confs": {
-      "year": 2026,
-      "id": "cgi26",
-      "link": "https://www.cgs-network.org/cgi26/",
+      "year": 2027,
+      "id": "cgi27",
+      "link": "https://cgs-network.org/cgi27/",
       "timeline": [
         {
-          "deadline": "2026-03-12 23:59:00",
-          "comment": "First Track: Call for papers with final publication in The Visual Computer Journal"
-        },
-        {
-          "deadline": "2026-04-20 23:59:00",
-          "comment": "Second Track: Call for papers with final publication in LNCS Book published by Springer or in The Visual Computer journal or Computer Animation and Virtual Worlds Journal"
+          "deadline": "2027-04-20 23:59:59",
+          "comment": "Regular conference papers (LNCS proceedings track)"
         }
       ],
       "timezone": "UTC",
-      "date": "July 06-10, 2026",
-      "place": "London, UK"
+      "date": "July 5-9, 2027",
+      "place": "Cairns, Australia"
     }
   },
   {
@@ -196,8 +193,8 @@
       "link": "https://eg2027.isti.cnr.it/",
       "timeline": [
         {
-          "abstract_deadline": "2026-09-25 23:59:59",
-          "deadline": "2026-10-01 23:59:59"
+          "abstract_deadline": "2026-09-26 09:59:00",
+          "deadline": "2026-10-01 23:59:00"
         }
       ],
       "timezone": "UTC",
@@ -225,7 +222,7 @@
           "deadline": "2026-04-15 23:59:59"
         }
       ],
-      "timezone": "UTC",
+      "timezone": "AoE",
       "date": "July 1-3, 2026",
       "place": "Bordeaux, France"
     }
@@ -247,12 +244,36 @@
       "timeline": [
         {
           "abstract_deadline": "2025-11-26 23:59:59",
-          "deadline": "2024-12-03 23:59:59"
+          "deadline": "2025-12-03 23:59:59"
         }
       ],
       "timezone": "AoE",
       "date": "June 8-12, 2026",
       "place": "Nottingham, United Kingdom"
+    }
+  },
+  {
+    "title": "EUSIPCO",
+    "description": "European Signal Processing Conference",
+    "sub": "CG",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "eusipco",
+    "confs": {
+      "year": 2027,
+      "id": "eusipco27",
+      "link": "https://eusipco2027.de/",
+      "timeline": [
+        {
+          "deadline": "2027-02-06 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "August 30 - September 3, 2027",
+      "place": "Darmstadt, Germany"
     }
   },
   {
@@ -266,18 +287,18 @@
     },
     "dblp": "gmp",
     "confs": {
-      "year": 2026,
-      "id": "gmp26",
-      "link": "https://gmp2026.kma.zcu.cz/",
+      "year": 2027,
+      "id": "gmp27",
+      "link": "https://gmp-conference-2027.github.io/gmp2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-12-16 23:59:59",
-          "deadline": "2025-12-18 23:59:59"
+          "abstract_deadline": "2026-12-14 23:59:59",
+          "deadline": "2026-12-21 23:59:59"
         }
       ],
       "timezone": "UTC",
-      "date": "May 27-29, 2026",
-      "place": "Pilsen, Czech Republic"
+      "date": "June 21-25, 2027",
+      "place": "Singapore"
     }
   },
   {
@@ -291,17 +312,17 @@
     },
     "dblp": "icassp",
     "confs": {
-      "year": 2027,
-      "id": "icassp27",
-      "link": "https://2027.ieeeicassp.org/",
+      "year": 2028,
+      "id": "icassp28",
+      "link": "https://2028.ieeeicassp.org/",
       "timeline": [
         {
-          "deadline": "2026-09-23 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 16-21, 2027",
-      "place": "Toronto, Canada"
+      "date": "May 28-June 2, 2028",
+      "place": "Tokyo, Japan"
     }
   },
   {
@@ -323,7 +344,7 @@
           "deadline": "2026-02-04 23:59:59"
         }
       ],
-      "timezone": "UTC+0",
+      "timezone": "AoE",
       "date": "Sep 13-17, 2026",
       "place": "Tampere, Finland"
     }
@@ -339,17 +360,17 @@
     },
     "dblp": "icme",
     "confs": {
-      "year": 2026,
-      "id": "icme26",
-      "link": "https://2026.ieeeicme.org/",
+      "year": 2027,
+      "id": "icme27",
+      "link": "https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme",
       "timeline": [
         {
-          "deadline": "2025-12-31 23:59:59"
+          "deadline": "TBD"
         }
       ],
-      "timezone": "UTC-12",
-      "date": "July 6 - July 10, 2026",
-      "place": "Bangkok, Thailand"
+      "timezone": "AoE",
+      "date": "July 13-17, 2027",
+      "place": "Xiamen, China"
     }
   },
   {
@@ -387,18 +408,18 @@
     },
     "dblp": "icvrv",
     "confs": {
-      "year": 2025,
-      "id": "icvrv25",
-      "link": "https://icvrv2025.aconf.org/",
+      "year": 2026,
+      "id": "icvrv26",
+      "link": "https://icvrv2026.aconf.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-08-15 23:59:59",
-          "deadline": "2025-08-22 23:59:59"
+          "abstract_deadline": "2026-08-15 23:59:59",
+          "deadline": "2026-08-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "December 19-21, 2025",
-      "place": "Bogota, Colombia"
+      "date": "December 18-20, 2026",
+      "place": "Valparaíso, Chile"
     }
   },
   {
@@ -412,17 +433,17 @@
     },
     "dblp": "interspeech",
     "confs": {
-      "year": 2026,
-      "id": "interspeech26",
-      "link": "https://interspeech2026.org/",
+      "year": 2027,
+      "id": "interspeech27",
+      "link": "https://interspeech2027.org/",
       "timeline": [
         {
-          "deadline": "2026-02-25 23:59:59"
+          "deadline": "2027-02-09 23:59:59"
         }
       ],
       "timezone": "UTC+0",
-      "date": "September 27 - October 1, 2026",
-      "place": "Sydney, Australia"
+      "date": "August 29 - September 2, 2027",
+      "place": "São Paulo, Brazil"
     }
   },
   {
@@ -493,14 +514,6 @@
         {
           "deadline": "2026-08-14 23:59:59",
           "comment": "Regular Paper"
-        },
-        {
-          "deadline": "2026-08-21 23:59:59",
-          "comment": "Special Session Paper"
-        },
-        {
-          "deadline": "2026-09-01 23:59:59",
-          "comment": "Demo / Industry Submission"
         }
       ],
       "timezone": "AoE",
@@ -524,7 +537,8 @@
       "link": "https://www.mmm2027.net/",
       "timeline": [
         {
-          "deadline": "2026-08-16 23:59:59"
+          "deadline": "2026-08-30 23:59:00",
+          "comment": "Regular papers; extended deadline"
         }
       ],
       "timezone": "AoE",
@@ -567,24 +581,19 @@
     },
     "dblp": "pacificvis",
     "confs": {
-      "year": 2026,
-      "id": "pacificvis26",
-      "link": "https://pacificvis2026.github.io/",
+      "year": 2027,
+      "id": "pacificvis27",
+      "link": "https://pacificvis2027.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-09-01 23:59:00",
-          "deadline": "2025-09-07 23:59:00",
-          "comment": "Journal track"
-        },
-        {
-          "abstract_deadline": "2025-11-01 23:59:00",
-          "deadline": "2025-11-08 23:59:00",
+          "abstract_deadline": "2026-11-02 23:59:59",
+          "deadline": "2026-11-09 23:59:59",
           "comment": "Conference track"
         }
       ],
       "timezone": "AoE",
-      "date": "April 20 - 23, 2026",
-      "place": "Sydney, Australia"
+      "date": "April 19-22, 2027",
+      "place": "Busan, South Korea"
     }
   },
   {
@@ -652,16 +661,12 @@
       "link": "https://computeranimation.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-10 23:59:59",
-          "deadline": "2026-04-17 23:59:59",
+          "abstract_deadline": "2026-04-10 23:59:00",
+          "deadline": "2026-04-17 23:59:00",
           "comment": "Submission deadline (papers)"
-        },
-        {
-          "deadline": "2026-06-01 23:59:59",
-          "comment": "Submission deadline (posters)"
         }
       ],
-      "timezone": "AoE",
+      "timezone": "UTC+0",
       "date": "July 8-10, 2026",
       "place": "Barcelona, Spain"
     }
@@ -677,24 +682,17 @@
     },
     "dblp": "sgp",
     "confs": {
-      "year": 2026,
-      "id": "sgp26",
-      "link": "https://sgp26.org/",
+      "year": 2027,
+      "id": "sgp27",
+      "link": "https://igs2027singapore.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2026-02-02 23:59:59",
-          "deadline": "2026-02-04 23:59:59",
-          "comment": "First round"
-        },
-        {
-          "abstract_deadline": "2026-04-13 23:59:59",
-          "deadline": "2026-04-15 23:59:59",
-          "comment": "Second round"
+          "deadline": "TBD"
         }
       ],
-      "timezone": "UTC+0",
-      "date": "July 1 - 3, 2026",
-      "place": "Bern, Switzerland"
+      "timezone": "AoE",
+      "date": "June 21-25, 2027",
+      "place": "Singapore"
     }
   },
   {
@@ -763,7 +761,7 @@
       "link": "https://attend.ieee.org/slt-2026/",
       "timeline": [
         {
-          "deadline": "2026-06-17 23:59:59"
+          "deadline": "2026-06-24 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -782,18 +780,17 @@
     },
     "dblp": "smi",
     "confs": {
-      "year": 2025,
-      "id": "smi25",
-      "link": "https://smiconf.github.io/2025/",
+      "year": 2027,
+      "id": "smi27",
+      "link": "https://smiconf.github.io/2027/",
       "timeline": [
         {
-          "abstract_deadline": "2025-04-14 23:59:59",
-          "deadline": "2025-04-22 23:59:59"
+          "deadline": "TBD"
         }
       ],
-      "timezone": "AoE",
-      "date": "October 29 - November 2, 2025",
-      "place": "Hangzhou, Zhejiang, P.R. China"
+      "timezone": "UTC",
+      "date": "June 21-25, 2027",
+      "place": "Singapore"
     }
   },
   {
@@ -807,18 +804,17 @@
     },
     "dblp": "sma",
     "confs": {
-      "year": 2025,
-      "id": "spm25",
-      "link": "https://spmconf2025.github.io/SPM2025/",
+      "year": 2027,
+      "id": "spm27",
+      "link": "https://igs2027singapore.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-03-08 23:59:59",
-          "deadline": "2025-03-15 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "October 29 - November 2, 2025",
-      "place": "Hangzhou, Zhejiang, P.R. China"
+      "date": "June 21-25, 2027",
+      "place": "Singapore"
     }
   },
   {
@@ -832,17 +828,17 @@
     },
     "dblp": "vinci",
     "confs": {
-      "year": 2025,
-      "id": "vinci2025",
-      "link": "https://vinci2025.games.cg.jku.at",
+      "year": 2026,
+      "id": "vinci2026",
+      "link": "https://vinci-symp.org/",
       "timeline": [
         {
-          "deadline": "2025-06-27 23:59:59"
+          "deadline": "2026-07-29 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "December 1-3, 2025",
-      "place": "Linz, Austria"
+      "date": "November 1-4, 2026",
+      "place": "Hangzhou, China"
     }
   },
   {
@@ -862,7 +858,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-03-21 23:59:59",
-          "deadline": "2026-03-31 23:59:59"
+          "deadline": "2026-03-31 23:59:59",
+          "comment": "Regular full papers; mandatory abstract and initial submission"
         }
       ],
       "timezone": "AoE",

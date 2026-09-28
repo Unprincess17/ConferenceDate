@@ -17,26 +17,6 @@
         {
           "deadline": "2026-07-17 23:59:59",
           "comment": "Main Track"
-        },
-        {
-          "deadline": "2026-07-31 23:59:59",
-          "comment": "Industry Track"
-        },
-        {
-          "deadline": "2026-07-31 23:59:59",
-          "comment": "Special Session Paper"
-        },
-        {
-          "deadline": "2026-08-07 23:59:59",
-          "comment": "Short Paper"
-        },
-        {
-          "deadline": "2026-09-11 23:59:59",
-          "comment": "Poster Paper"
-        },
-        {
-          "deadline": "2026-09-11 23:59:59",
-          "comment": "Encore Paper"
         }
       ],
       "timezone": "AoE",
@@ -64,7 +44,7 @@
           "comment": "first round"
         },
         {
-          "deadline": "2026-05-14 23:59:59",
+          "deadline": "2026-05-24 23:59:59",
           "comment": "second round"
         }
       ],
@@ -162,8 +142,8 @@
       "link": "https://ecir2027.co.uk/",
       "timeline": [
         {
-          "abstract_deadline": "2026-09-25 23:59:59",
-          "deadline": "2026-10-02 23:59:59"
+          "abstract_deadline": "2026-09-21 23:59:59",
+          "deadline": "2026-10-05 23:59:59"
         }
       ],
       "timezone": "UTC+0",
@@ -202,30 +182,6 @@
     }
   },
   {
-    "title": "EUSIPCO",
-    "description": "European Signal Processing Conference",
-    "sub": "SE",
-    "rank": {
-      "ccf": "N",
-      "core": "N",
-      "thcpl": "N"
-    },
-    "dblp": "eusipcolyon",
-    "confs": {
-      "year": 2026,
-      "id": "eusipco26",
-      "link": "https://eusipco2026.org/",
-      "timeline": [
-        {
-          "deadline": "2026-02-13 23:59:59"
-        }
-      ],
-      "timezone": "AoE",
-      "date": "August 31 - September 4, 2026",
-      "place": "Bruges, Belgium"
-    }
-  },
-  {
     "title": "ICDE",
     "description": "IEEE International Conference on Data Engineering",
     "sub": "DB",
@@ -249,7 +205,7 @@
           "comment": "second round"
         }
       ],
-      "timezone": "UTC-7",
+      "timezone": "PT",
       "date": "May 17-21, 2027",
       "place": "Copenhagen, Denmark"
     }
@@ -270,7 +226,6 @@
       "link": "http://icdm2026.neu.edu.cn/",
       "timeline": [
         {
-          "abstract_deadline": "2026-05-30 23:59:59",
           "deadline": "2026-06-06 23:59:59"
         }
       ],
@@ -344,17 +299,17 @@
     },
     "dblp": "pakdd",
     "confs": {
-      "year": 2026,
-      "id": "pakdd26",
-      "link": "https://www.pakdd2026.org/",
+      "year": 2027,
+      "id": "pakdd27",
+      "link": "https://www.pakdd2027.org/",
       "timeline": [
         {
-          "deadline": "2025-11-15 23:59:59"
+          "deadline": "2026-11-20 23:59:59"
         }
       ],
-      "timezone": "UTC-8",
-      "date": "June 9-12, 2026",
-      "place": "Hong Kong, China"
+      "timezone": "AoE",
+      "date": "June 29-July 2, 2027",
+      "place": "Wellington, New Zealand"
     }
   },
   {
@@ -423,18 +378,17 @@
     },
     "dblp": "recsys",
     "confs": {
-      "year": 2026,
-      "id": "recsys26",
-      "link": "https://recsys.acm.org/recsys26",
+      "year": 2027,
+      "id": "recsys27",
+      "link": "https://recsys.acm.org/recsys27/",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-14 23:59:59",
-          "deadline": "2026-04-21 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "September 28 - October 2, 2026",
-      "place": "Minneapolis, Minnesota, USA"
+      "date": "August 23-27, 2027",
+      "place": "Honolulu, O‘ahu, Hawaii, USA"
     }
   },
   {
@@ -473,18 +427,18 @@
     },
     "dblp": "sigir",
     "confs": {
-      "year": 2026,
-      "id": "sigir26",
-      "link": "https://sigir2026.org/en-AU",
+      "year": 2027,
+      "id": "sigir27",
+      "link": "https://sigir2027.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-01-15 23:59:59",
-          "deadline": "2026-01-22 23:59:59"
+          "abstract_deadline": "2027-01-14 23:59:59",
+          "deadline": "2027-01-21 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "July 20-24, 2026",
-      "place": "Melbourne, Australia"
+      "date": "July 18-24, 2027",
+      "place": "San Jose, California, USA"
     }
   },
   {
@@ -639,8 +593,9 @@
       "link": "https://conf.ccf.org.cn/WISA2026",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-21 23:59:59",
-          "deadline": "2026-04-28 23:59:59"
+          "abstract_deadline": "2026-05-18 23:59:59",
+          "deadline": "2026-05-18 23:59:59",
+          "comment": "Regular papers; final abstract and paper cutoffs from the official submission-platform API"
         }
       ],
       "timezone": "UTC+8",
@@ -669,7 +624,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "November 2-5, 2026",
+      "date": "November 1-5, 2026",
       "place": "Venice, Italy"
     }
   },
@@ -692,10 +647,6 @@
           "abstract_deadline": "2026-08-17 23:59:59",
           "deadline": "2026-08-24 23:59:59",
           "comment": "Full Paper"
-        },
-        {
-          "deadline": "2026-11-17 23:59:59",
-          "comment": "Short Paper"
         }
       ],
       "timezone": "UTC-12",

@@ -10,17 +10,17 @@
     },
     "dblp": "aplas",
     "confs": {
-      "year": 2025,
-      "id": "aplas25",
-      "link": "https://conf.researchr.org/home/aplas-2025",
+      "year": 2026,
+      "id": "aplas26",
+      "link": "https://conf.researchr.org/track/aplas-atva-2026/aplas-2026",
       "timeline": [
         {
-          "deadline": "2025-05-31 23:59:59"
+          "deadline": "2026-06-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 27-30, 2025",
-      "place": "Bengaluru, India"
+      "date": "December 1-4, 2026",
+      "place": "Hong Kong SAR, China"
     }
   },
   {
@@ -34,18 +34,18 @@
     },
     "dblp": "apsec",
     "confs": {
-      "year": 2025,
-      "id": "apsec25",
-      "link": "https://conf.researchr.org/home/apsec-2025",
+      "year": 2026,
+      "id": "apsec26",
+      "link": "https://conf.researchr.org/home/apsec-2026",
       "timeline": [
         {
-          "abstract_deadline": "2025-07-06 23:59:59",
-          "deadline": "2025-07-13 23:59:59"
+          "abstract_deadline": "2026-07-13 23:59:59",
+          "deadline": "2026-07-20 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "December 2-5, 2025",
-      "place": "Macao SAR, China"
+      "date": "December 7-10, 2026",
+      "place": "Bali, Indonesia"
     }
   },
   {
@@ -83,17 +83,18 @@
     },
     "dblp": "atva",
     "confs": {
-      "year": 2025,
-      "id": "atva25",
-      "link": "https://conf.researchr.org/home/atva-2025",
+      "year": 2026,
+      "id": "atva26",
+      "link": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026",
       "timeline": [
         {
-          "deadline": "2025-04-25 23:59:59"
+          "abstract_deadline": "2026-05-19 23:59:59",
+          "deadline": "2026-05-21 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 27-31, 2025",
-      "place": "Bengaluru, India"
+      "date": "December 1-4, 2026",
+      "place": "Hong Kong SAR, China"
     }
   },
   {
@@ -107,18 +108,17 @@
     },
     "dblp": "caise",
     "confs": {
-      "year": 2026,
-      "id": "caise26",
-      "link": "https://caise26.polimi.it/",
+      "year": 2027,
+      "id": "caise27",
+      "link": "https://deal.us.es/caise27/",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-14 23:59:59",
-          "deadline": "2025-11-28 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "June 8-12, 2026",
-      "place": "Verona, Italy"
+      "date": "June 7-11, 2027",
+      "place": "Seville, Spain"
     }
   },
   {
@@ -132,17 +132,17 @@
     },
     "dblp": "compsac",
     "confs": {
-      "year": 2026,
-      "id": "compsac26",
-      "link": "https://ieeecompsac.computer.org/2026/",
+      "year": 2027,
+      "id": "compsac27",
+      "link": "https://ieeecompsac.computer.org/2027/",
       "timeline": [
         {
-          "deadline": "2026-01-31 23:59:59"
+          "deadline": "2027-01-31 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "July 7-10, 2026",
-      "place": "Madrid, Spain"
+      "date": "July 13-16, 2027",
+      "place": "Tokyo, Japan"
     }
   },
   {
@@ -161,8 +161,8 @@
       "link": "https://cp2026.a4cp.org/",
       "timeline": [
         {
-          "abstract_deadline": "2026-03-02 23:59:59",
-          "deadline": "2026-03-14 23:59:59"
+          "abstract_deadline": "2026-03-02 23:00:00",
+          "deadline": "2026-03-14 23:00:00"
         }
       ],
       "timezone": "AoE",
@@ -181,19 +181,19 @@
     },
     "dblp": "ease",
     "confs": {
-      "year": 2026,
-      "id": "ease26",
-      "link": "https://conf.researchr.org/home/ease-2026",
+      "year": 2027,
+      "id": "ease27",
+      "link": "https://conf.researchr.org/home/ease-2027",
       "timeline": [
         {
-          "abstract_deadline": "2026-01-16 23:59:59",
-          "deadline": "2026-01-23 23:59:59",
+          "abstract_deadline": "2027-01-15 23:59:59",
+          "deadline": "2027-01-22 23:59:59",
           "comment": "Research Papers"
         }
       ],
       "timezone": "AoE",
-      "date": "June 9 - 12, 2026",
-      "place": "Glasgow, United Kingdom"
+      "date": "June 15 - 18, 2027",
+      "place": "Hanoi, Vietnam"
     }
   },
   {
@@ -207,22 +207,22 @@
     },
     "dblp": "ecoop",
     "confs": {
-      "year": 2025,
-      "id": "ecoop25",
-      "link": "https://2025.ecoop.org/",
+      "year": 2027,
+      "id": "ecoop27",
+      "link": "https://2027.ecoop.org/",
       "timeline": [
         {
-          "deadline": "2025-01-06 23:59:59",
+          "deadline": "2026-11-19 23:59:59",
           "comment": "Submission R1"
         },
         {
-          "deadline": "2025-03-05 23:59:59",
+          "deadline": "2027-02-11 23:59:59",
           "comment": "Submission R2"
         }
       ],
       "timezone": "AoE",
-      "date": "June 30 - July 4, 2025",
-      "place": "Bergen, Norway"
+      "date": "June 28 - July 2, 2027",
+      "place": "Turin, Italy"
     }
   },
   {
@@ -290,18 +290,17 @@
     },
     "dblp": "fm",
     "confs": {
-      "year": 2026,
-      "id": "fm26",
-      "link": "https://conf.researchr.org/home/fm-2026",
+      "year": 2027,
+      "id": "fm27",
+      "link": "https://www.fmeurope.org/feature/upcoming_conferences/",
       "timeline": [
         {
-          "abstract_deadline": "2025-11-25 23:59:00",
-          "deadline": "2025-12-02 23:59:00"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "May 18-22, 2026",
-      "place": "Tokyo, Japan"
+      "date": "October 18-22, 2027",
+      "place": "Athens, Greece"
     }
   },
   {
@@ -339,18 +338,17 @@
     },
     "dblp": "hotos",
     "confs": {
-      "year": 2025,
-      "id": "hotos25",
-      "link": "https://sigops.org/s/conferences/hotos/2025/",
+      "year": 2027,
+      "id": "hotos27",
+      "link": "https://sigops.org/s/conferences/hotos/2027/",
       "timeline": [
         {
-          "deadline": "2025-01-15 23:59:59",
-          "comment": "Submission Deadline"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "May 14-16, 2025",
-      "place": "Banff, Alberta, Canada"
+      "date": "May 24-26, 2027",
+      "place": "Burghausen, Bavaria, Germany"
     }
   },
   {
@@ -389,18 +387,17 @@
     },
     "dblp": "icfem",
     "confs": {
-      "year": 2025,
-      "id": "icfem25",
-      "link": "https://icfem2025.github.io/",
+      "year": 2026,
+      "id": "icfem26",
+      "link": "https://icfem2026.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-05-25 23:59:59",
-          "deadline": "2025-06-01 23:59:59"
+          "deadline": "2026-06-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "November 10 - 13, 2025",
-      "place": "Hangzhou, China"
+      "date": "November 17-20, 2026",
+      "place": "Southampton, UK"
     }
   },
   {
@@ -414,17 +411,17 @@
     },
     "dblp": "icfp",
     "confs": {
-      "year": 2026,
-      "id": "icfp26",
-      "link": "https://icfp26.sigplan.org/",
+      "year": 2027,
+      "id": "icfp27",
+      "link": "https://icfp27.sigplan.org/",
       "timeline": [
         {
-          "deadline": "2026-02-19 23:59:59"
+          "deadline": "2027-02-25 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "August 24 - 29, 2026",
-      "place": "Indiana University Indianapolis, United States"
+      "date": "September 26 - October 1, 2027",
+      "place": "Nijmegen, Netherlands"
     }
   },
   {
@@ -438,18 +435,18 @@
     },
     "dblp": "icpc",
     "confs": {
-      "year": 2026,
-      "id": "icpc26",
-      "link": "https://conf.researchr.org/home/icpc-2026",
+      "year": 2027,
+      "id": "icpc27",
+      "link": "https://conf.researchr.org/home/icpc-2027",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-19 23:59:59",
-          "deadline": "2025-10-23 23:59:59"
+          "abstract_deadline": "2026-10-29 23:59:59",
+          "deadline": "2026-11-05 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "April 12-13, 2026",
-      "place": "Rio de Janeiro, Brazil"
+      "date": "April 25-26, 2027",
+      "place": "Dublin, Ireland"
     }
   },
   {
@@ -489,19 +486,18 @@
     },
     "dblp": "icsm",
     "confs": {
-      "year": 2026,
-      "id": "icsme26",
-      "link": "https://conf.researchr.org/home/icsme-2026",
+      "year": 2027,
+      "id": "icsme27",
+      "link": "https://conf.researchr.org/home/icsme-2027",
       "timeline": [
         {
-          "abstract_deadline": "2026-02-27 23:59:59",
-          "deadline": "2026-03-06 23:59:59",
+          "deadline": "2027-03-05 23:59:59",
           "comment": "Research Papers Track"
         }
       ],
       "timezone": "AoE",
-      "date": "September 14-18, 2026",
-      "place": "Benevento, Italy"
+      "date": "September 7-11, 2027",
+      "place": "Toronto, Canada"
     }
   },
   {
@@ -515,26 +511,23 @@
     },
     "dblp": "icsoc",
     "confs": {
-      "year": 2025,
-      "id": "icsoc25",
-      "link": "https://icsoc2025.hit.edu.cn/main.htm",
+      "year": 2026,
+      "id": "icsoc26",
+      "link": "https://icsoc2026.it.p.lodz.pl/",
       "timeline": [
         {
-          "deadline": "2025-05-09 23:59:59",
+          "deadline": "2026-05-10 23:59:59",
           "comment": "Early paper submissions"
         },
         {
-          "deadline": "2025-07-07 23:59:59",
-          "comment": "Regular paper abstract submissions"
-        },
-        {
-          "deadline": "2025-07-14 23:59:59",
-          "comment": "Regular paper submissions"
+          "abstract_deadline": "2026-07-12 23:59:59",
+          "deadline": "2026-07-19 23:59:59",
+          "comment": "Regular papers"
         }
       ],
       "timezone": "AoE",
-      "date": "December 1-4, 2025",
-      "place": "Shenzhen, China"
+      "date": "December 1-4, 2026",
+      "place": "Lodz, Poland"
     }
   },
   {
@@ -548,17 +541,17 @@
     },
     "dblp": "icst",
     "confs": {
-      "year": 2026,
-      "id": "icst2026",
-      "link": "https://conf.researchr.org/home/icst-2026",
+      "year": 2027,
+      "id": "icst2027",
+      "link": "https://conf.researchr.org/home/icst-2027",
       "timeline": [
         {
-          "deadline": "2025-12-22 23:59:59"
+          "deadline": "2026-11-02 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "May 18-22, 2026",
-      "place": "Daejeon, South Korea"
+      "date": "May 17-21, 2027",
+      "place": "San Sebastian, Spain"
     }
   },
   {
@@ -577,7 +570,7 @@
       "link": "https://services.conferences.computer.org/2026/icws-2026/",
       "timeline": [
         {
-          "deadline": "2025-03-22 23:59:59"
+          "deadline": "2026-03-22 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -632,11 +625,11 @@
       "link": "https://ispass.org/ispass2026/",
       "timeline": [
         {
-          "abstract_deadline": "2025-12-05 23:59:59",
-          "deadline": "2025-12-12 23:59:59"
+          "abstract_deadline": "2025-12-08 17:00:00",
+          "deadline": "2025-12-15 17:00:00"
         }
       ],
-      "timezone": "AoE",
+      "timezone": "UTC-5",
       "date": "April 26-28, 2026",
       "place": "Seoul, South Korea"
     }
@@ -652,18 +645,17 @@
     },
     "dblp": "issre",
     "confs": {
-      "year": 2026,
-      "id": "issre26",
-      "link": "https://cyprusconferences.org/issre2026/",
+      "year": 2027,
+      "id": "issre27",
+      "link": "https://conf.researchr.org/home/issre-2027",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-10 23:59:59",
-          "deadline": "2025-04-17 23:59:59"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "October 20-23, 2026",
-      "place": "Limassol, Cyprus"
+      "date": "October 19-22, 2027",
+      "place": "Taipa, Macao SAR, China"
     }
   },
   {
@@ -702,22 +694,19 @@
     },
     "dblp": "lctrts",
     "confs": {
-      "year": 2024,
-      "id": "lctes24",
-      "link": "https://pldi24.sigplan.org/home/LCTES-2024",
+      "year": 2026,
+      "id": "lctes26",
+      "link": "https://pldi26.sigplan.org/home/LCTES-2026",
       "timeline": [
         {
-          "deadline": "2024-02-16 23:59:59",
-          "comment": "Abstract submission"
-        },
-        {
-          "deadline": "2024-02-23 23:59:59",
-          "comment": "Paper submission"
+          "abstract_deadline": "2026-03-13 23:59:59",
+          "deadline": "2026-03-20 23:59:59",
+          "comment": "Extended deadlines"
         }
       ],
       "timezone": "AoE",
-      "date": "June 24, 2024",
-      "place": "Copenhagen, Denmark"
+      "date": "June 15-16, 2026",
+      "place": "Boulder, Colorado, USA"
     }
   },
   {
@@ -762,17 +751,18 @@
     },
     "dblp": "models",
     "confs": {
-      "year": 2022,
-      "id": "models22",
-      "link": "https://conf.researchr.org/home/models-2022",
+      "year": 2026,
+      "id": "models26",
+      "link": "https://conf.researchr.org/home/models-2026",
       "timeline": [
         {
-          "deadline": "2022-05-18 23:59:59"
+          "abstract_deadline": "2026-03-20 23:59:59",
+          "deadline": "2026-03-27 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 23-28, 2022",
-      "place": "Montréal, Canada"
+      "date": "October 4-9, 2026",
+      "place": "Málaga, Spain"
     }
   },
   {
@@ -786,18 +776,18 @@
     },
     "dblp": "msr",
     "confs": {
-      "year": 2026,
-      "id": "msr26",
-      "link": "https://2026.msrconf.org/",
+      "year": 2027,
+      "id": "msr27",
+      "link": "https://2027.msrconf.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-10-20 23:59:59",
-          "deadline": "2025-10-23 23:59:59"
+          "abstract_deadline": "2026-10-20 23:59:59",
+          "deadline": "2026-10-23 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "April 13-14, 2026",
-      "place": "Rio de Janeiro, Brazil"
+      "date": "April 26-27, 2027",
+      "place": "Dublin, Ireland"
     }
   },
   {
@@ -852,6 +842,28 @@
       "timezone": "UTC",
       "date": "July 7-9, 2027",
       "place": "Baltimore, MD, USA"
+    }
+  },
+  {
+    "title": "PEPM",
+    "description": "ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation",
+    "sub": "SE",
+    "rank": {
+      "ccf": "C"
+    },
+    "dblp": "pepm",
+    "confs": {
+      "year": 2027,
+      "id": "pepm27",
+      "link": "https://popl27.sigplan.org/home/pepm-2027",
+      "timeline": [
+        {
+          "deadline": "2026-10-23 23:59:59"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "January 12, 2027",
+      "place": "Mexico City, Mexico"
     }
   },
   {
@@ -914,18 +926,19 @@
     },
     "dblp": "qrs",
     "confs": {
-      "year": 2025,
-      "id": "qrs25",
-      "link": "https://qrs25.techconf.org/",
+      "year": 2026,
+      "id": "qrs26",
+      "link": "https://qrs26.techconf.org/",
       "timeline": [
         {
-          "abstract_deadline": "2025-04-05 23:59:59",
-          "deadline": "2025-04-15 23:59:59"
+          "abstract_deadline": "2026-04-08 23:59:59",
+          "deadline": "2026-04-22 23:59:59",
+          "comment": "Regular papers (extended)"
         }
       ],
       "timezone": "AoE",
-      "date": "July 16-20, 2025",
-      "place": "Hangzhou, China"
+      "date": "July 22-25, 2026",
+      "place": "University of Florence, Florence, Italy"
     }
   },
   {
@@ -939,23 +952,17 @@
     },
     "dblp": "re",
     "confs": {
-      "year": 2026,
-      "id": "re26",
-      "link": "https://conf.researchr.org/home/RE-2026",
+      "year": 2027,
+      "id": "re27",
+      "link": "https://conf.researchr.org/home/RE-2027",
       "timeline": [
         {
-          "abstract_deadline": "2026-02-16 23:59:59",
-          "deadline": "2026-02-23 23:59:59",
-          "comment": "Research Papers"
-        },
-        {
-          "deadline": "2026-04-13 23:59:59",
-          "comment": "Journal Paper"
+          "deadline": "TBD"
         }
       ],
       "timezone": "AoE",
-      "date": "August 17-21, 2026",
-      "place": "Montreal, Canada"
+      "date": "August 23-27, 2027",
+      "place": "Milan, Italy"
     }
   },
   {
@@ -975,7 +982,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-05 23:59:59",
-          "deadline": "2026-11-12 23:59:59"
+          "deadline": "2026-11-12 23:59:59",
+          "comment": "Regular research papers; abstract submission is optional"
         }
       ],
       "timezone": "AoE",
@@ -999,7 +1007,7 @@
       "link": "https://rv2026.smithengineering.queensu.ca/",
       "timeline": [
         {
-          "deadline": "2026-05-31 23:59:59"
+          "deadline": "2026-06-16 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1044,18 +1052,18 @@
     },
     "dblp": "sas",
     "confs": {
-      "year": 2025,
-      "id": "sas25",
-      "link": "https://2025.splashcon.org/home/sas-2025",
+      "year": 2026,
+      "id": "sas26",
+      "link": "https://conf.researchr.org/home/splash-issta-2026/sas-2026",
       "timeline": [
         {
-          "deadline": "2025-05-04 23:59:59",
-          "comment": "Paper Submission"
+          "abstract_deadline": "2026-05-01 23:59:59",
+          "deadline": "2026-05-07 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "October 12-18, 2025",
-      "place": "Singapore"
+      "date": "October 6-8, 2026",
+      "place": "Oakland, California, USA"
     }
   },
   {
@@ -1099,11 +1107,12 @@
       "link": "https://ksiresearch.org/seke/seke26.html",
       "timeline": [
         {
-          "deadline": "2026-05-10 23:59:00"
+          "deadline": "2026-05-10 23:59:59",
+          "comment": "Regular papers; midnight EST"
         }
       ],
       "timezone": "UTC-5",
-      "date": "Oct 1 - Oct 10, 2025",
+      "date": "October 1-7, 2026",
       "place": "Toronto, Canada & Virtual"
     }
   },
@@ -1143,17 +1152,18 @@
     },
     "dblp": "IEEEscc",
     "confs": {
-      "year": 2025,
-      "id": "sse25",
-      "link": "https://services.conferences.computer.org/2025/sse/",
+      "year": 2026,
+      "id": "sse26",
+      "link": "https://services.conferences.computer.org/2026/sse/",
       "timeline": [
         {
-          "deadline": "2025-03-10 23:00:00"
+          "deadline": "2026-03-22 23:59:59",
+          "comment": "Extended and firm paper submission deadline"
         }
       ],
       "timezone": "AoE",
-      "date": "July 7-12, 2025",
-      "place": "Helsinki, Finland"
+      "date": "July 13-18, 2026",
+      "place": "Sydney, Australia"
     }
   },
   {
@@ -1167,18 +1177,19 @@
     },
     "dblp": "tase",
     "confs": {
-      "year": 2025,
-      "id": "tase25",
-      "link": "https://cyprusconferences.org/tase2025/",
+      "year": 2026,
+      "id": "tase26",
+      "link": "https://tase2026.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2025-02-15 23:59:59",
-          "deadline": "2025-02-21 23:59:59"
+          "abstract_deadline": "2026-03-01 23:59:59",
+          "deadline": "2026-03-07 23:59:59",
+          "comment": "Extended deadlines"
         }
       ],
       "timezone": "AoE",
-      "date": "July 14-16, 2025",
-      "place": "Limassol, Cyprus"
+      "date": "July 4-6, 2026",
+      "place": "Shanghai, China"
     }
   },
   {
@@ -1197,7 +1208,12 @@
       "link": "https://conf.researchr.org/home/VMCAI-2027",
       "timeline": [
         {
-          "deadline": "2026-09-16 23:59:59"
+          "deadline": "2026-09-23 23:59:59",
+          "comment": "Paper Registration"
+        },
+        {
+          "deadline": "2026-09-30 23:59:59",
+          "comment": "Paper Submission"
         }
       ],
       "timezone": "AoE",
