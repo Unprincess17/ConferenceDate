@@ -1,5 +1,29 @@
 [
   {
+    "title": "ACM TURC",
+    "description": "ACM Turing Award Celebration Conference - China",
+    "sub": "MX",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "acmturc",
+    "confs": {
+      "year": 2026,
+      "id": "acmturc2026",
+      "link": "https://www.acmturc.com/2026/en/",
+      "timeline": [
+        {
+          "deadline": "2026-06-10 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "July 11-12, 2026",
+      "place": "Hangzhou, China"
+    }
+  },
+  {
     "title": "AFT",
     "description": "Advances in Financial Technologies",
     "sub": "MX",
@@ -20,7 +44,7 @@
         }
       ],
       "timezone": "UTC-12",
-      "date": "October 6-9, 2026",
+      "date": "October 7-9, 2026",
       "place": "London, UK"
     }
   },
@@ -40,11 +64,11 @@
       "link": "https://www.apbc2026.com/home",
       "timeline": [
         {
-          "deadline": "2026-06-15 23:59:59"
+          "deadline": "2026-07-17 23:59:00"
         }
       ],
-      "timezone": "UTC+0",
-      "date": "October 21-24, 2026",
+      "timezone": "AoE",
+      "date": "October 22-24, 2026",
       "place": "Hsinchu, Taiwan， China"
     }
   },
@@ -64,10 +88,10 @@
       "link": "https://ieeebibm.org/BIBM2026/",
       "timeline": [
         {
-          "deadline": "2026-07-05 17:00:00"
+          "deadline": "2026-07-05 23:59:00"
         }
       ],
-      "timezone": "UTC-5",
+      "timezone": "UTC-12",
       "date": "Dec 1-4, 2026",
       "place": "Dallas, USA"
     }
@@ -140,7 +164,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "July 13-18, 2026",
+      "date": "July 13-17, 2026",
       "place": "Sydney, Australia"
     }
   },
@@ -164,8 +188,8 @@
         }
       ],
       "timezone": "AoE",
-      "date": "July 22-25, 2026",
-      "place": "Rio de Janeiro, Brazil"
+      "date": "July 23-25, 2026",
+      "place": "Rio de Janeiro, Brazil (Hybrid)"
     }
   },
   {
@@ -189,7 +213,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 4 - 9, 2026",
+      "date": "October 5-7, 2026",
       "place": "Barcelona, Spain"
     }
   },
@@ -213,7 +237,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "November 14-17, 2026",
+      "date": "November 16-17, 2026",
       "place": "Milan, Italy"
     }
   },
@@ -233,12 +257,12 @@
       "link": "http://www.ic-icc.cn/2026/",
       "timeline": [
         {
-          "deadline": "2026-04-04 11:59:59"
+          "deadline": "2026-04-04 12:00:00"
         }
       ],
       "timezone": "UTC+8",
       "date": "July 22-26, 2026",
-      "place": "Toronto, Canada"
+      "place": "Toronto, Canada (Hybrid)"
     }
   },
   {
@@ -257,8 +281,7 @@
       "link": "https://isbra2026.scimeeting.cn/",
       "timeline": [
         {
-          "deadline": "2026-03-22 23:59:59",
-          "comment": "Extended submission deadline"
+          "deadline": "2026-03-22 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -330,7 +353,9 @@
       "link": "https://mlsys.org/",
       "timeline": [
         {
-          "deadline": "2026-10-30 20:00:00"
+          "deadline": "2026-10-30 20:00:00",
+          "rebuttal_deadline": "2027-01-21 20:00:00",
+          "decision_deadline": "2027-02-28 21:00:00"
         }
       ],
       "timezone": "UTC",
@@ -355,7 +380,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-28 23:59:59",
-          "deadline": "2026-11-04 23:59:59"
+          "deadline": "2026-11-04 23:59:59",
+          "decision_deadline": "2026-12-22 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -403,10 +429,12 @@
       "timeline": [
         {
           "deadline": "2026-10-01 23:59:00",
+          "decision_deadline": "2026-11-01 23:59:00",
           "comment": "Round 1"
         },
         {
           "deadline": "2026-12-01 23:59:00",
+          "decision_deadline": "2027-01-15 23:59:00",
           "comment": "Round 2"
         }
       ],
@@ -457,8 +485,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-05-29 23:59:59",
-          "deadline": "2026-06-05 23:59:59",
-          "comment": "Extended Research Track deadlines"
+          "deadline": "2026-06-05 23:59:59"
         }
       ],
       "timezone": "UTC-7",
@@ -531,7 +558,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-18 23:59:59",
-          "deadline": "2026-10-25 23:59:59"
+          "deadline": "2026-10-25 23:59:59",
+          "decision_deadline": "2027-01-04 23:59:00"
         }
       ],
       "timezone": "AoE",

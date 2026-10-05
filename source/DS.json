@@ -20,7 +20,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "July 27-31, 2026",
+      "date": "July 27-30, 2026",
       "place": "Brussels, Belgium"
     }
   },
@@ -92,7 +92,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-07-11 17:00:00",
-          "deadline": "2026-07-18 17:00:00"
+          "deadline": "2026-07-18 17:00:00",
+          "decision_deadline": "2026-09-04 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -117,10 +118,12 @@
       "timeline": [
         {
           "deadline": "2026-04-15 23:59:59",
+          "rebuttal_deadline": "2026-07-09 23:59:00",
           "comment": "April Cycle Submission Deadline"
         },
         {
           "deadline": "2026-09-09 23:59:59",
+          "rebuttal_deadline": "2026-12-04 23:59:00",
           "comment": "September Cycle Submission Deadline"
         }
       ],
@@ -149,7 +152,7 @@
         }
       ],
       "timezone": "UTC+0",
-      "date": "November 15-18, 2026",
+      "date": "November 16-18, 2026",
       "place": "Hyatt Hotel, Shatin, Hong Kong, China"
     }
   },
@@ -194,7 +197,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-24 23:59:59",
-          "deadline": "2026-12-01 23:59:59"
+          "deadline": "2026-12-01 23:59:59",
+          "decision_deadline": "2027-02-01 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -244,6 +248,7 @@
       "timeline": [
         {
           "deadline": "2026-06-11 23:59:59",
+          "rebuttal_deadline": "2026-07-23 23:59:00",
           "comment": "First Submission"
         },
         {
@@ -277,7 +282,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "September 22-25, 2026",
+      "date": "September 23-25, 2026",
       "place": "Alexandria, Virginia, USA"
     }
   },
@@ -321,7 +326,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-11 17:00:00",
-          "deadline": "2026-11-18 17:00:00"
+          "deadline": "2026-11-18 17:00:00",
+          "decision_deadline": "2027-03-09 03:59:00"
         }
       ],
       "timezone": "UTC-8",
@@ -346,7 +352,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-09-13 23:59:59",
-          "deadline": "2026-09-20 23:59:59"
+          "deadline": "2026-09-20 23:59:59",
+          "decision_deadline": "2026-11-23 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -370,9 +377,9 @@
       "link": "https://www.ets2027.co.uk/",
       "timeline": [
         {
-          "abstract_deadline": "TBD",
-          "deadline": "TBD",
-          "comment": "Official CFP lists Dec 8 / Dec 15, 2026; exact time and timezone are not specified"
+          "abstract_deadline": "2026-12-08 23:59:00",
+          "deadline": "2026-12-15 23:59:00",
+          "comment": "Regular papers; official CFP dates. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision."
         }
       ],
       "timezone": "AoE",
@@ -401,7 +408,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "August 24-28, 2026",
+      "date": "August 26-28, 2026",
       "place": "Pisa, Italy"
     }
   },
@@ -423,11 +430,13 @@
         {
           "abstract_deadline": "2026-05-07 23:59:59",
           "deadline": "2026-05-14 23:59:59",
+          "rebuttal_deadline": "2026-07-31 23:59:00",
           "comment": "Spring Submission Deadline"
         },
         {
           "abstract_deadline": "2026-09-17 23:59:59",
           "deadline": "2026-09-24 23:59:59",
+          "rebuttal_deadline": "2027-01-08 23:59:00",
           "comment": "Fall Submission Deadline"
         }
       ],
@@ -453,10 +462,12 @@
       "timeline": [
         {
           "deadline": "2026-03-17 23:59:00",
+          "rebuttal_deadline": "2026-05-20 23:59:00",
           "comment": "Spring deadline"
         },
         {
           "deadline": "2026-09-15 23:59:00",
+          "rebuttal_deadline": "2026-11-19 23:59:00",
           "comment": "Fall deadline"
         }
       ],
@@ -486,7 +497,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "May 13-16, 2026",
+      "date": "May 14-15, 2026",
       "place": "Atlanta, Georgia, USA"
     }
   },
@@ -507,7 +518,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-01 23:59:59",
-          "deadline": "2026-10-08 23:59:59"
+          "deadline": "2026-10-08 23:59:59",
+          "rebuttal_deadline": "2026-11-15 23:59:00",
+          "decision_deadline": "2026-11-24 23:59:00"
         }
       ],
       "timezone": "UTC-12",
@@ -531,16 +544,17 @@
       "link": "https://fpt2026.uark.edu",
       "timeline": [
         {
-          "deadline": "2026-06-19 23:59:59",
-          "comment": "Title and Abstract Due (Conference Track)"
+          "deadline": "2026-05-01 23:59:00",
+          "comment": "Journal track"
         },
         {
+          "abstract_deadline": "2026-06-19 23:59:59",
           "deadline": "2026-06-19 23:59:59",
-          "comment": "Submission Due (Conference Track)"
+          "comment": "Conference track"
         }
       ],
       "timezone": "AoE",
-      "date": "December 07 - December 10, 2026",
+      "date": "December 8-10, 2026",
       "place": "Honolulu, Hawaii, USA"
     }
   },
@@ -607,11 +621,11 @@
       "timeline": [
         {
           "deadline": "2026-04-08 23:59:59",
-          "comment": "Extended submission deadline"
+          "comment": "Technical presentation abstract"
         }
       ],
       "timezone": "AoE",
-      "date": "August 23-25, 2026",
+      "date": "August 24-25, 2026",
       "place": "Memorial Auditorium, Stanford, Palo Alto, CA"
     }
   },
@@ -631,8 +645,7 @@
       "link": "https://www.hotstorage.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-06-12 23:59:59",
-          "comment": "Regular paper submission (extended)"
+          "deadline": "2026-06-12 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -657,7 +670,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-07-24 23:59:59",
-          "deadline": "2026-07-31 23:59:59"
+          "deadline": "2026-07-31 23:59:59",
+          "rebuttal_deadline": "2026-10-11 23:59:00",
+          "decision_deadline": "2026-11-06 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -705,16 +720,12 @@
       "link": "https://hpdc.sci.utah.edu/2026/",
       "timeline": [
         {
-          "deadline": "2026-01-29 23:59:59",
-          "comment": "abstract registration deadline"
-        },
-        {
-          "deadline": "2026-02-05 23:59:59",
-          "comment": "paper submission deadline"
+          "abstract_deadline": "2026-01-29 23:59:00",
+          "deadline": "2026-02-05 23:59:00"
         }
       ],
       "timezone": "AoE",
-      "date": "July 13-16, 2026",
+      "date": "July 14-16, 2026",
       "place": "Cleveland, OH, USA"
     }
   },
@@ -734,8 +745,7 @@
       "link": "https://hpcn.exeter.ac.uk/ica3pp2026/",
       "timeline": [
         {
-          "deadline": "2026-07-25 23:59:00",
-          "comment": "Paper Submission Due"
+          "deadline": "2026-07-25 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -785,8 +795,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-06-03 23:59:00",
-          "deadline": "2026-06-10 23:59:00",
-          "comment": "abstract and full paper deadline"
+          "deadline": "2026-06-10 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -834,7 +843,7 @@
       "link": "https://www.cloud-conf.net/icpads2026",
       "timeline": [
         {
-          "deadline": "2026-06-30 23:59:59"
+          "deadline": "2026-08-15 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -863,7 +872,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "September 28-October 1, 2026",
+      "date": "September 29-October 1, 2026",
       "place": "Singapore"
     }
   },
@@ -883,7 +892,9 @@
       "link": "https://ics-conference.org/index.html",
       "timeline": [
         {
-          "deadline": "TBD"
+          "abstract_deadline": "2026-12-01 23:59:00",
+          "deadline": "2026-12-07 23:59:00",
+          "decision_deadline": "2027-03-12 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -912,7 +923,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "September 27-29, 2026",
+      "date": "September 28-29, 2026",
       "place": "Boulder, USA"
     }
   },
@@ -933,7 +944,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-01 23:59:59",
-          "deadline": "2026-10-08 23:59:59"
+          "deadline": "2026-10-08 23:59:59",
+          "rebuttal_deadline": "2026-12-03 23:59:00",
+          "decision_deadline": "2027-02-02 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -1028,7 +1041,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-09-21 23:59:59",
-          "deadline": "2026-09-28 23:59:59"
+          "deadline": "2026-09-28 23:59:59",
+          "decision_deadline": "2026-11-05 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -1052,13 +1066,13 @@
       "link": "https://www.castest.com.cn/itcasia_2026",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-18 23:59:59",
-          "deadline": "2026-04-25 23:59:59"
+          "abstract_deadline": "2026-04-25 23:59:00",
+          "deadline": "2026-05-02 23:59:00"
         }
       ],
-      "timezone": "UTC+8",
-      "date": "August 19-21, 2026",
-      "place": "Ningbo International Conference Center, Ningbo, China"
+      "timezone": "AoE",
+      "date": "August 20-21, 2026",
+      "place": "Ningbo Qianhu Hotel, Ningbo, China"
     }
   },
   {
@@ -1108,7 +1122,7 @@
       ],
       "timezone": "AoE",
       "date": "Jul 27-30, 2026",
-      "place": "Tokyo, Japan"
+      "place": "TBD"
     }
   },
   {
@@ -1156,7 +1170,7 @@
         }
       ],
       "timezone": "UTC-4",
-      "date": "October 31-November 4, 2026",
+      "date": "November 2-4, 2026",
       "place": "Athens, Greece"
     }
   },
@@ -1230,7 +1244,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 19-22, 2026",
+      "date": "October 20-22, 2026",
       "place": "Chicago, Illinois, USA"
     }
   },
@@ -1307,7 +1321,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "July 6-10, 2026",
+      "date": "July 7-9, 2026",
       "place": "Egham, England"
     }
   },
@@ -1327,7 +1341,8 @@
       "link": "https://ppopp27.sigplan.org/",
       "timeline": [
         {
-          "deadline": "2026-08-03 23:59:59"
+          "deadline": "2026-08-03 23:59:59",
+          "decision_deadline": "2026-10-26 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -1352,6 +1367,7 @@
       "timeline": [
         {
           "deadline": "2026-11-05 23:59:59",
+          "rebuttal_deadline": "2027-01-15 23:59:00",
           "comment": "Submission Deadline (Firm)"
         }
       ],
@@ -1381,7 +1397,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "November 15-20, 2026",
+      "date": "November 16-20, 2026",
       "place": "McCormick Place, Chicago, Illinois, USA"
     }
   },
@@ -1495,11 +1511,14 @@
         {
           "abstract_deadline": "2026-09-18 23:59:59",
           "deadline": "2026-09-25 23:59:59",
+          "rebuttal_deadline": "2026-11-18 23:59:00",
+          "decision_deadline": "2026-12-05 23:59:00",
           "comment": "Cycle 1"
         },
         {
           "abstract_deadline": "2027-01-22 23:59:59",
           "deadline": "2027-01-29 23:59:59",
+          "rebuttal_deadline": "2027-03-24 23:59:00",
           "comment": "Cycle 2"
         }
       ],
@@ -1524,8 +1543,7 @@
       "link": "https://www.systor.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-05-25 23:59:59",
-          "comment": "Regular full papers"
+          "deadline": "2026-05-25 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1553,7 +1571,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "Feb 28-March 4, 2022",
+      "date": "March 1, 2022",
       "place": "Virtual"
     }
   }

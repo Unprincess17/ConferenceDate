@@ -46,7 +46,7 @@
       ],
       "timezone": "AoE",
       "date": "June 1-3, 2026",
-      "place": "Geneva, Switzerland"
+      "place": "Geneva, Switzerland (Hybrid)"
     }
   },
   {
@@ -65,8 +65,7 @@
       "link": "https://sites.google.com/view/cccg-2026/home",
       "timeline": [
         {
-          "deadline": "2026-05-12 23:59:59",
-          "comment": "Submission Deadline"
+          "deadline": "2026-05-12 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -116,10 +115,12 @@
       "timeline": [
         {
           "deadline": "2027-03-01 23:59:59",
+          "decision_deadline": "2027-05-03 23:59:00",
           "comment": "Full Technical Paper"
         },
         {
           "deadline": "2027-05-15 23:59:59",
+          "decision_deadline": "2027-06-11 23:59:00",
           "comment": "Auxiliary Paper"
         }
       ],
@@ -145,7 +146,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-23 23:59:59",
-          "deadline": "2026-10-26 23:59:59"
+          "deadline": "2026-10-26 23:59:59",
+          "decision_deadline": "2026-12-15 23:59:00"
         }
       ],
       "timezone": "UTC+0",
@@ -169,7 +171,8 @@
       "link": "https://datacompressionconference.org/",
       "timeline": [
         {
-          "deadline": "2026-10-02 23:59:59"
+          "deadline": "2026-10-09 23:59:59",
+          "decision_deadline": "2026-11-23 03:59:00"
         }
       ],
       "timezone": "PT",
@@ -193,8 +196,10 @@
       "link": "https://eg2027.isti.cnr.it/",
       "timeline": [
         {
-          "abstract_deadline": "2026-09-26 09:59:00",
-          "deadline": "2026-10-01 23:59:00"
+          "abstract_deadline": "2026-09-26 11:59:00",
+          "deadline": "2026-10-02 11:59:00",
+          "rebuttal_deadline": "2026-11-30 23:59:00",
+          "decision_deadline": "2027-02-09 23:59:00"
         }
       ],
       "timezone": "UTC",
@@ -293,7 +298,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-12-14 23:59:59",
-          "deadline": "2026-12-21 23:59:59"
+          "deadline": "2026-12-21 23:59:59",
+          "decision_deadline": "2027-04-27 11:59:00"
         }
       ],
       "timezone": "UTC",
@@ -345,7 +351,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "Sep 13-17, 2026",
+      "date": "September 14-16, 2026",
       "place": "Tampere, Finland"
     }
   },
@@ -389,7 +395,8 @@
       "link": "https://www.icmr2027.org/",
       "timeline": [
         {
-          "deadline": "2027-01-31 23:59:59"
+          "deadline": "2027-01-31 23:59:59",
+          "decision_deadline": "2027-04-01 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -438,7 +445,8 @@
       "link": "https://interspeech2027.org/",
       "timeline": [
         {
-          "deadline": "2027-02-09 23:59:59"
+          "deadline": "2027-02-09 23:59:59",
+          "decision_deadline": "2027-06-03 11:59:00"
         }
       ],
       "timezone": "UTC+0",
@@ -467,7 +475,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "Oct 5-9, 2026",
+      "date": "October 7-9, 2026",
       "place": "Bari, Italy"
     }
   },
@@ -492,7 +500,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "November 10-14, 2026",
+      "date": "November 11-14, 2026",
       "place": "Rio de Janeiro, Brazil"
     }
   },
@@ -512,8 +520,7 @@
       "link": "https://www.mmasia2026.org/",
       "timeline": [
         {
-          "deadline": "2026-08-14 23:59:59",
-          "comment": "Regular Paper"
+          "deadline": "2026-08-14 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -538,6 +545,7 @@
       "timeline": [
         {
           "deadline": "2026-08-30 23:59:00",
+          "decision_deadline": "2026-10-16 23:59:00",
           "comment": "Regular papers; extended deadline"
         }
       ],
@@ -562,10 +570,11 @@
       "link": "https://www.ncmmsc.org.cn/",
       "timeline": [
         {
-          "deadline": "2026-07-05 23:59:59"
+          "abstract_deadline": "2026-07-05 23:59:00",
+          "deadline": "2026-07-12 23:59:00"
         }
       ],
-      "timezone": "UTC+8",
+      "timezone": "AoE",
       "date": "Nov 5-8, 2026",
       "place": "Hengqin, China"
     }
@@ -588,6 +597,7 @@
         {
           "abstract_deadline": "2026-11-02 23:59:59",
           "deadline": "2026-11-09 23:59:59",
+          "decision_deadline": "2027-01-25 23:59:00",
           "comment": "Conference track"
         }
       ],
@@ -641,7 +651,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "Aug 22-25, 2026",
+      "date": "August 23-24, 2026",
       "place": "Harbin, China"
     }
   },
@@ -662,8 +672,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-10 23:59:00",
-          "deadline": "2026-04-17 23:59:00",
-          "comment": "Submission deadline (papers)"
+          "deadline": "2026-04-17 23:59:00"
         }
       ],
       "timezone": "UTC+0",
@@ -761,7 +770,9 @@
       "link": "https://attend.ieee.org/slt-2026/",
       "timeline": [
         {
-          "deadline": "2026-06-24 23:59:59"
+          "abstract_deadline": "2026-06-24 23:59:00",
+          "deadline": "2026-07-01 23:59:00",
+          "comment": "Abstract registration / full paper"
         }
       ],
       "timezone": "AoE",
@@ -785,7 +796,10 @@
       "link": "https://smiconf.github.io/2027/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "abstract_deadline": "2027-03-01 23:59:00",
+          "deadline": "2027-03-08 23:59:00",
+          "decision_deadline": "2027-05-03 23:59:00",
+          "comment": "Abstract submission is a soft deadline"
         }
       ],
       "timezone": "UTC",
@@ -858,12 +872,11 @@
       "timeline": [
         {
           "abstract_deadline": "2026-03-21 23:59:59",
-          "deadline": "2026-03-31 23:59:59",
-          "comment": "Regular full papers; mandatory abstract and initial submission"
+          "deadline": "2026-03-31 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "November 9-13, 2026",
+      "date": "November 10-13, 2026",
       "place": "Boston, Massachusetts, USA"
     }
   },
@@ -884,7 +897,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-08-24 23:59:59",
-          "deadline": "2026-08-31 23:59:59"
+          "deadline": "2026-08-31 23:59:59",
+          "decision_deadline": "2027-01-07 23:59:59"
         }
       ],
       "timezone": "AoE",

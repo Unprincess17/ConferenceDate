@@ -45,10 +45,12 @@
       "timeline": [
         {
           "deadline": "2026-09-24 23:59:59",
+          "decision_deadline": "2026-11-26 23:59:00",
           "comment": "Cycle 1 Submission deadline"
         },
         {
           "deadline": "2027-01-21 23:59:59",
+          "decision_deadline": "2027-03-25 23:59:00",
           "comment": "Cycle 2 Submission deadline"
         }
       ],
@@ -98,10 +100,12 @@
       "timeline": [
         {
           "deadline": "2026-08-21 23:59:59",
+          "rebuttal_deadline": "2026-10-30 23:59:00",
           "comment": "1st round Deadline"
         },
         {
           "deadline": "2026-12-11 23:59:59",
+          "rebuttal_deadline": "2027-03-12 23:59:00",
           "comment": "2nd round Deadline"
         }
       ],
@@ -220,6 +224,30 @@
     }
   },
   {
+    "title": "CNS",
+    "description": "IEEE Conference on Communications and Network Security",
+    "sub": "SC",
+    "rank": {
+      "ccf": "N",
+      "core": "N",
+      "thcpl": "N"
+    },
+    "dblp": "cns",
+    "confs": {
+      "year": 2026,
+      "id": "cns26",
+      "link": "https://cns2026.ieee-cns.org/",
+      "timeline": [
+        {
+          "deadline": "2026-05-18 23:59:00"
+        }
+      ],
+      "timezone": "AoE",
+      "date": "September 14-16, 2026",
+      "place": "Newark, Delaware, USA"
+    }
+  },
+  {
     "title": "CODASPY",
     "description": "ACM Conference on Data and Application Security and Privacy",
     "sub": "SC",
@@ -236,7 +264,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-16 23:59:59",
-          "deadline": "2026-11-23 23:59:59"
+          "deadline": "2026-11-23 23:59:59",
+          "rebuttal_deadline": "2027-01-22 23:59:00",
+          "decision_deadline": "2027-01-25 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -284,7 +314,7 @@
       "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/",
       "timeline": [
         {
-          "deadline": "2026-08-01 23:59:59"
+          "deadline": "2026-09-15 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -393,6 +423,7 @@
         {
           "abstract_deadline": "2026-10-02 23:59:59",
           "deadline": "2026-10-09 23:59:59",
+          "decision_deadline": "2026-12-04 23:59:00",
           "comment": "Extended deadlines"
         }
       ],
@@ -418,15 +449,15 @@
       "timeline": [
         {
           "deadline": "2025-12-10 23:59:59",
-          "comment": "Cycle 1 submission deadline"
+          "comment": "Cycle 1"
         },
         {
           "deadline": "2026-02-18 23:59:59",
-          "comment": "Cycle 2 submission deadline"
+          "comment": "Cycle 2"
         }
       ],
       "timezone": "AoE",
-      "date": "July 1-3, 2026",
+      "date": "July 2-3, 2026",
       "place": "Chania, Greece"
     }
   },
@@ -447,7 +478,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-25 23:59:59",
-          "deadline": "2026-12-02 23:59:59"
+          "deadline": "2026-12-02 23:59:59",
+          "rebuttal_deadline": "2027-02-26 23:59:00",
+          "decision_deadline": "2027-03-18 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -472,15 +505,15 @@
       "timeline": [
         {
           "deadline": "2026-01-09 23:59:59",
-          "comment": "First Submission deadline"
+          "comment": "Winter"
         },
         {
           "deadline": "2026-04-21 23:59:59",
-          "comment": "Second Submission deadline"
+          "comment": "Spring"
         }
       ],
       "timezone": "AoE",
-      "date": "September 14-18, 2026",
+      "date": "September 14-16, 2026",
       "place": "Rome, Italy"
     }
   },
@@ -500,7 +533,9 @@
       "link": "https://eurocrypt.iacr.org/2027/",
       "timeline": [
         {
-          "deadline": "2026-09-17 23:59:59"
+          "deadline": "2026-09-17 23:59:59",
+          "rebuttal_deadline": "2026-12-05 23:59:00",
+          "decision_deadline": "2027-01-18 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -525,7 +560,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-25 23:59:59",
-          "deadline": "2026-12-02 23:59:59"
+          "deadline": "2026-12-02 23:59:59",
+          "rebuttal_deadline": "2027-03-01 23:59:00",
+          "decision_deadline": "2027-03-18 23:59:00"
         }
       ],
       "timezone": "UTC-12",
@@ -550,6 +587,7 @@
       "timeline": [
         {
           "deadline": "2026-09-24 23:59:59",
+          "decision_deadline": "2026-11-12 23:59:00",
           "comment": "Submission deadline"
         }
       ],
@@ -629,6 +667,7 @@
       "timeline": [
         {
           "deadline": "2026-12-15 23:59:59",
+          "decision_deadline": "2027-02-18 23:59:00",
           "comment": "Full Paper Submission deadline"
         }
       ],
@@ -683,6 +722,7 @@
       "timeline": [
         {
           "deadline": "2026-10-10 23:59:59",
+          "decision_deadline": "2026-11-10 23:59:00",
           "comment": "Submission Deadline"
         }
       ],
@@ -707,8 +747,7 @@
       "link": "https://www.ihmmsec.org/cms/home/home2026.html",
       "timeline": [
         {
-          "deadline": "TBD",
-          "comment": "Regular full-paper deadline extended to March 2, 2026; exact time and timezone not published."
+          "deadline": "2026-03-02 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -807,10 +846,13 @@
       "timeline": [
         {
           "deadline": "2026-05-06 23:59:59",
+          "decision_deadline": "2026-09-16 23:59:00",
           "comment": "Summer"
         },
         {
           "deadline": "2026-08-19 23:59:59",
+          "rebuttal_deadline": "2026-11-13 23:59:00",
+          "decision_deadline": "2027-01-11 23:59:00",
           "comment": "Fall"
         }
       ],
@@ -909,18 +951,22 @@
       "timeline": [
         {
           "deadline": "2026-05-31 23:59:59",
+          "rebuttal_deadline": "2026-07-17 23:59:59",
           "comment": "Issue 1 Paper Submission Deadline"
         },
         {
           "deadline": "2026-08-31 23:59:59",
+          "rebuttal_deadline": "2026-10-18 23:59:59",
           "comment": "Issue 2 Paper Submission Deadline"
         },
         {
           "deadline": "2026-11-30 23:59:59",
+          "rebuttal_deadline": "2027-01-18 23:59:59",
           "comment": "Issue 3 Paper Submission Deadline"
         },
         {
           "deadline": "2027-02-28 23:59:59",
+          "rebuttal_deadline": "2027-04-16 23:59:59",
           "comment": "Issue 4 Paper Submission Deadline"
         }
       ],
@@ -973,7 +1019,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 11-14, 2026",
+      "date": "October 12-14, 2026",
       "place": "Lancaster, UK"
     }
   },
@@ -994,11 +1040,11 @@
       "timeline": [
         {
           "deadline": "2026-02-02 23:59:59",
-          "comment": "Paper submission deadline (cycle 1)"
+          "comment": "Cycle 1"
         },
         {
           "deadline": "2026-05-11 23:59:59",
-          "comment": "Paper submission deadline (cycle 2)"
+          "comment": "Cycle 2"
         }
       ],
       "timezone": "AoE",
@@ -1052,7 +1098,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-09-22 23:59:59",
-          "deadline": "2026-09-29 23:59:59"
+          "deadline": "2026-09-29 23:59:59",
+          "rebuttal_deadline": "2026-12-09 23:59:00",
+          "decision_deadline": "2027-02-01 23:59:00"
         }
       ],
       "timezone": "UTC-12",
@@ -1101,10 +1149,12 @@
       "timeline": [
         {
           "deadline": "2027-02-01 23:59:59",
+          "decision_deadline": "2027-03-15 23:59:00",
           "comment": "Full Paper Submission deadline (Cycle 1)"
         },
         {
           "deadline": "2027-04-15 23:59:59",
+          "decision_deadline": "2027-06-01 23:59:00",
           "comment": "Full Paper Submission deadline (Cycle 2)"
         }
       ],
@@ -1155,11 +1205,15 @@
         {
           "abstract_deadline": "2026-06-04 23:59:59",
           "deadline": "2026-06-11 23:59:59",
+          "rebuttal_deadline": "2026-08-27 23:59:59",
+          "decision_deadline": "2026-09-11 23:59:59",
           "comment": "First Paper submission deadline"
         },
         {
           "abstract_deadline": "2026-11-10 23:59:59",
           "deadline": "2026-11-17 23:59:59",
+          "rebuttal_deadline": "2027-02-16 23:59:59",
+          "decision_deadline": "2027-03-05 23:59:59",
           "comment": "Second Paper submission deadline"
         }
       ],
@@ -1185,7 +1239,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-05-01 23:59:59",
-          "deadline": "2026-05-08 23:59:59"
+          "deadline": "TBD",
+          "comment": "Full-paper dates conflict between CFP and submission system"
         }
       ],
       "timezone": "AoE",
@@ -1260,11 +1315,13 @@
         {
           "abstract_deadline": "2026-08-18 23:59:59",
           "deadline": "2026-08-25 23:59:59",
+          "rebuttal_deadline": "2026-11-12 23:59:00",
           "comment": "Cycle 1 Deadline"
         },
         {
           "abstract_deadline": "2027-01-19 23:59:59",
           "deadline": "2027-01-26 23:59:59",
+          "rebuttal_deadline": "2027-04-15 23:59:00",
           "comment": "Cycle 2 Deadline"
         }
       ],
@@ -1290,15 +1347,15 @@
       "timeline": [
         {
           "deadline": "2025-11-18 23:59:59",
-          "comment": "First Cycle deadline"
+          "comment": "Round 1"
         },
         {
           "deadline": "2026-03-03 23:59:59",
-          "comment": "Second Cycle deadline"
+          "comment": "Round 2"
         }
       ],
       "timezone": "AoE",
-      "date": "June 30 - July 3, 2026",
+      "date": "June 30 - July 2, 2026",
       "place": "Saarbrücken, Germany"
     }
   }

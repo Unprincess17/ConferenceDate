@@ -75,7 +75,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "June 8-12, 2026",
+      "date": "June 9-11, 2026",
       "place": "Urbino, Italy"
     }
   },
@@ -119,7 +119,9 @@
       "link": "https://conferences.sigcomm.org/hotnets/2026/",
       "timeline": [
         {
-          "deadline": "2026-07-16 23:59:59"
+          "abstract_deadline": "2026-07-16 23:59:58",
+          "deadline": "2026-07-16 23:59:59",
+          "comment": "Registration / full paper"
         }
       ],
       "timezone": "UTC-12",
@@ -143,10 +145,10 @@
       "link": "https://icc2027.ieee-icc.org",
       "timeline": [
         {
-          "deadline": "2026-10-02 23:59:59"
+          "deadline": "2026-10-16 23:59:59"
         }
       ],
-      "timezone": "UTC-4",
+      "timezone": "UTC-7",
       "date": "May 30 - June 3, 2027",
       "place": "Washington, DC, USA"
     }
@@ -197,7 +199,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 5-8, 2026",
+      "date": "October 6-8, 2026",
       "place": "Tempe, Arizona, USA"
     }
   },
@@ -271,7 +273,7 @@
         }
       ],
       "timezone": "UTC-12",
-      "date": "May 13-16, 2024",
+      "date": "May 14-16, 2024",
       "place": "Hong Kong, China"
     }
   },
@@ -291,12 +293,11 @@
       "link": "https://ieee-iscc.computer.org/2026/",
       "timeline": [
         {
-          "deadline": "TBD",
-          "comment": "Paper submission: February 27, 2026 (firm); exact time and timezone not published"
+          "deadline": "2026-02-27 23:59:00"
         }
       ],
-      "timezone": "UTC+0",
-      "date": "June 23-26, 2026",
+      "timezone": "AoE",
+      "date": "June 24-26, 2026",
       "place": "Vilamoura, Algarve, Portugal"
     }
   },
@@ -321,7 +322,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "29 June - 2 July, 2026",
+      "date": "June 30 - July 2, 2026",
       "place": "Istanbul, Türkiye"
     }
   },
@@ -341,7 +342,9 @@
       "link": "https://www.ieeelcn.org/",
       "timeline": [
         {
-          "deadline": "2026-05-04 23:59:59"
+          "abstract_deadline": "2026-05-04 23:59:00",
+          "deadline": "2026-05-04 23:59:59",
+          "comment": "Registration / full paper"
         }
       ],
       "timezone": "AoE",
@@ -372,6 +375,7 @@
         {
           "abstract_deadline": "2026-11-12 23:59:59",
           "deadline": "2026-11-19 23:59:59",
+          "decision_deadline": "2026-12-22 23:59:00",
           "comment": "Research Track - Second Round"
         }
       ],
@@ -398,6 +402,7 @@
         {
           "abstract_deadline": "2026-08-26 23:59:59",
           "deadline": "2026-09-02 23:59:59",
+          "rebuttal_deadline": "2026-11-06 23:59:00",
           "comment": "Summer Deadlines"
         }
       ],
@@ -423,11 +428,12 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-13 23:59:59",
-          "deadline": "2026-04-20 23:59:59"
+          "deadline": "TBD",
+          "comment": "Registration per CFP; full cutoff unresolved"
         }
       ],
       "timezone": "AoE",
-      "date": "November 23-26, 2026",
+      "date": "November 23-25, 2026",
       "place": "Tokyo, Japan"
     }
   },
@@ -448,7 +454,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-11-27 23:59:59",
-          "deadline": "2026-12-04 23:59:59"
+          "deadline": "2026-12-04 23:59:59",
+          "rebuttal_deadline": "2027-02-12 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -496,11 +503,12 @@
       "link": "https://mswimconf.com/2026/",
       "timeline": [
         {
-          "deadline": "2026-06-01 23:59:59"
+          "abstract_deadline": "2026-06-14 23:59:00",
+          "deadline": "2026-06-15 23:59:00"
         }
       ],
-      "timezone": "UTC+1",
-      "date": "October 26-30, 2026",
+      "timezone": "AoE",
+      "date": "October 27-29, 2026",
       "place": "Paris, France"
     }
   },
@@ -524,7 +532,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "May 24-27, 2026",
+      "date": "May 25-27, 2026",
       "place": "Lugano, Switzerland"
     }
   },
@@ -544,7 +552,8 @@
       "link": "https://nossdav.org/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "deadline": "2027-01-11 23:59:00",
+          "decision_deadline": "2027-02-01 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -623,11 +632,13 @@
         {
           "abstract_deadline": "2026-05-29 23:59:00",
           "deadline": "2026-06-05 23:59:00",
+          "decision_deadline": "2026-08-31 23:59:00",
           "comment": "1st deadline"
         },
         {
           "abstract_deadline": "2026-10-29 23:59:00",
           "deadline": "2026-11-05 23:59:00",
+          "decision_deadline": "2027-01-28 23:59:00",
           "comment": "2nd deadline"
         }
       ],
@@ -681,7 +692,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "June 26-29, 2026",
+      "date": "June 27-28, 2026",
       "place": "Xi'an, China"
     }
   },
@@ -701,8 +712,8 @@
       "link": "https://wcnc2027.ieee-wcnc.org/",
       "timeline": [
         {
-          "deadline": "TBD",
-          "comment": "Technical paper deadline: September 15, 2026; exact cutoff time and timezone not specified on the official IEEE ComSoc event page"
+          "deadline": "2026-09-15 23:59:00",
+          "comment": "Technical papers; official IEEE ComSoc calendar date. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision."
         }
       ],
       "timezone": "AoE",
@@ -731,7 +742,7 @@
       ],
       "timezone": "UTC+0",
       "date": "December 2-4, 2026",
-      "place": "Bratislava, Slovakia"
+      "place": "Bratislava, Slovakia (Hybrid)"
     }
   },
   {
@@ -750,7 +761,8 @@
       "link": "https://wowmom2027.dii.unipi.it/index.html",
       "timeline": [
         {
-          "deadline": "2026-12-01 23:59:59"
+          "deadline": "2026-12-01 23:59:59",
+          "decision_deadline": "2027-02-10 23:59:00"
         }
       ],
       "timezone": "AoE",

@@ -40,7 +40,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-07-13 23:59:59",
-          "deadline": "2026-07-20 23:59:59"
+          "deadline": "2026-07-20 23:59:59",
+          "comment": "Optional abstract"
         }
       ],
       "timezone": "AoE",
@@ -64,11 +65,12 @@
       "link": "https://conf.researchr.org/home/ase-2026",
       "timeline": [
         {
-          "deadline": "2026-03-26 23:59:59"
+          "deadline": "2026-03-26 23:59:59",
+          "comment": "March 30 updates only"
         }
       ],
       "timezone": "AoE",
-      "date": "October 12 - 16, 2026",
+      "date": "October 13-15, 2026",
       "place": "Munich, Germany"
     }
   },
@@ -113,7 +115,9 @@
       "link": "https://deal.us.es/caise27/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "abstract_deadline": "2026-11-04 23:59:00",
+          "deadline": "2026-11-15 23:59:00",
+          "decision_deadline": "2027-02-10 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -137,7 +141,8 @@
       "link": "https://ieeecompsac.computer.org/2027/",
       "timeline": [
         {
-          "deadline": "2027-01-31 23:59:59"
+          "deadline": "2027-01-31 23:59:59",
+          "decision_deadline": "2027-04-07 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -188,6 +193,7 @@
         {
           "abstract_deadline": "2027-01-15 23:59:59",
           "deadline": "2027-01-22 23:59:59",
+          "decision_deadline": "2027-03-12 23:59:00",
           "comment": "Research Papers"
         }
       ],
@@ -213,10 +219,12 @@
       "timeline": [
         {
           "deadline": "2026-11-19 23:59:59",
+          "rebuttal_deadline": "2027-01-15 23:59:00",
           "comment": "Submission R1"
         },
         {
           "deadline": "2027-02-11 23:59:59",
+          "rebuttal_deadline": "2027-03-26 23:59:00",
           "comment": "Submission R2"
         }
       ],
@@ -246,7 +254,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 4 - 9, 2026",
+      "date": "October 8-9, 2026",
       "place": "München, Germany"
     }
   },
@@ -267,10 +275,13 @@
       "timeline": [
         {
           "deadline": "2026-05-28 23:59:59",
+          "rebuttal_deadline": "2026-07-22 23:59:00",
+          "decision_deadline": "2026-08-06 23:59:00",
           "comment": "ESOP round 1"
         },
         {
           "deadline": "2026-10-15 23:59:59",
+          "decision_deadline": "2026-12-22 23:59:00",
           "comment": "ESOP round 2, FoSSaCS, TACAS, iFS"
         }
       ],
@@ -319,7 +330,9 @@
       "link": "https://conf.researchr.org/home/fse-2027",
       "timeline": [
         {
-          "deadline": "2026-10-02 23:59:59"
+          "deadline": "2026-10-02 23:59:59",
+          "rebuttal_deadline": "2026-12-18 23:59:00",
+          "decision_deadline": "2027-03-31 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -343,7 +356,8 @@
       "link": "https://sigops.org/s/conferences/hotos/2027/",
       "timeline": [
         {
-          "deadline": "TBD"
+          "deadline": "2027-02-01 23:59:00",
+          "decision_deadline": "2027-04-09 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -367,8 +381,8 @@
       "link": "https://formal-analysis.com/iceccs/2026/",
       "timeline": [
         {
-          "deadline": "2026-07-20 23:59:59",
-          "comment": "Abstract and full paper submission"
+          "abstract_deadline": "2026-07-20 23:59:00",
+          "deadline": "2026-07-20 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -392,11 +406,12 @@
       "link": "https://icfem2026.github.io/",
       "timeline": [
         {
+          "abstract_deadline": "2026-06-22 23:59:00",
           "deadline": "2026-06-22 23:59:59"
         }
       ],
       "timezone": "AoE",
-      "date": "November 17-20, 2026",
+      "date": "November 18-20, 2026",
       "place": "Southampton, UK"
     }
   },
@@ -416,7 +431,9 @@
       "link": "https://icfp27.sigplan.org/",
       "timeline": [
         {
-          "deadline": "2027-02-25 23:59:59"
+          "deadline": "2027-02-25 23:59:59",
+          "rebuttal_deadline": "2027-04-22 23:59:00",
+          "decision_deadline": "2027-06-11 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -441,7 +458,8 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-29 23:59:59",
-          "deadline": "2026-11-05 23:59:59"
+          "deadline": "2026-11-05 23:59:59",
+          "decision_deadline": "2027-01-14 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -467,6 +485,8 @@
         {
           "abstract_deadline": "2026-06-23 23:59:59",
           "deadline": "2026-06-30 23:59:59",
+          "rebuttal_deadline": "2026-09-25 23:59:59",
+          "decision_deadline": "2026-12-18 23:59:59",
           "comment": "Single Submission Cycle Deadline"
         }
       ],
@@ -492,6 +512,8 @@
       "timeline": [
         {
           "deadline": "2027-03-05 23:59:59",
+          "rebuttal_deadline": "2027-05-07 23:59:00",
+          "decision_deadline": "2027-05-28 23:59:00",
           "comment": "Research Papers Track"
         }
       ],
@@ -517,12 +539,12 @@
       "timeline": [
         {
           "deadline": "2026-05-10 23:59:59",
-          "comment": "Early paper submissions"
+          "comment": "Early round"
         },
         {
           "abstract_deadline": "2026-07-12 23:59:59",
           "deadline": "2026-07-19 23:59:59",
-          "comment": "Regular papers"
+          "comment": "Regular round"
         }
       ],
       "timezone": "AoE",
@@ -546,7 +568,8 @@
       "link": "https://conf.researchr.org/home/icst-2027",
       "timeline": [
         {
-          "deadline": "2026-11-02 23:59:59"
+          "deadline": "2026-11-02 23:59:59",
+          "decision_deadline": "2027-02-20 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -630,7 +653,7 @@
         }
       ],
       "timezone": "UTC-5",
-      "date": "April 26-28, 2026",
+      "date": "April 27-28, 2026",
       "place": "Seoul, South Korea"
     }
   },
@@ -675,7 +698,9 @@
       "timeline": [
         {
           "abstract_deadline": "2027-01-08 23:59:59",
-          "deadline": "2027-01-11 23:59:59"
+          "deadline": "2027-01-11 23:59:59",
+          "rebuttal_deadline": "2027-03-25 23:59:00",
+          "decision_deadline": "2027-06-17 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -700,8 +725,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-03-13 23:59:59",
-          "deadline": "2026-03-20 23:59:59",
-          "comment": "Extended deadlines"
+          "deadline": "2026-03-20 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -761,7 +785,7 @@
         }
       ],
       "timezone": "AoE",
-      "date": "October 4-9, 2026",
+      "date": "October 7-9, 2026",
       "place": "Málaga, Spain"
     }
   },
@@ -782,7 +806,9 @@
       "timeline": [
         {
           "abstract_deadline": "2026-10-20 23:59:59",
-          "deadline": "2026-10-23 23:59:59"
+          "deadline": "2026-10-23 23:59:59",
+          "rebuttal_deadline": "2026-12-08 23:59:00",
+          "decision_deadline": "2027-01-08 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -807,10 +833,14 @@
       "timeline": [
         {
           "deadline": "2026-10-14 23:59:59",
+          "rebuttal_deadline": "2026-12-05 23:59:00",
+          "decision_deadline": "2027-02-12 23:59:00",
           "comment": "Submission Deadline Round 1"
         },
         {
           "deadline": "2027-04-07 23:59:59",
+          "rebuttal_deadline": "2027-06-19 23:59:00",
+          "decision_deadline": "2027-08-13 23:59:00",
           "comment": "Submission Deadline Round 2"
         }
       ],
@@ -882,7 +912,9 @@
       "link": "https://pldi27.sigplan.org/",
       "timeline": [
         {
-          "deadline": "2026-11-12 23:59:59"
+          "deadline": "2026-11-12 23:59:59",
+          "rebuttal_deadline": "2027-02-18 23:59:00",
+          "decision_deadline": "2027-04-01 23:59:00"
         }
       ],
       "timezone": "AoE",
@@ -907,6 +939,8 @@
       "timeline": [
         {
           "deadline": "2026-07-09 23:59:59",
+          "rebuttal_deadline": "2026-09-10 23:59:00",
+          "decision_deadline": "2026-11-09 23:59:00",
           "comment": "Submission Deadline"
         }
       ],
@@ -932,8 +966,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-08 23:59:59",
-          "deadline": "2026-04-22 23:59:59",
-          "comment": "Regular papers (extended)"
+          "deadline": "2026-04-22 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -983,6 +1016,7 @@
         {
           "abstract_deadline": "2026-11-05 23:59:59",
           "deadline": "2026-11-12 23:59:59",
+          "decision_deadline": "2027-01-14 23:59:00",
           "comment": "Regular research papers; abstract submission is optional"
         }
       ],
@@ -1033,6 +1067,7 @@
         {
           "abstract_deadline": "2026-09-21 23:59:59",
           "deadline": "2026-09-25 23:59:59",
+          "decision_deadline": "2026-12-01 23:59:00",
           "comment": "Research Track Paper submission deadline"
         }
       ],
@@ -1082,8 +1117,7 @@
       "link": "https://conf.researchr.org/home/scam-2026",
       "timeline": [
         {
-          "deadline": "2026-06-11 23:59:59",
-          "comment": "co-located with ICSME 2026"
+          "deadline": "2026-06-11 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1108,7 +1142,7 @@
       "timeline": [
         {
           "deadline": "2026-05-10 23:59:59",
-          "comment": "Regular papers; midnight EST"
+          "comment": "CFP and proceedings event dates conflict"
         }
       ],
       "timezone": "UTC-5",
@@ -1132,12 +1166,12 @@
       "link": "https://sigops.org/s/conferences/sosp/2026/index.html",
       "timeline": [
         {
-          "abstract_deadline": "2026-03-26 23:59:59",
-          "deadline": "2026-04-01 23:59:59"
+          "abstract_deadline": "2026-03-26 23:59:00",
+          "deadline": "2026-04-01 23:59:00"
         }
       ],
       "timezone": "AoE",
-      "date": "September 29 - October 2, 2026",
+      "date": "September 30 - October 2, 2026",
       "place": "Clarion Congress Hotel Prague, Prague, Czechia"
     }
   },
@@ -1157,8 +1191,7 @@
       "link": "https://services.conferences.computer.org/2026/sse/",
       "timeline": [
         {
-          "deadline": "2026-03-22 23:59:59",
-          "comment": "Extended and firm paper submission deadline"
+          "deadline": "2026-03-22 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1183,8 +1216,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-03-01 23:59:59",
-          "deadline": "2026-03-07 23:59:59",
-          "comment": "Extended deadlines"
+          "deadline": "2026-03-07 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1213,6 +1245,7 @@
         },
         {
           "deadline": "2026-09-30 23:59:59",
+          "decision_deadline": "2026-11-06 23:59:00",
           "comment": "Paper Submission"
         }
       ],
