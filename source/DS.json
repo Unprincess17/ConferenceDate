@@ -40,8 +40,8 @@
       "link": "https://apsys26.github.io/",
       "timeline": [
         {
-          "abstract_deadline": "2026-05-13 23:59:00",
-          "deadline": "2026-05-20 23:59:00"
+          "abstract_deadline": "2026-05-13 23:59:59",
+          "deadline": "2026-05-20 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -93,7 +93,7 @@
         {
           "abstract_deadline": "2026-07-11 17:00:00",
           "deadline": "2026-07-18 17:00:00",
-          "decision_deadline": "2026-09-04 23:59:00"
+          "decision_deadline": "2026-09-04 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -118,12 +118,12 @@
       "timeline": [
         {
           "deadline": "2026-04-15 23:59:59",
-          "rebuttal_deadline": "2026-07-09 23:59:00",
+          "rebuttal_deadline": "2026-07-09 23:59:59",
           "comment": "April Cycle Submission Deadline"
         },
         {
           "deadline": "2026-09-09 23:59:59",
-          "rebuttal_deadline": "2026-12-04 23:59:00",
+          "rebuttal_deadline": "2026-12-04 23:59:59",
           "comment": "September Cycle Submission Deadline"
         }
       ],
@@ -198,7 +198,7 @@
         {
           "abstract_deadline": "2026-11-24 23:59:59",
           "deadline": "2026-12-01 23:59:59",
-          "decision_deadline": "2027-02-01 23:59:00"
+          "decision_deadline": "2027-02-01 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -248,7 +248,7 @@
       "timeline": [
         {
           "deadline": "2026-06-11 23:59:59",
-          "rebuttal_deadline": "2026-07-23 23:59:00",
+          "rebuttal_deadline": "2026-07-23 23:59:59",
           "comment": "First Submission"
         },
         {
@@ -353,7 +353,7 @@
         {
           "abstract_deadline": "2026-09-13 23:59:59",
           "deadline": "2026-09-20 23:59:59",
-          "decision_deadline": "2026-11-23 23:59:00"
+          "decision_deadline": "2026-11-23 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -377,9 +377,9 @@
       "link": "https://www.ets2027.co.uk/",
       "timeline": [
         {
-          "abstract_deadline": "2026-12-08 23:59:00",
-          "deadline": "2026-12-15 23:59:00",
-          "comment": "Regular papers; official CFP dates. Clock 23:59:00 and timezone AoE are repository defaults, not published cutoff precision."
+          "abstract_deadline": "2026-12-08 23:59:59",
+          "deadline": "2026-12-15 23:59:59",
+          "comment": "Regular papers; official CFP dates. Clock 23:59:59 and timezone AoE are repository defaults, not published cutoff precision."
         }
       ],
       "timezone": "AoE",
@@ -430,13 +430,13 @@
         {
           "abstract_deadline": "2026-05-07 23:59:59",
           "deadline": "2026-05-14 23:59:59",
-          "rebuttal_deadline": "2026-07-31 23:59:00",
+          "rebuttal_deadline": "2026-07-31 23:59:59",
           "comment": "Spring Submission Deadline"
         },
         {
           "abstract_deadline": "2026-09-17 23:59:59",
           "deadline": "2026-09-24 23:59:59",
-          "rebuttal_deadline": "2027-01-08 23:59:00",
+          "rebuttal_deadline": "2027-01-08 23:59:59",
           "comment": "Fall Submission Deadline"
         }
       ],
@@ -461,13 +461,13 @@
       "link": "https://www.usenix.org/conference/fast27",
       "timeline": [
         {
-          "deadline": "2026-03-17 23:59:00",
-          "rebuttal_deadline": "2026-05-20 23:59:00",
+          "deadline": "2026-03-17 23:59:59",
+          "rebuttal_deadline": "2026-05-20 23:59:59",
           "comment": "Spring deadline"
         },
         {
-          "deadline": "2026-09-15 23:59:00",
-          "rebuttal_deadline": "2026-11-19 23:59:00",
+          "deadline": "2026-09-15 23:59:59",
+          "rebuttal_deadline": "2026-11-19 23:59:59",
           "comment": "Fall deadline"
         }
       ],
@@ -519,8 +519,8 @@
         {
           "abstract_deadline": "2026-10-01 23:59:59",
           "deadline": "2026-10-08 23:59:59",
-          "rebuttal_deadline": "2026-11-15 23:59:00",
-          "decision_deadline": "2026-11-24 23:59:00"
+          "rebuttal_deadline": "2026-11-15 23:59:59",
+          "decision_deadline": "2026-11-24 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -544,7 +544,7 @@
       "link": "https://fpt2026.uark.edu",
       "timeline": [
         {
-          "deadline": "2026-05-01 23:59:00",
+          "deadline": "2026-05-01 23:59:59",
           "comment": "Journal track"
         },
         {
@@ -574,7 +574,7 @@
       "link": "https://www.glsvlsi.org/",
       "timeline": [
         {
-          "deadline": "2026-03-23 23:59:00"
+          "deadline": "2026-03-23 23:59:59"
         }
       ],
       "timezone": "UTC-5",
@@ -645,7 +645,7 @@
       "link": "https://www.hotstorage.org/2026/",
       "timeline": [
         {
-          "deadline": "2026-06-12 23:59:00"
+          "deadline": "2026-06-12 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -671,8 +671,8 @@
         {
           "abstract_deadline": "2026-07-24 23:59:59",
           "deadline": "2026-07-31 23:59:59",
-          "rebuttal_deadline": "2026-10-11 23:59:00",
-          "decision_deadline": "2026-11-06 23:59:00"
+          "rebuttal_deadline": "2026-10-11 23:59:59",
+          "decision_deadline": "2026-11-06 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -720,8 +720,8 @@
       "link": "https://hpdc.sci.utah.edu/2026/",
       "timeline": [
         {
-          "abstract_deadline": "2026-01-29 23:59:00",
-          "deadline": "2026-02-05 23:59:00"
+          "abstract_deadline": "2026-01-29 23:59:59",
+          "deadline": "2026-02-05 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -745,7 +745,7 @@
       "link": "https://hpcn.exeter.ac.uk/ica3pp2026/",
       "timeline": [
         {
-          "deadline": "2026-07-25 23:59:00"
+          "deadline": "2026-07-25 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -794,8 +794,8 @@
       "link": "https://www.iccd-conf.com/2026/home.html",
       "timeline": [
         {
-          "abstract_deadline": "2026-06-03 23:59:00",
-          "deadline": "2026-06-10 23:59:00"
+          "abstract_deadline": "2026-06-03 23:59:59",
+          "deadline": "2026-06-10 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -843,7 +843,7 @@
       "link": "https://www.cloud-conf.net/icpads2026",
       "timeline": [
         {
-          "deadline": "2026-08-15 23:59:00"
+          "deadline": "2026-08-15 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -892,9 +892,9 @@
       "link": "https://ics-conference.org/index.html",
       "timeline": [
         {
-          "abstract_deadline": "2026-12-01 23:59:00",
-          "deadline": "2026-12-07 23:59:00",
-          "decision_deadline": "2027-03-12 23:59:00"
+          "abstract_deadline": "2026-12-01 23:59:59",
+          "deadline": "2026-12-07 23:59:59",
+          "decision_deadline": "2027-03-12 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -945,8 +945,8 @@
         {
           "abstract_deadline": "2026-10-01 23:59:59",
           "deadline": "2026-10-08 23:59:59",
-          "rebuttal_deadline": "2026-12-03 23:59:00",
-          "decision_deadline": "2027-02-02 23:59:00"
+          "rebuttal_deadline": "2026-12-03 23:59:59",
+          "decision_deadline": "2027-02-02 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1042,7 +1042,7 @@
         {
           "abstract_deadline": "2026-09-21 23:59:59",
           "deadline": "2026-09-28 23:59:59",
-          "decision_deadline": "2026-11-05 23:59:00"
+          "decision_deadline": "2026-11-05 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1066,8 +1066,8 @@
       "link": "https://www.castest.com.cn/itcasia_2026",
       "timeline": [
         {
-          "abstract_deadline": "2026-04-25 23:59:00",
-          "deadline": "2026-05-02 23:59:00"
+          "abstract_deadline": "2026-04-25 23:59:59",
+          "deadline": "2026-05-02 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1342,7 +1342,7 @@
       "timeline": [
         {
           "deadline": "2026-08-03 23:59:59",
-          "decision_deadline": "2026-10-26 23:59:00"
+          "decision_deadline": "2026-10-26 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1367,7 +1367,7 @@
       "timeline": [
         {
           "deadline": "2026-11-05 23:59:59",
-          "rebuttal_deadline": "2027-01-15 23:59:00",
+          "rebuttal_deadline": "2027-01-15 23:59:59",
           "comment": "Submission Deadline (Firm)"
         }
       ],
@@ -1393,7 +1393,7 @@
       "timeline": [
         {
           "abstract_deadline": "2026-04-01 23:59:59",
-          "deadline": "2026-04-08 23:59:00"
+          "deadline": "2026-04-08 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -1442,18 +1442,18 @@
       "link": "https://www.sigmetrics.org/sigmetrics2027/",
       "timeline": [
         {
-          "abstract_deadline": "2026-07-03 23:59:00",
-          "deadline": "2026-07-10 23:59:00",
+          "abstract_deadline": "2026-07-03 23:59:59",
+          "deadline": "2026-07-10 23:59:59",
           "comment": "summer round"
         },
         {
-          "abstract_deadline": "2026-10-02 23:59:00",
-          "deadline": "2026-10-09 23:59:00",
+          "abstract_deadline": "2026-10-02 23:59:59",
+          "deadline": "2026-10-09 23:59:59",
           "comment": "fall round"
         },
         {
-          "abstract_deadline": "2027-01-04 23:59:00",
-          "deadline": "2027-01-11 23:59:00",
+          "abstract_deadline": "2027-01-04 23:59:59",
+          "deadline": "2027-01-11 23:59:59",
           "comment": "winter round"
         }
       ],
@@ -1511,14 +1511,14 @@
         {
           "abstract_deadline": "2026-09-18 23:59:59",
           "deadline": "2026-09-25 23:59:59",
-          "rebuttal_deadline": "2026-11-18 23:59:00",
-          "decision_deadline": "2026-12-05 23:59:00",
+          "rebuttal_deadline": "2026-11-18 23:59:59",
+          "decision_deadline": "2026-12-05 23:59:59",
           "comment": "Cycle 1"
         },
         {
           "abstract_deadline": "2027-01-22 23:59:59",
           "deadline": "2027-01-29 23:59:59",
-          "rebuttal_deadline": "2027-03-24 23:59:00",
+          "rebuttal_deadline": "2027-03-24 23:59:59",
           "comment": "Cycle 2"
         }
       ],

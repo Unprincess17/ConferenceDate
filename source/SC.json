@@ -45,12 +45,12 @@
       "timeline": [
         {
           "deadline": "2026-09-24 23:59:59",
-          "decision_deadline": "2026-11-26 23:59:00",
+          "decision_deadline": "2026-11-26 23:59:59",
           "comment": "Cycle 1 Submission deadline"
         },
         {
           "deadline": "2027-01-21 23:59:59",
-          "decision_deadline": "2027-03-25 23:59:00",
+          "decision_deadline": "2027-03-25 23:59:59",
           "comment": "Cycle 2 Submission deadline"
         }
       ],
@@ -100,12 +100,12 @@
       "timeline": [
         {
           "deadline": "2026-08-21 23:59:59",
-          "rebuttal_deadline": "2026-10-30 23:59:00",
+          "rebuttal_deadline": "2026-10-30 23:59:59",
           "comment": "1st round Deadline"
         },
         {
           "deadline": "2026-12-11 23:59:59",
-          "rebuttal_deadline": "2027-03-12 23:59:00",
+          "rebuttal_deadline": "2027-03-12 23:59:59",
           "comment": "2nd round Deadline"
         }
       ],
@@ -239,7 +239,7 @@
       "link": "https://cns2026.ieee-cns.org/",
       "timeline": [
         {
-          "deadline": "2026-05-18 23:59:00"
+          "deadline": "2026-05-18 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -265,8 +265,8 @@
         {
           "abstract_deadline": "2026-11-16 23:59:59",
           "deadline": "2026-11-23 23:59:59",
-          "rebuttal_deadline": "2027-01-22 23:59:00",
-          "decision_deadline": "2027-01-25 23:59:00"
+          "rebuttal_deadline": "2027-01-22 23:59:59",
+          "decision_deadline": "2027-01-25 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -314,7 +314,7 @@
       "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/",
       "timeline": [
         {
-          "deadline": "2026-09-15 23:59:00"
+          "deadline": "2026-09-15 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -423,7 +423,7 @@
         {
           "abstract_deadline": "2026-10-02 23:59:59",
           "deadline": "2026-10-09 23:59:59",
-          "decision_deadline": "2026-12-04 23:59:00",
+          "decision_deadline": "2026-12-04 23:59:59",
           "comment": "Extended deadlines"
         }
       ],
@@ -479,8 +479,8 @@
         {
           "abstract_deadline": "2026-11-25 23:59:59",
           "deadline": "2026-12-02 23:59:59",
-          "rebuttal_deadline": "2027-02-26 23:59:00",
-          "decision_deadline": "2027-03-18 23:59:00"
+          "rebuttal_deadline": "2027-02-26 23:59:59",
+          "decision_deadline": "2027-03-18 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -534,8 +534,8 @@
       "timeline": [
         {
           "deadline": "2026-09-17 23:59:59",
-          "rebuttal_deadline": "2026-12-05 23:59:00",
-          "decision_deadline": "2027-01-18 23:59:00"
+          "rebuttal_deadline": "2026-12-05 23:59:59",
+          "decision_deadline": "2027-01-18 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -561,8 +561,8 @@
         {
           "abstract_deadline": "2026-11-25 23:59:59",
           "deadline": "2026-12-02 23:59:59",
-          "rebuttal_deadline": "2027-03-01 23:59:00",
-          "decision_deadline": "2027-03-18 23:59:00"
+          "rebuttal_deadline": "2027-03-01 23:59:59",
+          "decision_deadline": "2027-03-18 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -587,7 +587,7 @@
       "timeline": [
         {
           "deadline": "2026-09-24 23:59:59",
-          "decision_deadline": "2026-11-12 23:59:00",
+          "decision_deadline": "2026-11-12 23:59:59",
           "comment": "Submission deadline"
         }
       ],
@@ -667,7 +667,7 @@
       "timeline": [
         {
           "deadline": "2026-12-15 23:59:59",
-          "decision_deadline": "2027-02-18 23:59:00",
+          "decision_deadline": "2027-02-18 23:59:59",
           "comment": "Full Paper Submission deadline"
         }
       ],
@@ -722,7 +722,7 @@
       "timeline": [
         {
           "deadline": "2026-10-10 23:59:59",
-          "decision_deadline": "2026-11-10 23:59:00",
+          "decision_deadline": "2026-11-10 23:59:59",
           "comment": "Submission Deadline"
         }
       ],
@@ -747,7 +747,7 @@
       "link": "https://www.ihmmsec.org/cms/home/home2026.html",
       "timeline": [
         {
-          "deadline": "2026-03-02 23:59:00"
+          "deadline": "2026-03-02 23:59:59"
         }
       ],
       "timezone": "AoE",
@@ -846,13 +846,13 @@
       "timeline": [
         {
           "deadline": "2026-05-06 23:59:59",
-          "decision_deadline": "2026-09-16 23:59:00",
+          "decision_deadline": "2026-09-16 23:59:59",
           "comment": "Summer"
         },
         {
           "deadline": "2026-08-19 23:59:59",
-          "rebuttal_deadline": "2026-11-13 23:59:00",
-          "decision_deadline": "2027-01-11 23:59:00",
+          "rebuttal_deadline": "2026-11-13 23:59:59",
+          "decision_deadline": "2027-01-11 23:59:59",
           "comment": "Fall"
         }
       ],
@@ -1099,8 +1099,8 @@
         {
           "abstract_deadline": "2026-09-22 23:59:59",
           "deadline": "2026-09-29 23:59:59",
-          "rebuttal_deadline": "2026-12-09 23:59:00",
-          "decision_deadline": "2027-02-01 23:59:00"
+          "rebuttal_deadline": "2026-12-09 23:59:59",
+          "decision_deadline": "2027-02-01 23:59:59"
         }
       ],
       "timezone": "UTC-12",
@@ -1149,12 +1149,12 @@
       "timeline": [
         {
           "deadline": "2027-02-01 23:59:59",
-          "decision_deadline": "2027-03-15 23:59:00",
+          "decision_deadline": "2027-03-15 23:59:59",
           "comment": "Full Paper Submission deadline (Cycle 1)"
         },
         {
           "deadline": "2027-04-15 23:59:59",
-          "decision_deadline": "2027-06-01 23:59:00",
+          "decision_deadline": "2027-06-01 23:59:59",
           "comment": "Full Paper Submission deadline (Cycle 2)"
         }
       ],
@@ -1315,13 +1315,13 @@
         {
           "abstract_deadline": "2026-08-18 23:59:59",
           "deadline": "2026-08-25 23:59:59",
-          "rebuttal_deadline": "2026-11-12 23:59:00",
+          "rebuttal_deadline": "2026-11-12 23:59:59",
           "comment": "Cycle 1 Deadline"
         },
         {
           "abstract_deadline": "2027-01-19 23:59:59",
           "deadline": "2027-01-26 23:59:59",
-          "rebuttal_deadline": "2027-04-15 23:59:00",
+          "rebuttal_deadline": "2027-04-15 23:59:59",
           "comment": "Cycle 2 Deadline"
         }
       ],
